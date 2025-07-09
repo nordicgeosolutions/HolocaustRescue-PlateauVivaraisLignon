@@ -1,0 +1,71 @@
+﻿latitude,longitude,emotion_value,proportion,emotion_label,average_confidence_score,resolved_name
+21.521757,-77.781167,5,1.0,sadness,0.92,Cuba
+40.7127753,-74.0059728,4,1.0,neutral,0.82,New York City
+40.7644,-73.7741,4,1.0,neutral,0.15,"Bayside, Queens, New York, USA"
+42.624167,3.023333,5,1.0,sadness,0.87,Camp Saint-Cyprien
+42.799072,2.872403,1,1.0,disgust,0.83,Rivesaltes
+43.296482,5.36978,2,1.0,fear,0.89,Marseille
+43.301655,5.444343,3,1.0,joy,0.74,Les Caillols
+43.6043,1.4437,4,1.0,neutral,0.73,Toulouse
+43.7167,0.3667,4,1.0,neutral,0.5,Gers
+44.12454,4.43675,3,1.0,joy,0.92,La Rouvière
+44.6077,1.419,4,1.0,neutral,0.74,Lot (department)
+44.75,4.41667,5,1.0,sadness,0.89,Ardèche
+44.75,4.4167,5,1.0,sadness,0.85,Ardèche
+44.7869,4.7787,4,1.0,neutral,0.62,Le Pouzin (Pont de la Voulte)
+44.8333,4.75,4,1.0,neutral,0.73,Rhône
+44.9175,4.4228,4,1.0,neutral,0.75,Le Cheylard
+44.9333,4.89236,2,1.0,fear,0.88,Valence
+44.9978,4.3841,3,1.0,joy,0.89,Ferme École
+45.0,6.0,4,1.0,neutral,0.65,French Alps
+45.017473,4.388367,4,1.0,neutral,0.78,La Bergerie
+45.0204,4.3663,5,1.0,sadness,0.89,Saint-Agrève
+45.028401,4.39024,4,1.0,neutral,0.83,Saint-Agrève
+45.042338,4.233682,4,1.0,neutral,0.77,Fay-sur-Lignon
+45.043853,3.885099,2,1.0,fear,0.97,Le Puy-en-Velay
+45.0572,4.2852,4,1.0,neutral,0.62,Tence
+45.0574,4.3012,4,1.0,neutral,0.68,Les Tavas
+45.0584,4.2962,4,1.0,neutral,0.48,Côteau Fleuri
+45.058454,4.299774,3,1.0,joy,0.83,Le Faïdoli
+45.06081,4.302941,4,0.7777777777777778,neutral,0.788888888888889,"Collège Cévenol, Le Chambon-sur-Lignon"
+45.06081,4.302941,2,0.1111111111111111,fear,0.788888888888889,"Collège Cévenol, Le Chambon-sur-Lignon"
+45.06081,4.302941,5,0.1111111111111111,sadness,0.788888888888889,"Collège Cévenol, Le Chambon-sur-Lignon"
+45.061,4.3,3,1.0,joy,0.87,La Guespy
+45.06115,4.30361,4,1.0,neutral,0.75,Collège Cévenol
+45.06319,4.29994,3,1.0,joy,0.92,Collège Cévenol
+45.0641,4.3251,3,1.0,joy,0.82,La Fayolle
+45.064167,4.302222,3,1.0,joy,0.91,Collège Cévenol
+45.064175,4.293976,3,1.0,joy,0.91,Maison des Roches
+45.078889,4.282222,4,1.0,neutral,0.87,Le Mazet-Saint-Voy
+45.120749,4.235172,4,1.0,neutral,0.7,Saint-Jeures
+45.1333,3.7833,4,0.5,neutral,0.79,Haute-Loire
+45.1333,3.7833,5,0.5,sadness,0.79,Haute-Loire
+45.188529,5.724524,4,1.0,neutral,0.81,Grenoble
+45.4397,4.3872,4,0.75,neutral,0.7725,"Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France"
+45.4397,4.3872,5,0.25,sadness,0.7725,"Saint-Étienne, Loire, Auvergne-Rhône-Alpes, France"
+45.5,3.0,4,1.0,neutral,0.625,Massif Central
+45.75,4.85,4,1.0,neutral,0.78,University of Lyon
+45.7543,4.7992,2,1.0,fear,0.93,La Demi-Lune
+45.764043,4.835659,4,1.0,neutral,0.77,Lyon
+45.771944,4.890278,4,1.0,neutral,0.64,Villeurbanne
+45.833619,1.261105,5,1.0,sadness,0.87,Limoges
+45.8899,6.7136,4,1.0,neutral,0.77,Saint-Gervais-les-Bains
+45.899247,6.129384,4,1.0,neutral,0.83,Annecy
+46.1278,3.4265,4,1.0,neutral,0.65,Vichy
+46.1946,6.23632,2,1.0,fear,0.87,Annemasse
+46.204391,6.143158,2,1.0,fear,0.95,Swiss-French border
+46.2044,6.1432,4,1.0,neutral,0.01,Geneva
+46.5,2.5,4,1.0,neutral,0.69,central France
+46.603354,1.888334,4,1.0,neutral,0.64,France
+47.750839,7.335888,4,1.0,neutral,0.82,Mulhouse
+48.2081743,16.3738189,4,1.0,neutral,0.38,"Vienna, Austria"
+48.5,7.5,4,1.0,neutral,0.5,Alsace-Lorraine
+48.8561441,2.3126193,3,1.0,joy,0.67,7th arrondissement of Paris
+48.9258,2.4451,2,1.0,fear,0.92,Drancy
+49.2,-0.5,4,1.0,neutral,0.73,Normandy
+51.0344,2.3768,4,1.0,neutral,0.65,Dunkirk
+51.1657,10.4515,4,1.0,neutral,0.3,West Germany
+51.919438,19.145136,4,1.0,neutral,0.5,Poland
+52.5200066,13.404954,4,1.0,neutral,0.8,Berlin
+55.169438,23.881275,4,1.0,neutral,0.5,Lithuania
+60.0,105.0,4,1.0,neutral,0.7,Siberia

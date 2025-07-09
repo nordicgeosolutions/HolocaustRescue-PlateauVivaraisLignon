@@ -1,0 +1,92 @@
+﻿latitude,longitude,emotion_value,proportion,emotion_label,average_confidence_score,resolved_name
+36.8065,10.1815,3,1.0,joy,0.87,Tunis
+42.7,0.9,4,1.0,neutral,0.71,Pyrénées
+43.232824,0.077718,4,1.0,neutral,0.79,Tarbes
+43.276099,-0.79945,4,1.0,neutral,0.73,Gurs
+43.296482,5.36978,5,1.0,sadness,0.92,Marseille
+43.307728,-0.764772,4,1.0,neutral,0.67,Camp de Gurs
+43.4329,6.7379,4,1.0,neutral,0.58,Fréjus
+43.604652,1.444209,4,1.0,neutral,0.68,Toulouse
+43.7031,7.2661,4,1.0,neutral,0.79,Côte d'Azur
+43.7034,7.2663,4,1.0,neutral,0.74,Nice
+43.8367,4.3601,4,1.0,neutral,0.67,Nîmes
+43.9266513,5.4308698,4,1.0,neutral,0.63,"Villars, Vaucluse, Provence-Alpes-Côte d'Azur, France"
+43.9481,6.0679,3,1.0,joy,0.96,Provence
+44.1667,3.6667,4,1.0,neutral,0.78,Plateau Cévenol
+44.233333,3.666667,4,1.0,neutral,0.76,Cévennes
+44.25,3.75,4,1.0,neutral,0.73,Cévennes
+44.525603,5.057435,4,1.0,neutral,0.77,Dieulefit
+44.607106,4.084126,4,1.0,neutral,0.71,La Joyeuse
+44.616667,33.525833,4,1.0,neutral,1.0,Sébastopol
+44.75,4.5,4,1.0,neutral,0.64,Ardèche
+44.75,4.75,4,1.0,neutral,0.68,Vallée du Rhône
+44.7684,4.8445,4,1.0,neutral,0.68,Livron-sur-Drôme
+44.8966,4.2601,4,1.0,neutral,0.68,Plateau Vivarais
+44.90833,4.42056,2,1.0,fear,0.88,Le Cheylard
+44.9108,4.1755,4,1.0,neutral,0.78,Mont Mézenc
+44.9219,4.5197,5,1.0,sadness,0.78,"Gorges, Ardèche, Auvergne-Rhône-Alpes, France"
+44.944008,3.099235,2,1.0,fear,0.88,Mont Mouchet
+44.94867,4.31106,3,1.0,joy,0.84,"Saint-Clément, Ardèche, Auvergne-Rhône-Alpes, France"
+44.988165,4.581666,4,1.0,neutral,0.67,Lamastre
+45.0159,4.3885,4,1.0,neutral,0.61,Saint-Agrève
+45.018046,4.407217,5,1.0,sadness,0.89,Saint-Agrève
+45.04306,3.88583,4,1.0,neutral,0.74,Le Puy-en-Velay
+45.0446,3.8857,4,1.0,neutral,0.63,Le Puy-en-Velay
+45.058921,4.304079,3,1.0,joy,0.93,Gare du Chambon-sur-Lignon
+45.0594,4.3047,4,1.0,neutral,0.63,Le Mas de Tence
+45.06081,4.302941,3,0.42857142857142855,joy,0.8171428571428571,"Les Heures Claires, Le Chambon-sur-Lignon, Haute-Loire, France"
+45.06081,4.302941,4,0.42857142857142855,neutral,0.8171428571428571,"Les Heures Claires, Le Chambon-sur-Lignon, Haute-Loire, France"
+45.06081,4.302941,5,0.14285714285714285,sadness,0.8171428571428571,"Les Heures Claires, Le Chambon-sur-Lignon, Haute-Loire, France"
+45.061093,4.298272,3,1.0,joy,0.94,Le Collège Lycée Cévenol International
+45.061186,4.302913,3,1.0,joy,0.92,Collège Cévenol
+45.0618805,4.2968519,3,1.0,joy,0.88,Grillons (Le Chambon-sur-Lignon)
+45.0625,4.2933,3,1.0,joy,0.92,"Le Haut, Chambon-sur-Lignon"
+45.063988,4.307629,4,1.0,neutral,0.77,École Cévenol
+45.0667,4.31667,5,1.0,sadness,0.85,Fay-sur-Lignon
+45.070055,4.308255,3,1.0,joy,0.87,Le Mazelgirard
+45.0833,3.9167,4,1.0,neutral,0.79,Haute-Loire
+45.0833,4.2667,4,1.0,neutral,0.68,Mazet-Saint-Voy
+45.09003,3.97267,5,1.0,sadness,0.85,Les Digons
+45.1333,3.75,4,1.0,neutral,0.74,Haute-Loire
+45.1439,4.1225,2,1.0,fear,0.88,Yssingeaux
+45.1946,4.2333,4,1.0,neutral,0.63,Montfaucon-en-Velay
+45.1961,5.7677,4,1.0,neutral,0.85,Université Grenoble Alpes
+45.208545,4.298853,4,1.0,neutral,0.77,Dunière
+45.30302,0.82614,5,1.0,sadness,0.87,Versillac
+45.319085,5.526608,4,1.0,neutral,0.76,Moirans
+45.4397,4.3872,4,1.0,neutral,0.7,Saint-Étienne
+45.5,3.0,4,1.0,neutral,0.7,Massif Central
+45.75,4.85,4,1.0,neutral,0.62,"Zone libre (France, WWII)"
+45.752222,5.415556,5,1.0,sadness,0.95,Izieu
+45.777222,3.087025,4,1.0,neutral,0.91,Clermont-Ferrand
+45.8917,3.1121,4,1.0,neutral,0.57,Riom
+46.1287,3.4264,4,1.0,neutral,0.63,Vichy
+46.603354,1.888334,4,1.0,neutral,0.7,France
+46.686125,3.5167,4,1.0,neutral,0.6,Villeret
+46.818188,8.227512,4,1.0,neutral,0.53,Switzerland
+47.218371,-1.553621,4,1.0,neutral,0.71,Nantes
+47.750839,7.335888,4,1.0,neutral,0.55,Mulhouse
+47.833333,7.25,4,1.0,neutral,0.71,Haut-Rhin
+47.9634,6.5758,5,1.0,sadness,0.84,Le Val-d'Ajol
+48.0833,6.75,5,1.0,sadness,0.81,Vosges
+48.202047,-2.932643,4,1.0,neutral,0.82,Bretagne
+48.297345,4.0744005,4,1.0,neutral,0.73,Troyes
+48.3173059,7.441624100000001,3,1.0,joy,0.8,Alsace
+48.318179,7.4416246,4,1.0,neutral,0.79,Alsace
+48.5734053,7.7521113,3,1.0,joy,0.97,Strasbourg
+48.6797,5.8933,4,1.0,neutral,0.71,Toul
+48.692054,6.184417,4,1.0,neutral,0.69,Nancy
+48.75,6.5,5,1.0,sadness,0.77,Lorraine
+48.842225,2.385881,4,1.0,neutral,0.79,12e arrondissement de Paris
+48.856613,2.352222,4,1.0,neutral,0.7,Paris
+48.868592,2.326912,4,1.0,neutral,0.73,"Rue Cambon, Paris, France"
+48.870556,2.322222,4,1.0,neutral,0.83,"La Madeleine (Paris, quartier/eglise, France)"
+48.8763,2.3372,4,1.0,neutral,0.55,Paris 9e Arrondissement
+48.9257,2.4453,5,1.0,sadness,0.91,Drancy
+49.1997,-0.4507,2,1.0,fear,0.87,Normandie
+49.443232,1.099971,4,1.0,neutral,0.8,Rouen
+50.0167,20.9833,4,1.0,neutral,0.5,Tarnow
+50.62925,3.057256,4,1.0,neutral,0.75,Lille
+51.219448,4.402464,4,1.0,neutral,0.95,Antwerp
+51.5074,-0.1278,4,1.0,neutral,0.6,London
+52.631709,22.06335,5,1.0,sadness,0.94,Treblinka

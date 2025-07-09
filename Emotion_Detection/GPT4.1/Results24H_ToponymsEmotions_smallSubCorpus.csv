@@ -1,0 +1,277 @@
+﻿toponym,resolved_name,latitude,longitude,emotion,confidence_score,context,context_length,emotion_numeric
+Haute-Loire,Haute-Loire,45.1333,3.6167,sadness,0.93,"Monday, September 21, 1942 
+I am sad and weary. During rest hour Mrs. Cavailhon called me. She 
+received a letter asking whether she wanted to send some children to a very nice 
+school in Haute-Loire at an elevation of one thousand meters.  She selected me 
+and another boy. I'll be able to go there but she is afraid that perhaps I 
+won't be safe there.",367,5
+Le Chambon,Le Chambon-sur-Lignon,45.06081,4.302941,joy,0.93,"Saturday, January 16, 1943 [ Le Chambon sur Lignon] 
+I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève). I arrived at 
+St. Agrève at 11:49 p.m. The train did not go beyond there. 
+Mr. Trocmé came on his bicycle to meet me (still a young man and very nice). 
+Now we still had to cover fifteen kilometers through the snow and a moonlit night. 
+We arrived at Les Grillons at 2:30 a.m. There we ate something warm and then I",536,3
+La Rouvière,"La Rouvière, Gard, Occitanie, France",44.116667,4.283333,joy,0.84,"Monday, January 4, 1943 
+Mr. Brémond came to La Rouvière today.I practically flooded him with tears. Then he told me to pack my things within five minutes because he is taking me along. I can tell you that I was happy. 
+Tuesday, January 5, 1943 [Les Caillols] 
+Mrs. Brémond (they got married) wrote a letter to Mr. Trocmé in which she asked him if he did not have an opening for me at his place. I had asked her to allow me to go to school.",379,3
+Les Grillons,Les Grillons (Le Chambon-sur-Lignon),45.059271,4.306838,joy,0.88,"Now we still had to cover fifteen kilometers through the snow and a moonlit night. We arrived at Les Grillons at 2:30 a.m. There we ate something warm and then I went to sleep in the annex (I only saw Mr. T.). Sunday, January 17, 1943 I got up at the stroke of nine [in the morning] and little by little got acquainted in the kitchen. It was really very nice and clean. Later, I went to see Amedée, the boy who was to come here with me. I played and thought a lot about you. There are children here in various situations (some like me).",460,3
+Cheylard,Le Cheylard,44.914722,4.420278,neutral,0.71,"I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève). I arrived at 
+St. Agrève at 11:49 p.m. The train did not go beyond there. 
+Mr. Trocmé came on his bicycle to meet me (still a young man and very nice). 
+Now we still had to cover fifteen kilometers through the snow and a moonlit night. 
+We arrived at Les Grillons at 2:30 a.m. There we ate something warm and then I 
+w
+ent to sleep in the annex (I only saw Mr. T.).",498,4
+Auch,"Auch, Gers, France",43.646967,0.585016,neutral,0.77,"I kept my same birth 
+date, but I was told that my place of birth was Auch, Gers, where I last 
+lived with my parents. 
+What kinds of contact, if any, did you ever have with either the 
+resistance or with any of the, the groups that were attempting to fight 
+the Germans from within France? 
+The only contact, or the first contact, if you will, were in Le Chambon.",299,4
+Gers,,0.0,0.0,neutral,0.0,,0,4
+Hungary,Hungary,47.162494,19.503304,sadness,0.89,"And France was the haven. I mean, they thought nothing could happen to them when they got to France. They didn't realize that they would be picked up there just as well as they could have been in Germany or in Hungary or in Romania or anywhere else. And they never talked the language. And they were, they were easy prey for the Germans because they themselves didn't have enough, enough knowledge of a language. And if they spoke the language a little, they had a terrible accent. So they were immediately denounced.",565,5
+Romania,Romania,45.9432,24.9668,sadness,0.82,"And France was the haven. I mean, they thought nothing could happen to them when they got to France. They didn't realize that they would be picked up there just as well as they could have been in Germany or in Hungary or in Romania or anywhere else. And they never talked the language. And they were, they were easy prey for the Germans because they themselves didn't have enough, enough knowledge of a language. And if they spoke the language a little, they had a terrible accent. So they were immediately denounced.",442,5
+France,France,46.603354,1.888334,neutral,0.6,"At the same time, the thing from the UGIF [Union Générale des Israélites de 
+France] arrived. 
+Saturday, January 16, 1943 [ Le Chambon sur Lignon] 
+I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève).",343,4
+Germany,Germany,51.165691,10.451526,sadness,0.93,"who came from Eastern Europe and escaped to France. And France was the haven. I mean, they thought nothing could happen to them when they got to France. They didn't realize that they would be picked up there just as well as they could have been in Germany or in Hungary or in Romania or anywhere else. And they never talked the language. And they were, they were easy prey for the Germans because they themselves didn't have enough, enough knowledge of a language. And if they spoke the language a little, they had a terrible accent. So they were immediately denounced.",503,5
+St. Agrève,Saint-Agrève,45.0314,4.4177,neutral,0.84,"I left aboard the Marseilles to Paris express (travel, change train, bus, wrong [place?], Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève). I arrived at St. Agrève at 11:49 p.m. The train did not go beyond there. Mr. Trocmé came on his bicycle to meet me (still a young man and very nice). Now we still had to cover fifteen kilometers through the snow and a moonlit night. We arrived at Les Grillons at 2:30 a.m.",401,4
+Gurs,Gurs internment camp,43.301283,-0.772474,sadness,0.91,"I found an Austrian with whom I get along well 
+and practice speaking German. His name is Kurt Grossmann. His mother disappeared like you. 
+His father [is] in [the French internment camp] Gurs.Later Mr. T. left for Vichy where 
+he has [contacts] and his father was released in one week! 
+Lucky! Lucky!",292,5
+College Cevenol,Collège Cévenol,45.06124,4.30598,joy,0.86,"And so I found shelter there. I, I was sent to school, to a school that they had organized, which was called the College Cevenol. As a matter of fact, that school is a private school today that still, still is in existence. We, under the circumstance, and in retrospect, lived a fairly good life.",330,3
+Massif Central,Massif Central,45.5,3.0,neutral,0.68,"I discovered later, especially after the war, many years 
+after the war, that Le Chambon was a most unique village in France. 
+It is located at about 3,000 feet elevation in the Massif Central, in the 
+central mountain chain in France. Sort of isolated on a desolate plateau, 
+very cold in the winter, windswept plateau. Agriculture was pretty 
+rudimentary. 
+But what made this village unusual was that in the country, that is 90% 
+or 95% Catholic, this village was about 90% Protestant.",447,4
+Le Chambon-sur-Lignon,Le Chambon-sur-Lignon,45.06081,4.302941,fear,0.97,"I was notified that I would be shipped off to another location. And I was put on a train. And on New Year's Eve, they explained to me that there would be fewer patrols and police out, checking people's, traveler's papers, identity papers. And I was told to get off at a place called Le Chambon-sur-Lignon. And I arrived at about 4 o'clock in the morning. 3:00, 3:00 or 4 o'clock in the morning. It was a bitter, cold night. And I was met there by a young man named Daniel Trocme, who then took me, and we had a very, very long walk through the night.",533,2
+Vichy,Vichy,46.1287,3.4264,neutral,0.73,"His father [is] in [the French internment camp] Gurs.Later Mr. T. left for Vichy where 
+he has [contacts] and his father was released in one week! 
+Lucky! Lucky! 
+Friday, January 22, 1943 
+The UGIF now sends me three hundred francs every month. Mr. T. however takes them. 
+Sunday, January 31, 1943 
+Again another month begins and I am still without news from you.",348,4
+Paris,"Paris, France",48.8566,2.3522,neutral,0.85,"I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the Marseilles to Paris express (travel, change train, bus, wrong [place?], Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agr e8ve). I arrived at St. Agr e8ve at 11:49 p.m. The train did not go beyond there. Mr. Trocm e9 came on his bicycle to meet me (still a young man and very nice). Now we still had to cover fifteen kilometers through the snow and a moonlit night.",396,4
+Marseilles,Marseille,43.296482,5.36978,neutral,0.8,"We were told that we'll have to get out in two or three days. When I 
+returned from Marseilles at noon, Mrs. B. told me that she received a telegram from Mr. 
+Trocmé. He has a vacancy and expects me as soon as possible. Once again I am in 
+luck. I quickly packed my suitcases so as to be able to leave early Saturday at 
+7:20 a.m. At the same time, the thing from the UGIF [Union Générale des Israélites de 
+France] arrived. 
+Saturday, January 16, 1943 [ Le Chambon sur Lignon] 
+I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local tr",509,4
+Le Chambon sur Lignon,Le Chambon-sur-Lignon,45.06081,4.302941,neutral,0.8,"Saturday, January 16, 1943 [ Le Chambon sur Lignon] 
+I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève). I arrived at 
+St. Agrève at 11:49 p.m. The train did not go beyond there. 
+Mr. Trocmé came on his bicycle to meet me (still a young man and very nice). 
+Now we still had to cover fifteen kilometers through the snow and a moonlit night. 
+We arrived at Les Grillons at 2:30 a.m. There we ate something warm and then I 
+went to sleep in the annex (I only saw Mr. T.).",516,4
+Saint-Etienne,Saint-Étienne,45.4397,4.3872,neutral,0.81,"It was a little village up above Saint-Etienne, about 15 miles away. The head of that village was a famous pastor, a Protestant pastor by the name of Trocme. He and his wife and the children lived, of course, in the, in the, what do you call the house that belongs to the church, where they live? And there were 5,000 villager there.",328,4
+Lavoulte bridge,Le Pouzin–La Voulte-sur-Rhône railway bridge,44.8007,4.7713,neutral,0.65,"I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève). I arrived at 
+St. Agrève at 11:49 p.m. The train did not go beyond there. 
+Mr. Trocmé came on his bicycle to meet me (still a young man and very nice). 
+Now we still had to cover fifteen kilometers through the snow and a moonlit night. 
+We arrived at Les Grillons at 2:30 a.m. There we ate something warm and then I 
+went to sleep in the annex (I only saw Mr. T.).",519,4
+Vallorcine,Vallorcine,46.023332,6.94188,neutral,0.75,"And they ordered a truck. And they brought us 
+to the railway station in, whatever the place was. Vallorcine. Vallorcine 
+was the station in the valley. And put us on a train. We were put into 
+handcuffs and sent back to Rivesaltes.
+The amazing thing was that the word got through to Chambon-sur-Lignon that we 
+are in Rivesaltes.",338,4
+Chambon,Le Chambon-sur-Lignon,45.06081,4.302941,joy,0.93,"At the same time, the thing from the UGIF [Union Générale des Israélites de France] arrived. 
+Saturday, January 16, 1943 [ Le Chambon sur Lignon] 
+I took leave, took the first streetcar at 6 a.m. and at 7:20 a.m. I left aboard the 
+Marseilles to Paris express (travel, change train, bus, wrong [place?], 
+Lavoulte bridge, telephone, fast train, Cheylard local train, St. Agrève). I arrived at 
+St. Agrève at 11:49 p.m. The train did not go beyond there. 
+Mr. Trocmé came on his bicycle to meet me (still a young man and very nice). 
+Now we still had to cover fifteen kilometers through the snow and a moonlit night. 
+We arrived at Les Grillons at 2:30 a.m. There we ate something warm and then I 
+w...",523,3
+Europe,Europe,54.526,15.2551,sadness,0.89,"And it was the biggest tragedy of that time was to have those people who came from Eastern Europe and escaped to France. And France was the haven. I mean, they thought nothing could happen to them when they got to France. They didn't realize that they would be picked up there just as well as they could have been in Germany or in Hungary or in Romania or anywhere else.",437,5
+Drancy,Drancy,48.9258,2.44597,fear,0.97,"This idyll didn't last too long, because already in July the French 
+started collecting all the Jews for deportation to the either Drancy or 
+to the east. And we were affected in Chambon. 
+Now I have described the happenings from then, and my first flight to 
+Switzerland over the mountains in a diary, and the consequent return by 
+Swiss soldiers the same day that we arrived in Switzerland to France, and 
+the arrest by the French customs officials, and eventually police, and 
+returned to result. In 1941, in I think it was August.",476,2
+Maison des Roches,Maison des Roches,45.06191,4.30453,joy,0.91,"I was assigned to Maison des Roches. Amazingly, it was a ministerial decision. I have still the documents that conducted me to Chambon-sur-Lignon. In 1941. Yeah, must have been June, 19. Before. Must have been, no, it must have been April, April in 1941. In Chambon, we, or I, I should say, was welcomed in Maison des Roches, which means the house of rocks, which was the home for students from all countries in Europe,  Spain, Belgium, Austria, Poland, Russia, approximately my age or older. There were all denominations. And we were supposed to be able to continue to some extent the studies, to the extent that the facult",501,3
+Spain,Spain,40.463667,-3.74922,neutral,0.76,"which was the home for students from all 
+countries in Europe,  Spain, Belgium, Austria, Poland, Russia, 
+approximately my age or older. 
+There were all denominations. And we were supposed to be able to 
+continue to some extent the studies, to the extent that the faculty was 
+available.",312,4
+Alps,Alps,45.8326,6.8652,fear,0.82,"Now I have described the happenings from then, and my first flight to Switzerland over the mountains in a diary, and the consequent return by Swiss soldiers the same day that we arrived in Switzerland to France, and the arrest by the French customs officials, and eventually police, and returned to result. In 1941, in I think it was August. No. No. It was in November that we fled, to Switzerland. We crossed the Alps. It wasn't that simple. We were hidden for a while in Chambon, and surrounding with mostly Protestant farmers, or, you know, summer resident people. So it must have been summer, because it was summer residents were there. And while we were eating, one of the French customs officials came in. And he had a cup of coffee, and he looked at us.",632,2
+Chambon-sur-Lignon,Le Chambon-sur-Lignon,45.06081,4.302941,fear,0.94,"December 31, I was notified that I would be shipped 
+off to another location. And I was put on a train. And on New Year's Eve, 
+they explained to me that there would be fewer patrols and police out, 
+checking people's, traveler's papers, identity papers. And I was told to 
+get off at a place called Le Chambon-sur-Lignon. 
+And I arrived at about 4 o'clock in the morning. 3:00, 3:00 or 4 o'clock 
+in the morning. It was a bitter, cold night. And I was met there by a 
+young man named Daniel Trocme, who then took me, and we had a very, very 
+long walk through the night. And ultimately, I wound up in a, a stone 
+farmhouse called Les Grillons, the crickets, French word for crickets.",575,2
+Les Caillols,Les Caillols,43.282222,5.447222,neutral,0.7,"Tuesday, January 5, 1943 [Les Caillols] 
+Mrs. Brémond (they got married) wrote a letter to Mr. Trocmé in 
+which she asked him if he did not have an opening for me at his place. I had 
+asked her to allow me to go to school. She gave this letter to a young girl, Simone 
+Fullenbaum, who  lived  previously  at  Les  Caillols  and  now  lives  at  Les 
+Grillons  with  Mr. Trocmé. I hope that I'll be able to go there. The food there is fit for 
+kings (butter, potatoes, et cetera). Whatever is happening to you? Your son is 
+thinking of you.",468,4
+Poland,Poland,51.919438,19.145136,neutral,0.88,"which was the home for students from all 
+countries in Europe,  Spain, Belgium, Austria, Poland, Russia, 
+approximately my age or older. 
+There were all denominations. And we were supposed to be able to 
+continue to some extent the studies, to the extent that the faculty was 
+available. And we did indeed attend school.",311,4
+Swiss border,Swiss-French border,46.2,6.1,neutral,0.78,"preparations were made to get us false identity papers, to get us exit visa from France, to get us Swiss immigrant, immigration visas which we couldn't get on the spot, but we had to pick up in en masse in near the Swiss border on the French side. We managed to go by train unmolested to the Swiss border, this time without guide. My parents-- my mother was hidden in Chambon-sur-Lignon, indeed, in the house of Pastor Trocme, where she was serving as so-called domestic. She was the cook.",445,4
+French side,French side of the Swiss border,46.201755,6.146601,neutral,0.72,"preparations 
+were made to get us false identity papers, to get us exit visa from France, to 
+get us Swiss immigrant, immigration visas which we couldn't get on the spot, but 
+we had to pick up in en masse in near the Swiss border on the French side. We 
+managed to go by train unmolested to the Swiss border, this time without guide. 
+My parents-- my mother was hidden in Chambon-sur-Lignon, indeed, in the house of 
+Pastor Trocme, where she was serving as so-called domestic.",388,4
+Britain,United Kingdom,54.7023545,-3.2765753,joy,0.84,"We're lucky because there's a shortwave radio in the house and we get news from Britain. It's in 
+French, and we understand enough French now to know what they're saying. We think they're 
+sending coded messages to the Resistance here in France. It's very exciting! We have 
+newspapers here, too, so for the first time since we've been in Le Chambon, we can follow the 
+news of the war.",360,3
+La Guespy,La Guespy,45.058207,4.297959,neutral,0.71,"I'm in Le Chambon-sur-Lignon. It's way up on a high plateau in the mountains. It's beautiful 
+here. What a difference from Gurs! I'm staying at La Guespy, which is a home for refugee kids 
+like me. Lots of the kids are Jewish, but not all of them. Hanne and the others I came with are all 
+staying here, too. Monsieur Bohny is head of all three Swiss Aid homes for refugee kids in Le 
+Chambon. The lady who is in charge of us here at La Guespy is named Mademoiselle Usach. 
+She never smiles. What a grouch! None of us like her.",491,4
+Le Puy,Le Puy-en-Velay,45.04446,3.8852,fear,0.97,"They're starting the bus. They say they're taking us to Le Puy, which is where the Nazis are. I'm scared.
+Age 17, February 1943, LePuy-en-Velay, France 
+The gendarmes have interrogated me and so have the Germans. I'm really lucky. For some 
+reason, they've decided to let me go. But not Martin. There's nothing I can do.",326,2
+Russia,Russia,61.52401,105.318756,neutral,0.63,"the home for students from all countries in Europe,  Spain, Belgium, Austria, Poland, Russia, approximately my age or older. There were all denominations. And we were supposed to be able to continue to some extent the studies, to the extent that the faculty was available. And we did indeed attend school.",321,4
+Austria,Austria,47.5162,14.5501,neutral,0.79,I go to school. Often think of you. I found an Austrian with whom I get along well and practice speaking German. His name is Kurt Grossmann. His mother disappeared like you. His father [is] in [the French internment camp] Gurs.Later Mr. T. left for Vichy where he has [contacts] and his father was released in one week! Lucky! Lucky!,304,4
+LePuy-en-Velay,Le Puy-en-Velay,45.0437,3.8852,fear,0.97,"They're starting the bus. They say they're taking us to Le Puy, which is where the Nazis are. I'm 
+scared.
+Age 17, February 1943, LePuy-en-Velay, France 
+The gendarmes have interrogated me and so have the Germans. I'm really lucky. For some 
+reason, they've decided to let me go.",321,2
+sur-Lignon,Le Chambon-sur-Lignon,45.06081,4.302941,fear,0.91,"And I was told to get off at a place called Le Chambon-sur-Lignon. 
+And I arrived at about 4 o'clock in the morning. 3:00, 3:00 or 4 o'clock 
+in the morning. It was a bitter, cold night. And I was met there by a 
+young man named Daniel Trocme, who then took me, and we had a very, very 
+long walk through the night. And ultimately, I wound up in a, a stone 
+farmhouse called Les Grillons, the crickets, French word for crickets. 
+And there I found myself together with about 22 or 24 other kids, ranging 
+in age from about six, seven, up to about 17 or 18, boys and girls. And 
+Daniel Trocme was our, call it then, then father. He was the, 
+our supervisor and the m",534,2
+Switzerland,Switzerland,46.818188,8.227512,fear,0.97,"Now I have described the happenings from then, and my first flight to 
+Switzerland over the mountains in a diary, and the consequent return by 
+Swiss soldiers the same day that we arrived in Switzerland to France, and 
+the arrest by the French customs officials, and eventually police, and 
+returned to result. In 1941, in I think it was August. 
+No. No. It was in November that we fled, to Switzerland. 
+We crossed the Alps. It wasn't that simple. We were hidden for a while in 
+Chambon, and surrounding with mostly Protestant farmers, or, you know, 
+summer resident people. So it must have been summer, because it was summer 
+residents were there.",541,2
+Algiers,Algiers,36.7538,3.0588,neutral,0.71,"Her husband is fighting the Germans with de Gaulle in Algiers. Maybe she can help me get out of France. I WENT TO MADAME PHILIP and I said, ""I would like to go to Algiers. I want to join de Gaulle. I want to fight."" But she said, ""No, you're going to Switzerland!"" Switzerland is a neutral country in the war, so Jews are safe from the Nazis there.",385,4
+German border,German-French border,49.017,8.409,neutral,0.5,"My new name is Jacques Levet, and it says on my ID card that I was born in Alsace-Lorraine. That's close to the German border, so it might explain my German accent if I'm stopped.",233,4
+Le Chambon-sur Lignon,Le Chambon-sur-Lignon,45.06081,4.302941,sadness,0.84,"And then the next day, we went to the Le Chambon-sur Lignon, which is, was a haven for a lot of Jewish people. 
+So this is when you separated from your parents? 
+That's right, and from my brother. 
+It was not easy for me. It was very hard for them. They knew this might be 
+it. And my brother was, I said to my brother when I left, I said, I'll see 
+what I can do to get you out when I'm there. Just let me get my feet on 
+the ground.",408,5
+Toulouse,Toulouse,43.604652,1.444209,neutral,0.83,"So now we, in September or October, I don't recall which date it was or 
+month, they, they gathered us together, and we went on a train with a nice 
+young lady. Her name was Hirsch. And she took us by train to Toulouse. 
+We stayed there overnight with a, a French, with a, a Swiss Red Cross, a 
+children's help. And we stayed overnight.",338,4
+England,England,52.3555177,-1.1743197,neutral,0.77,"He was minister of finance under de Gaulle, who left France, in, under the 
+Nazis' eyes of the airport in Lyon, and went to England, and from England 
+to Algiers.  And the, his wife was really special to me, because she was 
+like a mother to me.",298,4
+Camp de Gurs,Camp de Gurs,43.4714,-0.7521,neutral,0.65,"efwell, this comes, the, in, in the camp, in Camp de Gurs, it was, it 
+didn't really matter. So in, sometime in September of 1942, a woman came 
+to see my parents. We visited, my mother came over to visit us. And we 
+were told that somebody is coming from the OSE. I don't know if you heard 
+about the OSE, which is Oeuvre de Secour aux Enfants. And she asked 
+several people if they would like to send that, one of their children, 
+if the child is young enough, to send them somewhere where they would be 
+safe. And my mother and father said, I think we should. And I said I don't 
+want to go out without my brother. And they said, oh, no. You gonna go. So",518,4
+New York,New York City,40.7127281,-74.0060152,neutral,0.83,"...the one who was in charge was a man with the name of Auguste Bohny. Somebody, he was just last year, he was honored by the B'nai B'rith here in New York. And we, he started this carpenter shop. And we, my brother and I...",247,4
+Alsace-Lorraine,Alsace-Lorraine,48.25,7.5,neutral,0.62,"He had to make sure that the swastika came off. My new name is Jacques Levet, and it says on my ID card that I was born in Alsace-Lorraine. That's close to the German border, so it might explain my German accent if I'm stopped. Pastor Theis says I can leave for Switzerland in a couple of days.",324,4
+Lyon,Lyon,45.75,4.85,neutral,0.7,"He was minister of finance under de Gaulle, who left France, in, under the 
+Nazis' eyes of the airport in Lyon, and went to England, and from England 
+to Algiers.  And the, his wife was really special to me, because she was 
+like a mother to me. And I used to visit her almost every day. And, so one, 
+but before Mr. Philip, who was also a professor of economics of the 
+University of Lyon, he came one night, and he, OK, had a big chariot with 
+with two wheels, bicycle wheels on it, of potatoes, which was illegal to, 
+to buy and hoard 'em in France. So he came. He says, you better come to, we 
+were just at the dinner table. He says, you come and you better help us get 
+these potatoes off the road. Or els",599,4
+University of Lyon,University of Lyon,45.7485,4.8467,neutral,0.84,"Amongst them was one who was, who 
+was very special to me, especially his wife. His name was André Philip. 
+He was minister of finance under de Gaulle, who left France, in, under the 
+Nazis' eyes of the airport in Lyon, and went to England, and from England 
+to Algiers.  And the, his wife was really special to me, because she was 
+like a mother to me. And I used to visit her almost every day. And, so one, 
+but before Mr. Philip, who was also a professor of economics of the 
+University of Lyon, he came one night, and he, OK, had a big chariot with 
+with two wheels, bicycle wheels on it, of potatoes, which was illegal to, 
+to buy and hoard 'em in France. So he came. He says, you better come to, we 
+were just at the dinner table. He says, you come and you better help us get 
+these potatoes off the road. Or else I'm gonna go to jail. So we all, we 
+all packed up and went, and all took a big bag of potatoes and carried them 
+to his house.",798,4
+"Vichy, France","Vichy, France",46.128684,3.426673,joy,0.81,"we got to this home from the Swiss Red Cross. And we, it was a very small house up in the Massif Central, in [FRENCH]. And we were received very nicely by the pastor, by a pastor's wife, by the Swiss Red Cross, and from the villages, villagers. And so we, as we arrived, they made dinner for us as, as best as they could, even though it was, everything was rationed. And this was also in Vichy. It was part of Vichy, France.  It was very, very special. 
+Well, first I would like to say this. And when the second or third day we were in that village, there was a very rich lady with, her name was Madame de Felice.",496,3
+Valence,"Valence, Drôme, France",44.9333,4.8924,fear,0.94,"Jean-Pierre, Pastor Trocme's son, and Marco Darcissac, the son of the schoolmaster, took me by bicycle all the way down the mountains to Valence, seventy kilometers! I was scared stiff! I had never gone down such steep mountains before on a bike. They left me with a lady in Valence. She took me to her brother, who was a pastor. I stayed for the whole weekend, and I even went to church with them!",406,2
+Grenoble,Grenoble,45.188529,5.724524,neutral,0.71,"And she took a, and then, it was a Monday she took us. She took me and another pastor who joined us there, took us to Grenoble, from Grenoble to Annecy. As a matter of fact, the French resistance in Le Chambon was very, very big too, which, but they had passive resistance there. This is the house called La Guespy.",309,4
+"Bayside, New York","Bayside, Queens, New York, USA",40.7669,-73.7797,neutral,0.77,"her is Lilli Brown. Her name is Feihan now. 
+She lives in Washington, DC. The next one is, the other little girl is Hanne 
+Liebmann. Her name was Hanne Hirsch. She lives here in Bayside, New York, and the 
+fellow is Manfred, don't remember his last name. 
+That we came. Yeah, to Le Chambon. We were together for at least a year and a quarter. ",356,4
+"Washington, DC","Washington, D.C.",38.89511,-77.03637,neutral,0.67,"Then Mademoiselle Usach and the other one, the girl next to her is Lilli Brown. Her name is Feihan now. She lives in Washington, DC. The next one is, the other little girl is Hanne Liebmann. Her name was Hanne Hirsch. She lives here in Bayside, New York, and the fellow is Manfred, don't remember his last name.",309,4
+Rivesaltes,Rivesaltes,42.799,2.875,neutral,0.5,"We were put into handcuffs and sent back to Rivesaltes. The amazing thing was that the word got through to Chambon-sur-Lignon that we are in Rivesaltes. And none other than, first, Tracy Strong came. And I gave him my shoes, which were in total shambles, which he took with him. And I had a pair of rubber boots.",335,4
+Laval,Pierre Laval,45.78291,3.10384,fear,0.93,"...all of a sudden, somebody came and says, the Milice Laval, which is the, Laval,
+Laval was the president of France, which was equivalent to the Gestapo, and
+the gendarmerie are looking for all Jewish people. You better start hiding....",253,2
+Annecy,Annecy,45.899247,6.129384,neutral,0.79,"I'm not supposed to understand 
+German, I'm supposed to be a French Boy Scout just sitting here on the train going to Annecy. 
+So I'd better not laugh at their jokes, even though they're really funny. 
+I left Le Chambon for Switzerland right after getting my false papers.",268,4
+French,French internment camp Gurs,43.3144,-0.7121,sadness,0.89,His father [is] in [the French internment camp] Gurs.Later Mr. T. left for Vichy where he has [contacts] and his father was released in one week! Lucky! Lucky!,180,5

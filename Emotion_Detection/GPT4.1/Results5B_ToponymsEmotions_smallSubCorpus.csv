@@ -1,0 +1,2 @@
+﻿name,latitude,longitude,emotion,confidence_score,context,context_length,emotion_numeric
+Haute-Loire,45.0607,3.7826,neutral,0.8,"She received a letter asking whether she wanted to send some children to a very nice school in Haute-Loire at an elevation of one thousand meters.  She selected me and another boy. I'll be able to go there but she is afraid that perhaps I won't be safe there. Monday, January 4, 1943 Mr. Brémond came to La Rouvière today.I practically flooded him with tears.",333,4
