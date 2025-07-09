@@ -1,0 +1,28 @@
+Here's how to calculate the mode of a DataFrame column, grouped by other columns, using Python's Pandas library:
+
+	import pandas as pd
+
+	# Sample DataFrame
+	data = {'group1': ['A', 'A', 'B', 'B', 'A', 'B'],
+        'group2': ['X', 'Y', 'X', 'Y', 'X', 'X'],
+        'values': [1, 2, 1, 2, 1, 3]}
+	df = pd.DataFrame(data)
+
+	# Calculate mode of 'values' grouped by 'group1' and 'group2'
+	mode_df = df.groupby(['group1', 'group2'])['values'].agg(lambda x: list(pd.Series.mode(x)))
+
+	# Display the result
+	print(mode_df)
+
+This code snippet will output a Series with MultiIndex, showing the mode(s) of the 'values' column for each unique combination of 'group1' and 'group2'. 
+If there are multiple modes, they will be returned as a list. To access the mode as a scalar value when it is unique, you can modify the lambda function:
+
+	mode_df = df.groupby(['group1', 'group2'])['values'].agg(lambda x: pd.Series.mode(x)[0] if not pd.Series.mode(x).empty else None)
+
+This modification will return the first mode if it exists, and None otherwise.
+
+
+ALSO:  Need to drop the rows that have score less than 0.50
+
+	# Delete rows where the city is Chicago
+	df = df.drop(df[df['city'] == 'Chicago'].index)

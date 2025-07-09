@@ -1,0 +1,111 @@
+Detect emotions around keywords in text using Python:
+Choose an Emotion Lexicon or Model:
+Lexicon-based approach: Use a pre-built dictionary (lexicon) that maps words to emotions (e.g., NRC Emotion Lexicon).
+Transformer-based models: Employ pre-trained models fine-tuned for emotion classification (e.g., EmoRoBERTa).
+
+
+Implementation using Lexicon-based Approach (using LeXmo package):
+
+    import lexmo
+    import pandas as pd
+    
+    text = "I am feeling very happy and excited about the upcoming trip, but also a little anxious about the flight."
+    
+    lexmo_instance = lexmo.Lexmo()
+    emotion_counts = lexmo_instance.count_emotions(text)
+    df = pd.DataFrame([emotion_counts])
+    print(df)
+
+
+
+Implementation using Transformer-based Model (using Hugging Face Transformers):
+
+    from transformers import pipeline
+    
+    emotion_model = pipeline("sentiment-analysis", model="arpanghoshal/EmoRoBERTa")
+    text = "I am feeling very happy and excited about the upcoming trip, but also a little anxious about the flight."
+    result = emotion_model(text)
+    print(result)
+
+
+
+Keyword-focused Emotion Detection:
+Identify keywords of interest in the text.
+Extract the context around those keywords (e.g., sentences or phrases).
+Apply the chosen emotion detection method to the extracted context.
+
+    import re
+    
+    text = "I am feeling very happy and excited about the upcoming trip, but also a little anxious about the flight."
+    keywords = ["happy", "anxious"]
+    
+    for keyword in keywords:
+        context = re.search(r'[^.]*' + re.escape(keyword) + r'[^.]*\.', text).group(0)
+        emotion_result = emotion_model(context)
+        print(f"Keyword: {keyword}, Context: {context}, Emotion: {emotion_result}")
+
+
+
+
+
+
+Here's how to perform keyword-focused emotion detection in Python, including context of 50 characters either side of the keyword:
+
+import re
+from textblob import TextBlob
+
+def detect_emotion_with_context(text, keywords, context_size=50):
+    """
+    Detects emotions associated with keywords in text, providing surrounding context.
+
+    Args:
+        text (str): The input text.
+        keywords (list): A list of keywords to search for.
+        context_size (int): The number of characters to include as context 
+                          around the keyword.
+
+    Returns:
+        dict: A dictionary where keys are keywords found, and values are lists 
+              of tuples. Each tuple contains:
+              - The emotion (positive, negative, or neutral).
+              - The polarity score from TextBlob.
+              - The surrounding context of the keyword.
+    """
+    results = {}
+    for keyword in keywords:
+        keyword_results = []
+        # Case-insensitive search for the keyword with re.IGNORECASE
+        for match in re.finditer(r'\b' + re.escape(keyword) + r'\b', text, re.IGNORECASE):
+            start = max(0, match.start() - context_size)
+            end = min(len(text), match.end() + context_size)
+            context = text[start:end]
+            blob = TextBlob(context)
+            polarity = blob.sentiment.polarity
+
+            if polarity > 0:
+                emotion = "positive"
+            elif polarity < 0:
+                emotion = "negative"
+            else:
+                emotion = "neutral"
+
+            keyword_results.append((emotion, polarity, context))
+        if keyword_results:
+          results[keyword] = keyword_results
+    return results
+
+# Example usage:
+text = """
+This is a happy sentence because it contains the word happy. 
+However, there's also sadness in this longer sentence, which is quite 
+disappointing and makes me angry. The cat is also furious.
+"""
+keywords = ["happy", "sadness", "angry", "furious"]
+
+emotion_data = detect_emotion_with_context(text, keywords)
+
+for keyword, data_list in emotion_data.items():
+    print(f"Keyword: {keyword}")
+    for emotion, polarity, context in data_list:
+        print(f"  Emotion: {emotion}, Polarity: {polarity:.2f}")
+        print(f"  Context: {context}")

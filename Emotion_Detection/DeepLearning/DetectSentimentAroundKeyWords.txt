@@ -1,0 +1,54 @@
+Sentiment analysis around keywords 
+Several Python libraries can be used for this purpose, including NLTK and transformers. 
+Here's how to perform sentiment analysis using NLTK's VADER lexicon:
+
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.tokenize import word_tokenize
+
+nltk.download('vader_lexicon')
+nltk.download('punkt')
+
+def analyze_sentiment_for_keywords(text, keywords):
+    """
+    Analyzes the sentiment of sentences containing specific keywords in a text.
+
+    Args:
+        text (str): The input text to analyze.
+        keywords (list): A list of keywords to search for in the text.
+
+    Returns:
+        dict: A dictionary where keys are keywords and values are dictionaries
+              containing sentiment scores (positive, negative, neutral, compound)
+              for sentences containing those keywords.
+    """
+    analyzer = SentimentIntensityAnalyzer()
+    sentences = nltk.sent_tokenize(text)
+    keyword_sentiments = {}
+
+    for keyword in keywords:
+        keyword_sentiments[keyword] = []
+
+    for sentence in sentences:
+        for keyword in keywords:
+            if keyword.lower() in sentence.lower():
+                scores = analyzer.polarity_scores(sentence)
+                keyword_sentiments[keyword].append({
+                    'sentence': sentence,
+                    'scores': scores
+                })
+    return keyword_sentiments
+
+# Example usage:
+text = "The new product is amazing! I love its features. However, the price is too high and the support is terrible."
+keywords = ["product", "price", "support"]
+results = analyze_sentiment_for_keywords(text, keywords)
+
+for keyword, sentences_data in results.items():
+    print(f"Keyword: {keyword}")
+    if sentences_data:
+      for data in sentences_data:
+        print(f"  Sentence: {data['sentence']}")
+        print(f"    Scores: {data['scores']}")
+    else:
+        print("  No sentences found with this keyword.")

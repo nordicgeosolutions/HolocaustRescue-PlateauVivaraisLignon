@@ -1,0 +1,3 @@
+﻿LAT,LON,ALT,emotion_value,proportion,emotion_label,average_confidence_score,Farms
+45.036205,4.371174,1084,4,1,neutral,0.9805940091609955,Les Digons
+45.042877,4.323951,1053,4,1,neutral,0.9243553876876831,Remière
