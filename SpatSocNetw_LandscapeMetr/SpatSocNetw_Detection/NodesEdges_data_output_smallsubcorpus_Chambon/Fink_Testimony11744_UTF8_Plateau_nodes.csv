@@ -1,0 +1,9 @@
+Id,Label,Gender,MentionCount,Type,BookID,X_Coord,Y_Coord,Z_Coord
+12,the Jews,they/them/their,2,Character,Fink_Testimony11744_UTF8_Plateau,,,
+0,myself,they/them/their,28,Character,Fink_Testimony11744_UTF8_Plateau,,,
+81,"a little , tiny children",,0,Character,Fink_Testimony11744_UTF8_Plateau,,,
+45,my children,they/them/their,3,Character,Fink_Testimony11744_UTF8_Plateau,,,
+79,villagers,,0,Character,Fink_Testimony11744_UTF8_Plateau,,,
+43,yourself,unknown,10,Character,Fink_Testimony11744_UTF8_Plateau,,,
+6,Le Chambon,,0,Character,Fink_Testimony11744_UTF8_Plateau,,,
+LOC_Le_Chambon-sur-Lignon,Le Chambon-sur-Lignon,,,Location,Fink_Testimony11744_UTF8_Plateau,45.06081,4.302941,961.0
