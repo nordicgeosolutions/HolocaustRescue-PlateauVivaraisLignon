@@ -1,0 +1,162 @@
+start_token	end_token	supersense_category	text
+0	2	noun.person	Max Karl Liebmann
+5	6	verb.change	was born
+8	8	noun.time	September
+13	13	noun.location	Mannheim
+15	15	noun.location	Germany
+19	19	verb.communication	arranged
+22	22	noun.time	point
+27	27	verb.change	get
+29	29	noun.state	trouble
+32	32	noun.person	Le
+33	37	noun.location	Chambon - sur - Lignon
+38	38	verb.stative	was
+45	45	verb.cognition	felt
+50	50	noun.group	people
+52	52	verb.social	help
+55	55	verb.change	get
+57	57	noun.event	trouble
+61	61	verb.social	try
+63	63	verb.motion	make
+67	72	noun.location	Le Chambon - sur - Lignon
+74	75	verb.social	join up
+76	76	verb.stative	with
+82	82	verb.cognition	know
+86	86	noun.time	weeks
+89	89	verb.stative	was
+91	92	noun.person	Le Chambon
+94	96	noun.location	sur - Lignon
+100	100	verb.motion	arrived
+105	105	verb.social	denied
+106	106	noun.act	help
+109	109	noun.act	help
+117	117	noun.time	night
+122	122	verb.cognition	know
+127	127	verb.possession	find
+129	129	noun.person	wife
+135	135	noun.time	night
+139	139	verb.contact	camped
+143	143	noun.artifact	tennis
+144	144	noun.location	place
+148	148	noun.substance	wood
+151	152	noun.artifact	tennis field
+156	156	noun.substance	wood
+166	166	noun.time	morning
+171	171	noun.group	group
+175	175	noun.person	girls
+177	177	verb.motion	walk
+183	183	verb.stative	was
+185	185	noun.person	wife
+188	188	noun.person	girlfriend
+191	191	verb.communication	refused
+193	194	verb.motion	turn around
+197	197	verb.communication	whistled
+205	206	verb.motion	turned around
+211	211	noun.person	girlfriends
+216	216	verb.emotion	want
+219	219	verb.communication	whistled
+226	226	verb.cognition	realize
+228	228	verb.stative	was
+233	233	verb.communication	explained
+235	235	noun.state	circumstances
+238	238	verb.stative	was
+242	242	verb.motion	took
+245	246	noun.person	Mireille Philip
+248	248	verb.stative	was
+250	250	noun.person	wife
+256	256	verb.stative	become
+258	259	noun.person	finance minister
+261	262	noun.person	de Gaulle
+266	266	noun.group	government
+269	269	verb.stative	was
+273	274	noun.person	de Gaulle
+276	276	noun.location	England
+280	281	verb.social	made sure
+285	285	noun.time	night
+288	288	noun.group	village
+292	292	noun.artifact	villa
+294	294	noun.group	people
+296	296	verb.stative	were
+300	300	verb.possession	give
+303	303	noun.quantity	room
+306	306	noun.time	night
+308	308	verb.consumption	fed
+313	313	verb.contact	placed
+316	316	noun.artifact	farm
+319	319	noun.time	hour
+322	322	noun.quantity	half
+325	325	noun.time	hours
+328	328	noun.body	foot
+332	332	verb.motion	stayed
+337	337	noun.quantity	half
+338	338	noun.time	weeks
+342	342	noun.person	farmers
+343	343	verb.possession	shared
+345	345	noun.food	food
+350	350	verb.contact	put
+354	354	noun.artifact	hayloft
+360	362	noun.time	a half weeks
+365	365	verb.stative	was
+371	371	verb.cognition	forgotten
+379	379	verb.cognition	heard
+380	380	noun.quantity	nothing
+382	382	verb.perception	seen
+383	383	noun.quantity	nothing
+394	394	noun.communication	message
+397	397	noun.person	wife
+402	402	noun.time	days
+406	406	verb.perception	hiding
+409	409	noun.artifact	farm
+412	412	noun.act	raids
+416	416	verb.change	started
+418	418	noun.location	France
+420	420	verb.competition	arrest
+421	421	noun.person	Jews
+425	425	verb.possession	got
+428	428	noun.communication	note
+433	433	verb.stative	was
+437	437	verb.stative	was
+440	440	verb.stative	was
+443	443	noun.artifact	farm
+448	448	verb.emotion	worry
+455	456	verb.cognition	picked up
+458	459	verb.motion	brought back
+461	462	noun.location	Le Chambon
+464	466	noun.location	sur - Lignon
+469	469	verb.possession	found
+471	471	noun.person	girlfriend
+474	474	noun.group	people
+479	479	noun.group	village
+481	482	noun.person	Madame Philip
+483	483	verb.change	made
+488	488	verb.communication	photographed
+492	492	verb.possession	given
+493	494	noun.communication	false papers
+497	497	noun.time	days
+502	502	noun.communication	papers
+506	506	noun.person	fellows
+510	510	verb.motion	directed
+513	513	noun.group	village
+515	515	noun.artifact	stop
+517	519	noun.location	Saint - Gervais
+522	523	noun.location	French Alps
+526	526	verb.motion	went
+529	529	noun.artifact	train
+532	532	verb.social	fared
+536	536	verb.communication	challenged
+540	540	verb.motion	stopped
+546	546	verb.communication	explained
+548	548	noun.location	France
+551	556	noun.location	Le Chambon - sur - Lignon
+562	562	noun.act	help
+565	566	verb.social	look first
+570	570	noun.person	minister
+575	575	verb.stative	are
+578	578	noun.person	pastors
+580	581	verb.motion	go to
+583	584	noun.group	Catholic Church
+587	587	noun.person	ministers
+593	593	verb.communication	find
+595	595	noun.person	ministers
+597	598	verb.motion	go to
+600	601	noun.group	Catholic Church

@@ -1,0 +1,130 @@
+start_token	end_token	supersense_category	text
+1	1	noun.person	Fink
+4	4	verb.possession	have
+7	7	noun.cognition	example
+15	15	noun.group	resistance
+17	17	verb.stative	was
+18	19	noun.person	Le Chambon
+23	23	noun.location	Lignon
+28	28	verb.cognition	know
+31	31	verb.perception	heard
+36	36	noun.person	children
+45	46	noun.location	Le Chambon
+50	50	noun.person	Lignon
+51	51	verb.stative	happened
+53	53	verb.possession	have
+56	56	noun.person	priest
+60	60	noun.group	village
+63	63	verb.possession	have
+65	65	noun.person	priest
+68	68	verb.stative	was
+74	74	verb.competition	protecting
+77	77	verb.possession	giving
+84	84	noun.person	priest
+86	86	verb.competition	protecting
+90	90	verb.competition	protected
+93	93	verb.communication	mean
+98	99	noun.location	Le Chambon
+101	103	noun.location	sur - Lignon
+106	106	verb.stative	was
+109	109	noun.state	situation
+112	112	verb.stative	were
+113	113	noun.person	Huguenots
+116	116	verb.stative	were
+118	118	noun.group	people
+121	121	verb.cognition	remembered
+128	128	verb.social	persecuted
+132	132	verb.stative	were
+144	144	noun.person	pastor
+145	145	verb.communication	told
+149	149	verb.stative	was
+151	151	noun.person	head
+155	155	noun.location	town
+157	162	noun.location	Le Chambon - sur - Lignon
+165	165	noun.person	wife
+168	168	noun.person	children
+173	173	noun.location	Germany
+178	178	verb.motion	come
+182	182	noun.time	time
+185	185	noun.location	Germany
+189	189	noun.location	Germany
+192	192	verb.perception	heard
+194	194	noun.communication	name
+202	202	verb.motion	arrive
+204	205	noun.location	Le Chambon
+208	209	noun.location	- Lignon
+210	210	verb.stative	were
+212	212	noun.person	Jews
+220	220	verb.stative	followed
+222	222	verb.stative	followed
+224	224	verb.stative	followed
+234	234	verb.stative	was
+238	238	noun.state	situation
+245	245	verb.stative	were
+248	248	noun.person	farmers
+251	251	noun.location	place
+255	255	verb.possession	hid
+257	257	noun.person	Jews
+261	261	verb.stative	become
+269	269	noun.communication	page
+271	271	noun.communication	history
+275	275	noun.communication	French
+277	277	noun.communication	history
+287	287	verb.stative	was
+290	290	verb.stative	was
+292	292	noun.event	happenings
+296	296	verb.stative	were
+297	297	noun.person	Germans
+302	302	verb.stative	were
+306	306	noun.group	garrison
+309	309	noun.person	soldiers
+315	315	verb.motion	move
+321	321	verb.social	do
+328	328	verb.stative	were
+332	332	verb.communication	denounce
+337	337	verb.emotion	care
+340	340	verb.possession	had
+342	342	noun.location	place
+344	349	noun.location	Le Chambon - sur - Lignon
+352	352	verb.stative	was
+355	355	noun.location	resort
+357	359	noun.location	Saint - Etienne
+367	367	noun.quantity	kilometers
+378	378	verb.stative	became
+381	381	noun.act	saving
+385	385	noun.act	war
+388	388	verb.communication	mean
+393	394	verb.motion	go there
+398	398	verb.contact	put
+400	400	noun.person	children
+404	404	verb.possession	had
+407	407	noun.person	children
+409	409	noun.artifact	homes
+417	417	verb.perception	hide
+433	433	verb.motion	taking
+434	434	noun.person	children
+436	441	noun.location	Le Chambon - sur - Lignon
+445	445	verb.possession	taking
+446	446	noun.person	children
+449	449	verb.perception	hide
+453	453	noun.person	parents
+459	459	noun.person	parents
+462	462	verb.social	deported
+465	465	verb.stative	was
+469	469	noun.location	place
+471	471	verb.cognition	took
+477	477	verb.possession	had
+479	479	noun.act	contact
+488	488	noun.quantity	less
+490	490	verb.cognition	knew
+496	496	verb.communication	talk
+500	500	verb.cognition	knew
+507	507	noun.location	district
+508	508	verb.cognition	knew
+513	513	verb.contact	put
+515	515	noun.person	children
+516	517	noun.act	first step
+520	520	verb.cognition	knew
+522	523	noun.act	first step
+527	527	verb.cognition	knew
+530	530	noun.act	step

@@ -1,0 +1,100 @@
+COREF	start_token	end_token	prop	cat	text
+7	1	1	PROP	PER	Fink
+8	3	3	PRON	PER	We
+2	18	23	PROP	LOC	Le Chambon - sur - Lignon
+0	25	25	PRON	PER	I
+9	30	30	PRON	PER	you
+0	35	35	PRON	PER	My
+10	35	36	NOM	PER	My children
+11	39	39	NOM	FAC	there
+2	45	50	PROP	PER	Le Chambon - sur - Lignon
+10	55	55	PRON	PER	their
+12	55	56	NOM	PER	their priest
+13	59	60	NOM	GPE	every village
+14	64	65	NOM	PER	the priest
+14	67	67	PRON	PER	he
+15	69	79	NOM	PER	the one who was all protecting you or giving you up
+9	75	75	PRON	PER	you
+9	78	78	PRON	PER	you
+14	83	84	NOM	PER	the priest
+9	88	88	PRON	PER	you
+0	92	92	PRON	PER	I
+2	98	103	PROP	GPE	Le Chambon - sur - Lignon
+17	111	111	PRON	PER	They
+18	113	113	NOM	PER	Huguenots
+17	115	115	PRON	PER	They
+17	117	117	PRON	PER	they
+19	117	128	NOM	PER	they people who had remembered from 1400 that they had been persecuted
+17	125	125	PRON	PER	they
+17	131	131	PRON	PER	they
+20	143	144	NOM	PER	this pastor
+0	146	146	PRON	PER	me
+21	150	168	NOM	PER	the head of this little town of Le Chambon - sur - Lignon with his wife and his children
+22	153	162	NOM	GPE	this little town of Le Chambon - sur - Lignon
+2	157	162	PROP	GPE	Le Chambon - sur - Lignon
+20	164	164	PRON	PER	his
+23	164	165	NOM	PER	his wife
+20	167	167	PRON	PER	his
+24	167	168	NOM	PER	his children
+3	173	173	PROP	GPE	Germany
+20	176	176	PRON	PER	he
+3	185	185	PROP	GPE	Germany
+3	189	189	PROP	GPE	Germany
+17	191	191	PRON	PER	they
+20	193	193	PRON	PER	his
+25	197	209	NOM	PER	the very first one to arrive in Le Chambon - sur - Lignon
+2	204	209	PROP	GPE	Le Chambon - sur - Lignon
+26	211	212	NOM	PER	German Jews
+26	218	218	PRON	PER	they
+27	246	251	NOM	PER	five thousand farmers in that place
+28	250	251	NOM	GPE	that place
+27	254	254	PRON	PER	they
+29	256	257	NOM	PER	5,000 Jews
+30	263	263	PRON	PER	you
+31	297	297	NOM	PER	Germans
+11	299	299	NOM	GPE	there
+33	305	309	NOM	PER	a garrison of German soldiers
+33	314	314	PRON	PER	they
+33	320	320	PRON	PER	they
+34	324	326	NOM	PER	Some , some
+34	334	334	PRON	PER	They
+0	339	339	PRON	PER	I
+35	341	349	NOM	FAC	this place called Le Chambon - sur - Lignon
+4	344	345	PROP	FAC	Le Chambon
+5	346	349	PROP	GPE	- sur - Lignon
+36	354	359	NOM	FAC	the resort above Saint - Etienne
+6	357	359	PROP	GPE	Saint - Etienne
+0	387	387	PRON	PER	I
+30	390	390	PRON	PER	you
+11	394	394	NOM	FAC	there
+38	399	401	NOM	PER	the children there
+27	403	403	PRON	PER	they
+39	405	407	NOM	PER	two little children
+40	405	409	NOM	FAC	two little children 's homes
+30	412	412	PRON	PER	you
+30	415	415	PRON	PER	you
+39	418	418	PRON	PER	them
+41	424	424	PRON	PER	we
+30	428	428	PRON	PER	you
+41	431	431	PRON	PER	we
+42	434	434	NOM	PER	children
+2	436	441	PROP	GPE	Le Chambon - sur - Lignon
+41	443	443	PRON	PER	we
+42	446	446	NOM	PER	children
+11	447	447	NOM	LOC	there
+42	450	450	PRON	PER	them
+45	452	453	NOM	PER	the parents
+45	458	459	NOM	PER	the parents
+47	468	472	NOM	LOC	the place we took them
+41	470	470	PRON	PER	we
+42	472	472	PRON	PER	them
+41	475	475	PRON	PER	we
+41	481	481	PRON	PER	we
+30	489	489	PRON	PER	you
+30	494	494	PRON	PER	you
+41	499	499	PRON	PER	we
+0	506	506	PRON	PER	My
+48	506	507	NOM	FAC	My district
+49	514	515	NOM	PER	the children
+41	519	519	PRON	PER	We
+0	525	525	PRON	PER	I

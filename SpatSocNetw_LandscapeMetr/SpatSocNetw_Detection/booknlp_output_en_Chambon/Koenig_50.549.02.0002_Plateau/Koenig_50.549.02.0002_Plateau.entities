@@ -1,0 +1,64 @@
+COREF	start_token	end_token	prop	cat	text
+5	3	4	PROP	PER	Elizabeth Koenig
+9	15	17	NOM	PER	the Trocme family
+0	19	19	PRON	PER	me
+10	22	27	NOM	PER	the Quaker in the United States
+1	25	27	PROP	GPE	the United States
+6	34	35	PROP	PER	the Quakers
+6	38	38	PRON	PER	their
+11	41	48	NOM	FAC	the Le Chambon - sur - Lignon Project
+7	53	54	PROP	PER	Pastor Trocme
+6	59	59	PRON	PER	their
+12	77	79	NOM	GPE	a whole village
+0	83	83	PRON	PER	I
+13	90	92	NOM	GPE	an entire region
+13	94	96	NOM	GPE	an entire region
+15	107	108	NOM	ORG	the government
+15	112	113	NOM	ORG	the government
+6	122	122	PRON	PER	them
+6	124	124	PRON	PER	their
+17	128	132	NOM	PER	Not such a single person
+18	141	143	NOM	PER	a single family
+19	145	149	NOM	PER	two or three devoted citizens
+20	151	153	NOM	GPE	an entire village
+20	155	155	PRON	PER	their
+21	155	156	NOM	PER	their neighbors
+2	168	168	PROP	GPE	France
+22	173	174	NOM	GPE	the village
+23	173	181	NOM	GPE	the village of Le Chambon - sur - Lignon
+3	176	181	PROP	GPE	Le Chambon - sur - Lignon
+24	184	184	PRON	PER	we
+0	191	191	PRON	PER	I
+25	209	212	NOM	PER	one of our colleagues
+24	211	211	PRON	PER	our
+26	211	212	NOM	PER	our colleagues
+27	216	218	NOM	PER	the French police
+28	222	223	NOM	VEH	a bus
+25	227	227	PRON	PER	he
+29	231	232	NOM	FAC	a camp
+24	234	234	PRON	PER	we
+25	243	243	PRON	PER	he
+25	254	254	PRON	PER	he
+30	257	258	NOM	VEH	the bus
+24	264	264	PRON	PER	we
+25	274	274	PRON	PER	his
+25	279	279	PRON	PER	he
+25	284	284	PRON	PER	he
+25	306	306	PRON	PER	he
+24	313	313	PRON	PER	we
+31	317	319	NOM	PER	very young children
+32	323	324	NOM	FAC	concentration camps
+33	329	333	NOM	PER	the mayor of the city
+34	332	333	NOM	GPE	the city
+8	337	337	PROP	PER	Petain
+35	340	341	NOM	PER	the children
+36	343	352	NOM	PER	the Jewish children of Le Chambon - sur - Lignon
+3	347	352	PROP	GPE	Le Chambon - sur - Lignon
+37	360	361	NOM	PER	the Swiss
+4	363	364	PROP	GPE	Secours Suisse
+25	373	373	PRON	PER	He
+38	385	386	NOM	PER	the authorities
+38	388	388	PRON	PER	They
+39	394	395	NOM	PER	the police
+40	396	396	NOM	FAC	there
+41	398	400	NOM	PER	the little boy

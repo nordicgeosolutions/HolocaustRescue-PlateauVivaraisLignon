@@ -1,0 +1,164 @@
+COREF	start_token	end_token	prop	cat	text
+1	18	22	PROP	GPE	Chambon - sur - Lignon
+2	25	27	PROP	GPE	Haute - Loire
+27	33	41	NOM	ORG	a center of mostly the remnants of the Huguenots
+19	40	41	PROP	PER	the Huguenots
+28	48	48	PRON	PER	they
+29	50	62	NOM	FAC	two homes for victims of war to be able to continue their studies
+30	53	55	NOM	PER	victims of war
+30	61	61	PRON	PER	their
+0	64	64	PRON	PER	I
+3	68	70	PROP	FAC	Maison des Roches
+0	80	80	PRON	PER	I
+0	87	87	PRON	PER	me
+1	89	93	PROP	GPE	Chambon - sur - Lignon
+1	126	130	PROP	GPE	Chambon - sur - Lignon
+31	132	132	PRON	PER	we
+0	135	135	PRON	PER	I
+0	137	137	PRON	PER	I
+32	144	146	NOM	FAC	Maison des Roches
+33	150	153	NOM	FAC	the house of rocks
+34	162	165	NOM	GPE	all countries in Europe
+4	165	165	PROP	GPE	Europe
+5	167	167	PROP	GPE	Spain
+6	169	169	PROP	GPE	Belgium
+7	171	171	PROP	GPE	Austria
+8	173	173	PROP	GPE	Poland
+9	175	175	PROP	GPE	Russia
+0	178	178	PRON	PER	my
+31	189	189	PRON	PER	we
+35	207	208	NOM	PER	the faculty
+31	213	213	PRON	PER	we
+0	219	219	PRON	PER	I
+0	232	232	PRON	PER	I
+36	235	236	NOM	PER	little children
+36	239	239	PRON	PER	they
+0	244	244	PRON	PER	I
+0	249	249	PRON	PER	myself
+0	270	270	PRON	PER	I
+20	288	289	PROP	PER	the French
+21	293	294	PROP	PER	the Jews
+10	300	300	PROP	GPE	Drancy
+37	303	304	NOM	LOC	the east
+31	307	307	PRON	PER	we
+1	311	315	PROP	GPE	Chambon - sur - Lignon
+0	318	318	PRON	PER	I
+0	327	327	PRON	PER	my
+11	331	331	PROP	GPE	Switzerland
+38	333	334	NOM	LOC	the mountains
+39	344	345	NOM	PER	Swiss soldiers
+31	350	350	PRON	PER	we
+11	353	353	PROP	GPE	Switzerland
+12	355	355	PROP	GPE	France
+40	361	364	NOM	PER	the French customs officials
+41	368	368	NOM	PER	police
+0	379	379	PRON	PER	I
+31	394	394	PRON	PER	we
+11	398	398	PROP	GPE	Switzerland
+31	400	400	PRON	PER	We
+13	402	403	PROP	LOC	the Alps
+31	411	411	PRON	PER	We
+1	418	422	PROP	GPE	Chambon - sur - Lignon
+42	427	429	NOM	PER	mostly Protestant farmers
+43	433	433	PRON	PER	you
+44	436	438	NOM	PER	summer resident people
+45	450	451	NOM	PER	summer residents
+46	453	453	NOM	FAC	there
+1	465	469	PROP	GPE	Chambon - sur - Lignon
+31	471	471	PRON	PER	we
+14	474	474	PROP	GPE	Rivesaltes
+22	483	484	PROP	PER	Tracy Strong
+0	488	488	PRON	PER	I
+22	490	490	PRON	PER	him
+0	491	491	PRON	PER	my
+22	501	501	PRON	PER	he
+22	504	504	PRON	PER	him
+0	507	507	PRON	PER	I
+0	521	521	PRON	PER	I
+0	530	530	PRON	PER	my
+22	534	534	PRON	PER	he
+31	538	538	PRON	PER	us
+23	545	545	PROP	PER	Madam
+47	548	549	NOM	FAC	the camp
+14	553	553	PROP	GPE	Rivesaltes
+23	555	555	PRON	PER	She
+48	557	563	NOM	PER	the chief of the Cimade in France
+12	563	563	PROP	GPE	France
+24	566	567	PROP	PER	Pastor Trocme
+24	568	568	PRON	PER	himself
+24	570	571	PROP	PER	Pastor Trocme
+49	573	588	NOM	PER	the famous priest in Chambon - sur - Lignon who offered passive resistance against the Germans
+1	577	581	PROP	GPE	Chambon - sur - Lignon
+25	587	588	PROP	PER	the Germans
+1	595	599	PROP	GPE	Chambon - sur - Lignon
+49	601	601	PRON	PER	he
+50	603	607	NOM	PER	a prominent person in there
+46	607	607	NOM	GPE	there
+26	620	621	PROP	PER	Professor Hallie
+0	625	625	PRON	PER	I
+0	636	636	PRON	PER	I
+1	661	665	PROP	GPE	Chambon - sur - Lignon
+0	667	667	PRON	PER	I
+52	671	671	PRON	PER	them
+52	676	676	PRON	PER	They
+52	680	680	PRON	PER	they
+52	683	683	PRON	PER	they
+53	686	686	PRON	PER	us
+15	695	698	PROP	ORG	the French Vichy administration
+52	700	700	PRON	PER	They
+53	702	702	PRON	PER	us
+54	702	703	NOM	PER	us youngsters
+55	705	709	NOM	PER	a group of political prisoners
+56	708	709	NOM	PER	political prisoners
+57	716	717	NOM	PER	the Germans
+47	719	720	NOM	FAC	the camp
+53	723	723	PRON	PER	we
+59	726	730	NOM	FAC	the railway station in Perpignan
+16	730	730	PROP	GPE	Perpignan
+53	733	733	PRON	PER	we
+25	738	739	PROP	PER	the Germans
+53	741	741	PRON	PER	We
+53	743	743	PRON	PER	our
+1	747	751	PROP	GPE	Chambon - sur - Lignon
+60	760	761	NOM	VEH	the train
+61	763	764	NOM	PER	the troops
+62	770	772	NOM	PER	the German troops
+63	775	776	NOM	PER	French police
+53	783	783	PRON	PER	we
+17	787	788	PROP	FAC	Le Chambon
+18	789	792	PROP	GPE	- sur - Lignon
+1	796	800	PROP	GPE	Chambon - sur - Lignon
+53	806	806	PRON	PER	we
+53	819	819	PRON	PER	us
+53	826	826	PRON	PER	us
+12	830	830	PROP	GPE	France
+53	834	834	PRON	PER	us
+53	841	841	PRON	PER	we
+53	850	850	PRON	PER	we
+64	860	866	NOM	LOC	the Swiss border on the French side
+65	864	866	NOM	LOC	the French side
+53	868	868	PRON	PER	We
+66	873	873	NOM	VEH	train
+67	876	878	NOM	LOC	the Swiss border
+68	883	883	NOM	PER	guide
+0	885	885	PRON	PER	My
+0	887	887	PRON	PER	my
+69	887	888	NOM	PER	my mother
+1	892	896	PROP	GPE	Chambon - sur - Lignon
+70	901	905	NOM	FAC	the house of Pastor Trocme
+24	904	905	PROP	PER	Pastor Trocme
+69	908	908	PRON	PER	she
+71	912	915	NOM	PER	so - called domestic
+69	917	917	PRON	PER	She
+72	919	920	NOM	PER	the cook
+69	933	933	PRON	PER	she
+73	946	948	NOM	PER	the Vichy troops
+74	960	966	NOM	PER	the minister of the fight against unemployment
+75	968	975	NOM	PER	the commander of the 318th foreign workers legion
+76	971	975	NOM	PER	the 318th foreign workers legion
+74	977	977	PRON	PER	him
+0	980	980	PRON	PER	me
+1	983	987	PROP	GPE	Chambon - sur - Lignon
+0	1006	1006	PRON	PER	me
+0	1007	1007	PRON	PER	my
+1	1012	1016	PROP	GPE	Chambon - sur - Lignon

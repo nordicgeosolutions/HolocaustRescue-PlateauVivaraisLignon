@@ -1,0 +1,296 @@
+start_token	end_token	supersense_category	text
+1	1	verb.possession	received
+7	8	noun.group	Tracy Strong
+10	10	noun.attribute	influence
+12	12	noun.communication	documents
+14	14	noun.act	liberation
+16	17	verb.motion	go to
+18	22	noun.location	Chambon - sur - Lignon
+25	27	noun.location	Haute - Loire
+30	30	verb.stative	was
+34	34	noun.location	center
+38	38	noun.relation	remnants
+41	41	noun.person	Huguenots
+45	45	noun.group	population
+49	49	verb.possession	had
+51	51	noun.artifact	homes
+53	53	noun.person	victims
+55	55	noun.act	war
+57	57	verb.stative	be
+60	60	verb.stative	continue
+62	62	noun.cognition	studies
+66	66	verb.social	assigned
+68	70	noun.location	Maison des Roches
+75	75	verb.stative	was
+77	77	noun.communication	ministerial
+78	78	noun.act	decision
+81	81	verb.possession	have
+84	84	noun.communication	documents
+86	86	verb.social	conducted
+89	93	noun.location	Chambon - sur - Lignon
+98	98	noun.act	Yeah
+102	102	verb.stative	been
+103	103	noun.time	June
+107	107	noun.time	Before
+118	118	verb.stative	been
+119	119	noun.time	April
+121	121	noun.time	April
+126	130	noun.location	Chambon - sur - Lignon
+139	139	verb.communication	say
+142	142	verb.social	welcomed
+144	146	noun.location	Maison des Roches
+149	149	verb.communication	means
+151	152	noun.artifact	house of
+153	153	noun.location	rocks
+156	156	verb.stative	was
+158	158	noun.location	home
+160	160	noun.person	students
+163	163	noun.group	countries
+165	165	noun.object	Europe
+167	167	noun.location	Spain
+169	169	noun.location	Belgium
+171	171	noun.location	Austria
+173	173	noun.location	Poland
+175	175	noun.location	Russia
+179	179	noun.attribute	age
+186	186	noun.group	denominations
+196	196	verb.stative	continue
+199	199	noun.state	extent
+201	201	noun.cognition	studies
+205	205	noun.state	extent
+208	208	noun.group	faculty
+209	209	verb.stative	was
+216	216	verb.stative	attend
+217	217	noun.group	school
+220	220	verb.stative	attended
+228	228	noun.group	grade
+230	230	noun.communication	French
+233	233	verb.stative	was
+236	236	noun.person	children
+240	240	verb.cognition	found
+247	247	verb.cognition	think
+253	253	verb.stative	was
+256	256	noun.cognition	purpose
+258	258	verb.cognition	learning
+259	259	noun.communication	French
+265	265	noun.cognition	maths
+268	268	noun.act	courses
+271	271	verb.stative	was
+274	274	noun.state	grades
+277	277	noun.communication	idyll
+280	280	verb.stative	last
+287	287	noun.time	July
+289	289	noun.person	French
+290	290	verb.change	started
+291	291	verb.contact	collecting
+294	294	noun.person	Jews
+296	296	noun.act	deportation
+300	300	noun.location	Drancy
+304	304	noun.location	east
+311	315	noun.location	Chambon - sur - Lignon
+320	320	verb.communication	described
+322	322	noun.event	happenings
+324	324	noun.time	then
+329	329	noun.act	flight
+331	331	noun.location	Switzerland
+334	334	noun.object	mountains
+337	337	noun.communication	diary
+342	342	noun.act	return
+345	345	noun.person	soldiers
+348	348	noun.time	day
+351	352	verb.motion	arrived in
+353	353	noun.location	Switzerland
+355	355	noun.location	France
+359	359	noun.act	arrest
+363	363	noun.artifact	customs
+364	364	noun.person	officials
+368	368	noun.group	police
+371	371	verb.motion	returned
+373	373	verb.cognition	result
+380	380	verb.cognition	think
+382	382	verb.stative	was
+383	383	noun.time	August
+385	385	noun.communication	No
+390	390	verb.stative	was
+392	392	noun.time	November
+395	395	verb.motion	fled
+398	398	noun.location	Switzerland
+401	401	verb.motion	crossed
+403	403	noun.location	Alps
+406	406	verb.stative	was
+418	418	noun.location	Chambon
+420	422	noun.location	sur - Lignon
+429	429	noun.person	farmers
+436	436	noun.time	summer
+438	438	noun.group	people
+444	444	verb.stative	been
+445	445	noun.time	summer
+449	449	verb.stative	was
+450	450	noun.time	summer
+451	451	noun.person	residents
+452	452	verb.stative	were
+457	457	noun.state	thing
+458	458	verb.stative	was
+461	461	noun.communication	word
+463	463	verb.motion	through
+465	469	noun.location	Chambon - sur - Lignon
+472	472	verb.stative	are
+474	474	noun.location	Rivesaltes
+483	484	noun.group	Tracy Strong
+485	485	verb.motion	came
+489	489	verb.possession	gave
+492	492	noun.artifact	shoes
+495	495	verb.stative	were
+498	498	noun.state	shambles
+502	502	verb.motion	took
+508	508	verb.possession	had
+510	510	noun.group	pair
+512	512	noun.substance	rubber
+513	513	noun.artifact	boots
+515	515	noun.communication	No
+518	518	verb.stative	was
+523	523	verb.change	mixing
+528	528	verb.stative	's
+531	531	noun.communication	book
+535	535	verb.communication	promised
+537	537	verb.possession	get
+540	540	noun.act	help
+545	545	noun.person	Madam
+546	546	verb.motion	came
+549	549	noun.artifact	camp
+553	553	noun.location	Rivesaltes
+556	556	verb.stative	was
+558	558	noun.person	chief
+561	561	noun.group	Cimade
+563	563	noun.location	France
+566	567	noun.person	Pastor Trocme
+570	571	noun.person	Pastor Trocme
+572	572	verb.stative	was
+575	575	noun.person	priest
+577	577	noun.location	Chambon
+581	581	noun.location	Lignon
+583	583	verb.consumption	offered
+585	585	noun.act	resistance
+588	588	noun.person	Germans
+591	591	noun.communication	movie
+593	593	verb.creation	made
+595	599	noun.location	Chambon - sur - Lignon
+602	602	verb.stative	is
+605	605	noun.person	person
+610	610	noun.communication	book
+612	612	verb.communication	called
+620	621	noun.person	Professor Hallie
+626	626	verb.possession	have
+628	628	noun.communication	book
+632	632	verb.stative	be
+637	637	verb.possession	have
+641	641	verb.stative	is
+644	644	noun.communication	story
+647	647	noun.act	resistance
+652	652	noun.communication	story
+654	654	verb.possession	saving
+656	656	noun.person	Jews
+659	660	verb.motion	passed through
+661	665	noun.location	Chambon - sur - Lignon
+668	668	verb.stative	was
+673	674	verb.motion	passed through
+677	677	verb.motion	came
+681	681	verb.communication	promised
+685	685	verb.possession	get
+693	693	noun.act	gesture
+698	698	noun.group	administration
+701	701	verb.social	let
+703	703	noun.person	youngsters
+706	706	noun.group	group
+709	709	noun.person	prisoners
+710	710	verb.motion	go
+713	713	verb.motion	go
+717	717	noun.person	Germans
+718	718	verb.competition	occupied
+720	720	noun.artifact	camp
+724	725	verb.motion	went to
+727	728	noun.artifact	railway station
+730	730	noun.location	Perpignan
+736	736	verb.emotion	bothered
+739	739	noun.person	Germans
+742	742	verb.motion	made
+747	751	noun.location	Chambon - sur - Lignon
+755	755	verb.stative	was
+761	761	noun.artifact	train
+764	764	noun.group	troops
+765	765	verb.motion	coming
+768	768	noun.location	way
+772	772	noun.group	troops
+776	776	noun.group	police
+777	777	verb.motion	going
+780	780	noun.location	way
+784	785	verb.social	made it
+787	788	noun.location	Le Chambon
+790	792	noun.location	sur - Lignon
+796	796	noun.location	Chambon
+798	800	noun.location	sur - Lignon
+804	804	noun.event	time
+812	812	noun.event	time
+814	814	noun.communication	preparations
+816	816	verb.social	made
+818	818	verb.possession	get
+821	822	noun.communication	identity papers
+825	825	verb.possession	get
+827	828	noun.communication	exit visa
+830	830	noun.location	France
+833	833	verb.possession	get
+836	836	noun.person	immigrant
+838	839	noun.communication	immigration visas
+844	844	verb.possession	get
+853	854	verb.social	pick up
+862	862	noun.location	border
+866	866	noun.location	side
+869	869	verb.social	managed
+871	871	verb.motion	go
+873	873	noun.artifact	train
+877	878	noun.location	Swiss border
+881	881	noun.event	time
+883	883	noun.person	guide
+886	886	noun.person	parents--
+888	888	noun.person	mother
+889	889	verb.stative	was
+892	896	noun.location	Chambon - sur - Lignon
+902	902	noun.artifact	house
+904	905	noun.person	Pastor Trocme
+910	910	verb.competition	serving
+918	918	verb.stative	was
+920	920	noun.person	cook
+924	924	verb.stative	was
+926	926	noun.quantity	much
+928	928	verb.consumption	cook
+929	929	noun.quantity	much
+934	934	verb.communication	spoke
+936	936	noun.communication	French
+938	938	verb.social	escaped
+940	940	noun.act	search
+943	943	verb.social	made
+948	948	noun.group	troops
+953	953	noun.communication	letter
+954	954	verb.stative	is
+956	956	noun.communication	copy
+958	958	noun.communication	directions
+961	961	noun.person	minister
+964	964	noun.act	fight
+966	966	noun.state	unemployment
+969	969	noun.person	commander
+973	974	noun.group	foreign workers
+975	975	noun.group	legion
+976	976	verb.communication	directing
+979	979	verb.social	let
+981	982	verb.motion	go to
+983	987	noun.location	Chambon - sur - Lignon
+988	988	verb.possession	provided
+991	991	noun.artifact	sleeps
+993	994	noun.artifact	sleeping sack
+996	997	noun.artifact	sleeping bag
+1001	1001	noun.artifact	blankets
+1005	1005	verb.possession	gave
+1008	1008	noun.state	freedom
+1010	1011	verb.motion	go to
+1012	1012	noun.location	Chambon
+1015	1016	noun.location	- Lignon

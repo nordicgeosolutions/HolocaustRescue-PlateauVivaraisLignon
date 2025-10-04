@@ -1,0 +1,13 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+523	533	520	520	he	10	" Bring them up , bring them up here . "
+866	884	886	886	he	81	" You stay here until they 're gone . When they leave the village you go back . "
+903	911	900	900	he	81	" You know who that belonged to ? "
+912	915	916	916	I	0	" No , "
+923	937	920	920	he	81	" Well that belonged to Jews and the Germans just took it over . "
+941	953	920	920	he	81	" That 's interesting . Why did they take it over ? "
+954	961	920	920	he	81	" Those people deserve nothing else . "
+975	985	972	972	I	0	" Do you know who you 're talking to ? "
+1020	1029	1030	1030	I	0	" No , I do n't believe it . "
+1033	1053	1054	1054	He	81	" what do n't you believe ? Did you ever see any ? Did you ever talk to any ? "
+1057	1062	1063	1063	I	0	" Of course not . "
+1066	1071	1063	1063	I	0	" Now you know . "

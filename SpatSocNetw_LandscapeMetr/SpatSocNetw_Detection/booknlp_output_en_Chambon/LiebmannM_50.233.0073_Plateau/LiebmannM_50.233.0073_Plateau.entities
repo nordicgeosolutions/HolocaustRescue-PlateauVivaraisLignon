@@ -1,0 +1,123 @@
+COREF	start_token	end_token	prop	cat	text
+8	0	2	PROP	PER	Max Karl Liebmann
+0	4	4	PRON	PER	I
+1	13	13	PROP	GPE	Mannheim
+2	15	15	PROP	GPE	Germany
+14	18	18	PRON	PER	we
+0	25	25	PRON	PER	I
+3	32	37	PROP	GPE	Le Chambon - sur - Lignon
+15	44	44	PRON	PER	she
+16	49	50	NOM	PER	these people
+0	54	54	PRON	PER	I
+0	59	59	PRON	PER	I
+0	64	64	PRON	PER	my
+3	67	72	PROP	GPE	Le Chambon - sur - Lignon
+15	77	77	PRON	PER	her
+0	81	81	PRON	PER	I
+0	88	88	PRON	PER	I
+3	91	96	PROP	GPE	Le Chambon - sur - Lignon
+0	99	99	PRON	PER	I
+17	101	101	NOM	FAC	there
+14	103	103	PRON	PER	we
+0	121	121	PRON	PER	I
+0	126	126	PRON	PER	I
+0	128	128	PRON	PER	my
+18	128	129	NOM	PER	my wife
+14	138	138	PRON	PER	we
+19	146	148	NOM	LOC	a little wood
+20	150	152	NOM	FAC	a tennis field
+19	154	156	NOM	LOC	a little wood
+9	159	159	PROP	PER	chance
+22	170	175	NOM	PER	a group of young teenage girls
+23	173	175	NOM	PER	young teenage girls
+22	182	182	PRON	PER	them
+0	184	184	PRON	PER	my
+18	184	185	NOM	PER	my wife
+0	187	187	PRON	PER	my
+25	187	188	NOM	PER	my girlfriend
+0	196	196	PRON	PER	I
+18	199	199	PRON	PER	her
+26	208	211	NOM	PER	one of her girlfriends
+18	210	210	PRON	PER	her
+27	210	211	NOM	PER	her girlfriends
+18	213	213	PRON	PER	She
+18	223	223	PRON	PER	she
+0	229	229	PRON	PER	I.
+0	232	232	PRON	PER	I
+0	237	237	PRON	PER	I
+18	241	241	PRON	PER	she
+0	243	243	PRON	PER	me
+10	245	246	PROP	PER	Mireille Philip
+28	249	266	NOM	PER	the wife of what was later to become the finance minister of de Gaulle in his first government
+29	257	266	NOM	PER	the finance minister of de Gaulle in his first government
+11	261	262	PROP	PER	de Gaulle
+11	264	264	PRON	PER	his
+11	273	274	PROP	PER	de Gaulle
+4	276	276	PROP	GPE	England
+18	279	279	PRON	PER	she
+30	287	288	NOM	GPE	the village
+31	291	309	NOM	FAC	a villa with people who were very willing to give me a room for the night and fed me
+0	301	301	PRON	PER	me
+0	309	309	PRON	PER	me
+0	311	311	PRON	PER	I
+32	315	316	NOM	FAC	a farm
+0	331	331	PRON	PER	I
+33	341	342	NOM	PER	these farmers
+33	344	344	PRON	PER	their
+0	347	347	PRON	PER	me
+33	349	349	PRON	PER	They
+0	351	351	PRON	PER	me
+33	353	353	PRON	PER	their
+34	353	354	NOM	FAC	their hayloft
+0	364	364	PRON	PER	I
+0	369	369	PRON	PER	I
+0	375	375	PRON	PER	I
+0	377	377	PRON	PER	I
+0	396	396	PRON	PER	my
+35	396	421	NOM	PER	my wife who , in those days , also was hiding on a farm because the raids had where had started in France to arrest Jews
+32	408	409	NOM	FAC	a farm
+5	418	418	PROP	GPE	France
+12	421	421	PROP	PER	Jews
+0	424	424	PRON	PER	I
+35	430	430	PRON	PER	her
+35	432	432	PRON	PER	she
+35	436	436	PRON	PER	she
+35	439	439	PRON	PER	she
+32	442	443	NOM	FAC	a farm
+0	445	445	PRON	PER	I
+0	453	453	PRON	PER	I
+3	461	466	PROP	GPE	Le Chambon - sur - Lignon
+0	468	468	PRON	PER	I
+0	470	470	PRON	PER	my
+25	470	471	NOM	PER	my girlfriend
+39	474	474	NOM	PER	people
+40	474	479	NOM	PER	people from , from the village
+30	478	479	NOM	GPE	the village
+13	481	482	PROP	PER	Madame Philip
+0	486	486	PRON	PER	I
+0	490	490	PRON	PER	I
+42	504	506	NOM	PER	three other fellows
+43	508	508	PRON	PER	we
+44	512	513	NOM	GPE	a village
+45	512	523	NOM	FAC	a village one stop from Saint - Gervais in the French Alps
+6	517	519	PROP	GPE	Saint - Gervais
+7	521	523	PROP	LOC	the French Alps
+46	525	525	PRON	PER	It
+17	527	527	NOM	GPE	there
+48	529	529	NOM	VEH	train
+43	531	531	PRON	PER	We
+49	535	535	NOM	PER	nobody
+43	537	537	PRON	PER	us
+49	539	539	NOM	PER	nobody
+43	541	541	PRON	PER	us
+43	543	543	PRON	PER	We
+5	548	548	PROP	GPE	France
+3	551	556	PROP	GPE	Le Chambon - sur - Lignon
+43	560	560	PRON	PER	we
+43	563	563	PRON	PER	we
+51	568	570	NOM	PER	a French minister
+52	576	578	NOM	PER	no French pastors
+53	586	587	NOM	PER	Protestant ministers
+43	590	590	PRON	PER	we
+53	594	595	NOM	PER	Protestant ministers
+55	599	601	NOM	FAC	the Catholic Church
