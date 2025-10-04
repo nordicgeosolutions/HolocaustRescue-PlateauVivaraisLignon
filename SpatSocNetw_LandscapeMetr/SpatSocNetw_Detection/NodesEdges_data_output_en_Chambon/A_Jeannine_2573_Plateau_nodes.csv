@@ -1,0 +1,13 @@
+Id,Label,Gender,MentionCount,Type,BookID,X_Coord,Y_Coord,Z_Coord
+10,Jews,,0,Character,A_Jeannine_2573_Plateau,,,
+9,Pierre Sauvage,,0,Character,A_Jeannine_2573_Plateau,,,
+0,I,she/her,79,Character,A_Jeannine_2573_Plateau,,,
+28,a Jew,,0,Character,A_Jeannine_2573_Plateau,,,
+22,a Frenchman named Pierre Sauvage,,0,Character,A_Jeannine_2573_Plateau,,,
+24,Huguenots saved,,0,Character,A_Jeannine_2573_Plateau,,,
+27,the Germans,,0,Character,A_Jeannine_2573_Plateau,,,
+16,somebody,,0,Character,A_Jeannine_2573_Plateau,,,
+17,us,unknown,2,Character,A_Jeannine_2573_Plateau,,,
+11,Germans,,0,Character,A_Jeannine_2573_Plateau,,,
+LOC_Les_Tavas,Les Tavas,,,Location,A_Jeannine_2573_Plateau,45.051365,4.33872,1005.0
+LOC_Le_Chambon-sur-Lignon,Le Chambon-sur-Lignon,,,Location,A_Jeannine_2573_Plateau,45.06081,4.302941,961.0

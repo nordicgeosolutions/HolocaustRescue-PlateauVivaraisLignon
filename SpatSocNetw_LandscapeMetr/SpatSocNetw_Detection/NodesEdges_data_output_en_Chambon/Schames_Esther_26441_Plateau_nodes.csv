@@ -1,0 +1,6 @@
+Id,Label,Gender,MentionCount,Type,BookID,X_Coord,Y_Coord,Z_Coord
+30,you,unknown,2,Character,Schames_Esther_26441_Plateau,,,
+24,that girl,she/her,2,Character,Schames_Esther_26441_Plateau,,,
+31,they,they/them/their,3,Character,Schames_Esther_26441_Plateau,,,
+0,myself,they/them/their,140,Character,Schames_Esther_26441_Plateau,,,
+LOC_Le_Chambon-sur-Lignon,Le Chambon-sur-Lignon,,,Location,Schames_Esther_26441_Plateau,45.06081,4.302941,961.0

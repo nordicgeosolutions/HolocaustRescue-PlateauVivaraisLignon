@@ -1,0 +1,9 @@
+Id,Label,Gender,MentionCount,Type,BookID,X_Coord,Y_Coord,Z_Coord
+47,we,unknown,6,Character,Feigl_Diary_EnglishTrans_Plateau,,,
+32,"a young girl , Simone Fullenbaum , who lived previously at Les Caillols and now lives at Les Grillons",,0,Character,Feigl_Diary_EnglishTrans_Plateau,,,
+13,Mrs. Cavaillon,she/her,9,Character,Feigl_Diary_EnglishTrans_Plateau,,,
+0,I,he/him/his,44,Character,Feigl_Diary_EnglishTrans_Plateau,,,
+16,Mr. TrocmÃ,he/him/his,11,Character,Feigl_Diary_EnglishTrans_Plateau,,,
+17,Simone Fullenbaum,,0,Character,Feigl_Diary_EnglishTrans_Plateau,,,
+LOC_Les_Grillons,Les Grillons,,,Location,Feigl_Diary_EnglishTrans_Plateau,45.07128,4.326289,1067.0
+LOC_Le_Chambon-sur-Lignon,Le Chambon-sur-Lignon,,,Location,Feigl_Diary_EnglishTrans_Plateau,45.06081,4.302941,961.0

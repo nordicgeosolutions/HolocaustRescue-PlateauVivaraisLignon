@@ -1,0 +1,8 @@
+Source,Target,Weight,EdgeType,Location,X_Coord,Y_Coord,Z_Coord,BookID,LocationWindow_Sentence,ContextWinStart,ContextWinEnd,Events,Supersense,QuoteText
+0,24,1,scene_copresence,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,,,
+0,30,1,scene_copresence,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,,,
+0,31,1,scene_copresence,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,,,
+24,30,1,scene_copresence,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,,,
+24,31,1,scene_copresence,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,,,
+30,31,1,scene_copresence,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,,,
+24,0,1,action,Le Chambon-sur-Lignon,45.06081,4.302941,961,Schames_Esther_26441_Plateau,4,3,5,take,verb.cognition,
