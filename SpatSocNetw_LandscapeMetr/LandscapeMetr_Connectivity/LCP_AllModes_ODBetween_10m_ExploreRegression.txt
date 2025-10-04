@@ -1,0 +1,100 @@
+******************************************************************************
+Choose 1 of 5 Summary
+                      Highest Adjusted R-Squared Results                      
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                           
+ 0.31 190.04 0.00  0.04 1.00 0.29  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB*
+ 0.28 190.61 0.00  0.03 1.00 0.58  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS* 
+ 0.11 193.96 0.00  0.13 1.00 0.79  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 2 of 5 Summary
+                                               Highest Adjusted R-Squared Results                                               
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                             
+ 0.39 190.46 0.00  0.08 1.81 0.01  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS*  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN      
+ 0.29 192.94 0.00  0.09 1.00 0.19  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB*      
+ 0.28 193.02 0.00  0.07 5.08 0.30  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS*
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 3 of 5 Summary
+                                                                       Highest Adjusted R-Squared Results                                                                      
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                                                                            
+ 0.35 194.54 0.00  0.15 5.22 0.02  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN    
+ 0.35 194.55 0.00  0.13 5.83 0.01  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS**  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN 
+ 0.34 194.68 0.00  0.17 2.29 0.02  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB**  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 4 of 5 Summary
+                                                                                             Highest Adjusted R-Squared Results                                                                                            
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                                                                                                                        
+ 0.30 199.53 0.00  0.23 2.32 0.01  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB**  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN
+ 0.30 199.72 0.00  0.22 5.67 0.01  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN    
+ 0.29 199.83 0.00  0.22 5.84 0.01  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS*  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN  
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 5 of 5 Summary
+Highest Adjusted R-Squared Results
+AdjR2 AICc JB K(BP) VIF SA   Model
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+******** Exploratory Regression Global Summary (ALLMODES_LCPS_WEIGHT) ********
+
+              Percentage of Search Criteria Passed             
+Search Criterion                    Cutoff Trials # Passed % Passed
+Min Adjusted R-Squared              > 0.50     29        0     0.00
+Max Coefficient p-value             < 0.05     29        0     0.00
+Max VIF Value                       < 7.50     29       27    93.10
+Min Jarque-Bera p-value             > 0.10     29        0     0.00
+Min Spatial Autocorrelation p-value > 0.10     12        5    41.67
+
+------------------------------------------------------------------------------
+
+                         Summary of Variable Significance                        
+Variable                                         % Significant % Negative % Positive
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB          21.43      92.86       7.14
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS           14.29       0.00     100.00
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER                 0.00     100.00       0.00
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL          0.00      57.14      42.86
+ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN                0.00      86.67      13.33
+
+------------------------------------------------------------------------------
+
+                                                                          Summary of Multicollinearity*                                                                          
+Variable                                            VIF Violations Covariates                                                                                                       
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER          1.09          0 --------                                                                                                         
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  69.64          2 ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB (22.22), ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS (22.22)  
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB   41.62          2 ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL (22.22), ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS (22.22) 
+ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS   159.10          2 ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL (22.22), ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB (22.22)
+ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN         2.15          0 --------                                                                                                         
+
+------------------------------------------------------------------------------
+
+                                                                                                       Summary of Residual Normality (JB)                                                                                                      
+      JB    AdjR2       AICc    K(BP)      VIF       SA   Model                                                                                                                                                                                      
+0.004824 0.291768 199.825178 0.215539 5.839275 0.012994  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS*  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN
+0.004557 0.348289 194.553319 0.131867 5.826880 0.013888  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS**  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN                                           
+0.004370 0.296598 199.715698 0.217239 5.671274 0.014570  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_WATER  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS  -ANALYSIS_ODBETWEEN_ALLMODES_10M_SLOPE_MEAN  
+
+------------------------------------------------------------------------------
+
+                                                   Summary of Residual Spatial Autocorrelation (SA)                                                   
+      SA    AdjR2       AICc       JB    K(BP)      VIF   Model                                                                                             
+0.789790 0.112800 193.955224 0.000000 0.133978 1.000000  -ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL                                                  
+0.575159 0.280197 190.609731 0.000026 0.030718 1.000000  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS*                                                   
+0.302830 0.282022 193.019748 0.000116 0.067831 5.081979  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_ALLMODES_10M_PCT_ROADSBLDGS*
+
+------------------------------------------------------------------------------
+                    Table Abbreviations                     
+AdjR2 Adjusted R-Squared                                     
+AICc  Akaike's Information Criterion                         
+JB    Jarque-Bera p-value                                    
+K(BP) Koenker (BP) Statistic p-value                         
+VIF   Max Variance Inflation Factor                          
+SA    Global Moran's I p-value                               
+Model Variable sign (+/-)                                    
+Model Variable significance (* = 0.10; ** = 0.05; *** = 0.01)
+------------------------------------------------------------------------------

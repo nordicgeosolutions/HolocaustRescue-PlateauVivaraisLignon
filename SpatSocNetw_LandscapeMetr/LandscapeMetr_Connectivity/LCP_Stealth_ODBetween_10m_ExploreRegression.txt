@@ -1,0 +1,107 @@
+******************************************************************************
+Choose 1 of 6 Summary
+                      Highest Adjusted R-Squared Results                     
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                          
+ 0.44 176.26 0.01  0.01 1.00 0.67  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS**
+ 0.28 180.11 0.00  0.05 1.00 0.80  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB*
+ 0.27 180.38 0.00  0.06 1.00 0.32  -STEALTH_LCPS_LCP_LENGTH*                       
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 2 of 6 Summary
+                                              Highest Adjusted R-Squared Results                                              
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                           
+ 0.65 171.99 0.57  0.02 2.38 0.20  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**  
+ 0.43 179.33 0.03  0.03 3.63 0.78  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS*
+ 0.42 179.34 0.03  0.03 1.76 0.80  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS* 
+                                                                  Passing Models                                                                  
+AdjR2    AICc       JB       K(BP)    VIF      SA         Model                                                                                         
+0.647459 171.991692 0.574000 0.019968 2.384969 0.196651  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**
+******************************************************************************
+Choose 3 of 6 Summary
+                                                                        Highest Adjusted R-Squared Results                                                                        
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                                                                               
+ 0.69 173.37 0.60  0.07 3.57 0.03  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER*  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**          
+ 0.64 175.59 0.58  0.05 2.48 0.22  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL***  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**
+ 0.63 176.08 0.55  0.06 3.40 0.20  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**     
+                                                                                             Passing Models                                                                                             
+AdjR2    AICc       JB       K(BP)    VIF      SA         Model                                                                                                                                               
+0.641759 175.593774 0.577365 0.053044 2.482486 0.223524  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL***  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**
+******************************************************************************
+Choose 4 of 6 Summary
+                                                                                              Highest Adjusted R-Squared Results                                                                                              
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                                                                                                                           
+ 0.69 177.63 0.64  0.05 4.50 0.16  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**                           
+ 0.67 178.83 0.57  0.12 3.68 0.05  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL***  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN***
+ 0.67 178.89 0.55  0.14 4.74 0.03  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN***     
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 5 of 6 Summary
+                                                                                                            Highest Adjusted R-Squared Results                                                                                                           
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                                                                                                                                                                                                                      
+ 0.67 184.61 0.67  0.07 6.10 0.15  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**    
+ 0.67 184.64 0.67  0.07 6.10 0.16  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**     
+ 0.67 184.82 0.70  0.07 4.48 0.20  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL***  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+******** Exploratory Regression Global Summary (STEALTH_LCPS_WEIGHT) *********
+
+              Percentage of Search Criteria Passed             
+Search Criterion                    Cutoff Trials # Passed % Passed
+Min Adjusted R-Squared              > 0.50     55       16    29.09
+Max Coefficient p-value             < 0.05     55        3     5.45
+Max VIF Value                       < 7.50     55       55   100.00
+Min Jarque-Bera p-value             > 0.10     55       19    34.55
+Min Spatial Autocorrelation p-value > 0.10     15       12    80.00
+
+------------------------------------------------------------------------------
+
+                        Summary of Variable Significance                        
+Variable                                        % Significant % Negative % Positive
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS           62.50       0.00     100.00
+ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN               57.14      89.29      10.71
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB          29.17     100.00       0.00
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL         16.67      66.67      33.33
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER                14.29      60.71      39.29
+STEALTH_LCPS_LCP_LENGTH                                 10.71      71.43      28.57
+
+------------------------------------------------------------------------------
+
+                     Summary of Multicollinearity*                     
+Variable                                         VIF Violations Covariates
+STEALTH_LCPS_LCP_LENGTH                         4.48          0 --------  
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER        1.97          0 --------  
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL 3.79          0 --------  
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  1.84          0 --------  
+ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS   6.10          0 --------  
+ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN       4.27          0 --------  
+
+------------------------------------------------------------------------------
+
+                                                                                                                       Summary of Residual Normality (JB)                                                                                                                      
+      JB    AdjR2       AICc    K(BP)      VIF       SA   Model                                                                                                                                                                                                                      
+0.703562 0.667056 184.818543 0.065318 4.480755 0.195679  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL***  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**
+0.669505 0.671063 184.636961 0.070367 6.102617 0.158637  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**     
+0.665359 0.671645 184.610387 0.071253 6.099055 0.153632  -STEALTH_LCPS_LCP_LENGTH  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_WATER**  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS***  -ANALYSIS_ODBETWEEN_STEALTH_10M_SLOPE_MEAN**    
+
+------------------------------------------------------------------------------
+
+                                                  Summary of Residual Spatial Autocorrelation (SA)                                                  
+      SA    AdjR2       AICc       JB    K(BP)      VIF   Model                                                                                           
+0.804702 0.279019 180.105836 0.002264 0.054539 1.000000  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB*                                                 
+0.802144 0.424702 179.337514 0.028561 0.033229 1.757896  -ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_FORESTSCRUB  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS* 
+0.775070 0.425136 179.326172 0.029955 0.032345 3.631257  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_AGRICULTURAL  +ANALYSIS_ODBETWEEN_STEALTH_10M_PCT_ROADSBLDGS*
+
+------------------------------------------------------------------------------
+                    Table Abbreviations                     
+AdjR2 Adjusted R-Squared                                     
+AICc  Akaike's Information Criterion                         
+JB    Jarque-Bera p-value                                    
+K(BP) Koenker (BP) Statistic p-value                         
+VIF   Max Variance Inflation Factor                          
+SA    Global Moran's I p-value                               
+Model Variable sign (+/-)                                    
+Model Variable significance (* = 0.10; ** = 0.05; *** = 0.01)
+------------------------------------------------------------------------------

@@ -1,0 +1,89 @@
+******************************************************************************
+Choose 1 of 4 Summary
+      Highest Adjusted R-Squared Results      
+AdjR2   AICc   JB K(BP)  VIF   SA   Model           
+-0.03 165.59 0.02  0.21 1.00 0.62  +PCT_ROADSBLDGS  
+-0.04 165.69 0.01  0.25 1.00 0.61  -PCT_AGRICULTURAL
+-0.08 166.01 0.01  0.34 1.00 0.62  -PCT_FORESTSCRUB 
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 2 of 4 Summary
+               Highest Adjusted R-Squared Results               
+AdjR2   AICc   JB K(BP)  VIF   SA   Model                             
+-0.19 172.64 0.02  0.42 1.72 0.61  +PCT_ROADSBLDGS  -SLOPE_MEAN       
+-0.20 172.78 0.01  0.52 1.73 0.65  -PCT_AGRICULTURAL  -SLOPE_MEAN     
+-0.20 172.79 0.02  0.45 1.30 0.62  -PCT_AGRICULTURAL  -PCT_FORESTSCRUB
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 3 of 4 Summary
+                      Highest Adjusted R-Squared Results                      
+AdjR2   AICc   JB K(BP)   VIF   SA   Model                                          
+-0.42 184.64 0.02  0.62  1.94 0.61  -PCT_AGRICULTURAL  -PCT_FORESTSCRUB  -SLOPE_MEAN
+-0.42 184.64 0.02  0.62 11.97 0.61  -PCT_AGRICULTURAL  +PCT_ROADSBLDGS  -SLOPE_MEAN 
+-0.42 184.64 0.02  0.62  3.05 0.61  +PCT_FORESTSCRUB  +PCT_ROADSBLDGS  -SLOPE_MEAN  
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+Choose 4 of 4 Summary
+Highest Adjusted R-Squared Results
+AdjR2 AICc JB K(BP) VIF SA   Model
+       Passing Models       
+AdjR2 AICc JB K(BP) VIF SA   Model
+******************************************************************************
+*************** Exploratory Regression Global Summary (WEIGHT) ***************
+
+              Percentage of Search Criteria Passed             
+Search Criterion                    Cutoff Trials # Passed % Passed
+Min Adjusted R-Squared              > 0.50     13        0     0.00
+Max Coefficient p-value             < 0.05     13        0     0.00
+Max VIF Value                       < 7.50     13       11    84.62
+Min Jarque-Bera p-value             > 0.10     13        0     0.00
+Min Spatial Autocorrelation p-value > 0.10      9        9   100.00
+
+------------------------------------------------------------------------------
+
+         Summary of Variable Significance        
+Variable         % Significant % Negative % Positive
+PCT_AGRICULTURAL          0.00      83.33      16.67
+PCT_FORESTSCRUB           0.00      83.33      16.67
+PCT_ROADSBLDGS            0.00       0.00     100.00
+SLOPE_MEAN                0.00      71.43      28.57
+
+------------------------------------------------------------------------------
+
+             Summary of Multicollinearity*             
+Variable           VIF Violations Covariates              
+PCT_AGRICULTURAL 11.97          2 PCT_ROADSBLDGS (40.00)  
+PCT_FORESTSCRUB   2.09          0 --------                
+PCT_ROADSBLDGS   11.86          2 PCT_AGRICULTURAL (40.00)
+SLOPE_MEAN        1.76          0 --------                
+
+------------------------------------------------------------------------------
+
+                                 Summary of Residual Normality (JB)                                 
+      JB     AdjR2       AICc    K(BP)       VIF       SA   Model                                         
+0.018724 -0.185669 172.643428 0.419117  1.718405 0.612406  +PCT_ROADSBLDGS  -SLOPE_MEAN                   
+0.018575 -0.422767 184.643208 0.624491  3.054651 0.612944  +PCT_FORESTSCRUB  +PCT_ROADSBLDGS  -SLOPE_MEAN 
+0.018571 -0.422766 184.643197 0.624486 11.967604 0.612957  -PCT_AGRICULTURAL  +PCT_ROADSBLDGS  -SLOPE_MEAN
+
+------------------------------------------------------------------------------
+
+                    Summary of Residual Spatial Autocorrelation (SA)                   
+      SA     AdjR2       AICc       JB    K(BP)      VIF   Model                             
+0.646348 -0.203333 172.776527 0.010878 0.518835 1.734604  -PCT_AGRICULTURAL  -SLOPE_MEAN     
+0.619663 -0.204494 172.785203 0.016948 0.452825 1.297695  -PCT_AGRICULTURAL  -PCT_FORESTSCRUB
+0.617404 -0.032607 165.586803 0.016621 0.210469 1.000000  +PCT_ROADSBLDGS                    
+
+------------------------------------------------------------------------------
+                    Table Abbreviations                     
+AdjR2 Adjusted R-Squared                                     
+AICc  Akaike's Information Criterion                         
+JB    Jarque-Bera p-value                                    
+K(BP) Koenker (BP) Statistic p-value                         
+VIF   Max Variance Inflation Factor                          
+SA    Global Moran's I p-value                               
+Model Variable sign (+/-)                                    
+Model Variable significance (* = 0.10; ** = 0.05; *** = 0.01)
+------------------------------------------------------------------------------
