@@ -1,0 +1,239 @@
+start_token	end_token	supersense_category	text
+2	2	noun.time	September
+7	7	verb.stative	am
+13	13	noun.act	rest
+14	14	noun.time	hour
+15	16	noun.person	Mrs. Cavaillon
+17	17	verb.communication	called
+21	21	verb.possession	received
+23	23	noun.communication	letter
+24	24	verb.communication	asking
+27	27	verb.emotion	wanted
+29	29	verb.communication	send
+31	31	noun.person	children
+36	36	noun.group	school
+38	40	noun.location	Haute - Loire
+43	43	noun.location	elevation
+47	47	noun.quantity	meters
+50	50	verb.cognition	selected
+54	54	noun.person	boy
+58	58	verb.stative	be
+61	61	verb.motion	go
+65	65	verb.stative	is
+72	72	verb.stative	be
+76	76	noun.time	Monday
+78	78	noun.time	January
+82	85	noun.person	Mr. BrÃ © mond
+86	86	verb.motion	came
+88	89	noun.location	La RouviÃ¨re
+90	90	noun.time	today
+94	94	verb.emotion	flooded
+97	97	noun.body	tears
+101	101	verb.communication	told
+104	104	verb.contact	pack
+106	106	noun.artifact	things
+109	109	noun.time	minutes
+113	113	verb.motion	taking
+119	119	verb.communication	tell
+123	123	verb.stative	was
+126	126	noun.time	Tuesday
+128	128	noun.time	January
+133	134	noun.location	Les Caillols
+136	137	noun.person	Mrs. BrÃ
+142	143	verb.change	got married
+145	145	verb.communication	wrote
+147	147	noun.communication	letter
+149	150	noun.person	Mr. TrocmÃ
+151	151	verb.communication	©
+155	155	verb.communication	asked
+161	161	verb.possession	have
+163	163	noun.object	opening
+168	168	noun.location	place
+172	172	verb.communication	asked
+175	175	verb.social	allow
+178	179	verb.stative	go to
+180	180	noun.group	school
+183	183	verb.communication	gave
+185	185	noun.communication	letter
+189	189	noun.person	girl
+191	192	noun.person	Simone Fullenbaum
+195	195	verb.stative	lived
+198	199	noun.location	Les Caillols
+202	202	verb.stative	lives
+204	205	noun.location	Les Grillons
+207	208	noun.person	Mr. TrocmÃ
+212	212	verb.emotion	hope
+216	216	verb.stative	be
+219	219	verb.motion	go
+223	223	noun.food	food
+225	225	verb.stative	is
+228	228	noun.person	kings
+230	230	noun.food	butter
+232	232	noun.food	potatoes
+240	240	verb.change	happening
+245	245	noun.person	son
+247	248	verb.cognition	thinking of
+251	251	noun.time	Friday
+253	253	noun.time	January
+259	259	verb.communication	told
+265	266	verb.motion	get out
+271	271	noun.time	days
+275	275	verb.motion	returned
+277	277	noun.location	Marseilles
+279	279	noun.time	noon
+281	282	noun.person	Mrs. B.
+283	283	verb.communication	told
+287	287	verb.possession	received
+289	289	noun.communication	telegram
+291	292	noun.person	Mr. TrocmÃ
+296	296	verb.possession	has
+298	298	noun.state	vacancy
+300	300	verb.communication	expects
+310	310	verb.stative	am
+312	312	noun.state	luck
+316	316	verb.contact	packed
+318	318	noun.artifact	suitcases
+322	322	verb.stative	be
+325	325	verb.motion	leave
+327	327	noun.time	Saturday
+330	330	noun.time	a.m.
+337	337	noun.artifact	thing
+340	340	noun.group	UGIF
+342	343	noun.group	Union GÃ
+344	344	verb.creation	©
+351	353	noun.location	lites de France
+355	355	verb.motion	arrived
+357	357	noun.time	Saturday
+359	359	noun.time	January
+370	370	verb.social	took
+371	371	noun.act	leave
+373	373	verb.motion	took
+376	376	noun.artifact	streetcar
+379	379	noun.time	a.m.
+383	383	noun.quantity	a.m.
+385	385	verb.motion	left
+388	388	noun.location	Marseilles
+390	391	noun.location	Paris express
+393	393	noun.act	travel
+395	396	noun.artifact	change train
+398	398	noun.artifact	bus
+402	402	noun.location	place
+407	407	noun.artifact	bridge
+409	409	noun.artifact	telephone
+411	412	noun.artifact	fast train
+416	416	noun.artifact	train
+418	419	noun.location	St. AgrÃ¨ve
+423	424	verb.motion	arrived at
+425	426	noun.location	St. AgrÃ¨ve
+429	429	noun.time	p.m.
+431	431	noun.artifact	train
+434	434	verb.motion	go
+438	439	noun.person	Mr. TrocmÃ
+441	441	verb.motion	came
+444	444	noun.artifact	bicycle
+446	446	verb.motion	meet
+452	452	noun.person	man
+463	463	verb.motion	cover
+465	465	noun.quantity	kilometers
+468	468	noun.substance	snow
+472	472	noun.time	night
+475	476	verb.motion	arrived at
+477	478	noun.location	Les Grillons
+481	481	noun.time	a.m.
+484	484	verb.consumption	ate
+490	491	verb.motion	went to
+492	492	verb.body	sleep
+495	495	noun.artifact	annex
+499	499	verb.perception	saw
+500	501	noun.person	Mr. T.
+504	504	noun.time	Sunday
+506	506	noun.time	January
+511	512	verb.body	got up
+515	515	noun.time	stroke
+521	521	noun.time	morning
+527	528	verb.social	got acquainted
+531	531	noun.artifact	kitchen
+534	534	verb.stative	was
+544	545	verb.motion	went to
+546	546	verb.social	see
+547	548	noun.person	AmedÃ ©
+552	552	noun.person	boy
+556	556	verb.motion	come
+562	562	verb.creation	played
+564	564	verb.cognition	thought
+572	572	noun.person	children
+576	576	noun.state	situations
+583	583	noun.time	Monday
+585	585	noun.time	January
+589	590	noun.person	Mr. T.
+595	595	verb.possession	gave
+597	597	noun.group	school
+598	598	noun.communication	textbooks
+600	600	noun.communication	notebooks
+602	602	noun.time	Tomorrow
+605	606	verb.motion	go to
+607	607	noun.group	school
+610	610	verb.change	changed
+612	612	noun.artifact	room
+616	616	verb.body	sleep
+620	620	noun.artifact	floor
+622	622	noun.time	Tuesday
+624	624	noun.time	January
+628	628	noun.time	Today
+630	631	verb.motion	went to
+632	632	noun.artifact	school
+643	643	verb.contact	cover
+645	645	noun.quantity	kilometers
+648	648	noun.substance	snow
+651	651	verb.stative	is
+657	657	noun.location	Marseilles
+660	660	verb.stative	attend
+662	662	noun.act	class
+665	665	noun.communication	Latin
+668	669	verb.motion	got here
+671	671	noun.time	trimester
+675	675	noun.time	Wednesday
+677	677	noun.time	January
+682	683	verb.motion	go to
+684	684	noun.artifact	school
+687	688	verb.cognition	think of
+692	692	verb.possession	found
+694	694	noun.person	Austrian
+698	699	verb.social	get along
+702	702	verb.social	practice
+703	703	verb.communication	speaking
+704	704	noun.communication	German
+707	707	noun.communication	name
+708	708	verb.stative	is
+709	710	noun.person	Kurt Grossmann
+713	713	noun.person	mother
+714	714	verb.change	disappeared
+719	719	noun.person	father
+721	721	verb.stative	is
+727	727	noun.state	internment
+728	728	noun.artifact	camp
+730	730	noun.location	Gurs
+733	734	noun.person	Mr. T.
+735	735	verb.motion	left
+737	737	noun.location	Vichy
+740	740	verb.possession	has
+742	742	noun.person	contacts
+746	746	noun.person	father
+748	748	verb.social	released
+751	751	noun.time	week
+755	755	noun.person	Lucky
+757	757	noun.time	Friday
+759	759	noun.time	January
+764	764	noun.group	UGIF
+766	766	verb.communication	sends
+770	770	noun.quantity	francs
+774	775	noun.person	Mr. T.
+777	777	verb.possession	takes
+780	780	noun.time	Sunday
+782	782	noun.time	January
+788	788	noun.time	month
+789	789	verb.change	begins
+792	792	verb.stative	am
+795	795	noun.communication	news
+799	799	noun.time	Monday
+801	801	noun.time	February

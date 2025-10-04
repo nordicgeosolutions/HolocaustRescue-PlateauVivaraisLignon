@@ -1,0 +1,1942 @@
+start_token	end_token	supersense_category	text
+1	1	verb.motion	came
+4	4	noun.location	Chambon
+8	8	noun.location	Lignon
+10	10	noun.time	October
+13	13	verb.stative	was
+15	16	noun.person	Le Chambon
+22	22	noun.time	October
+26	26	noun.time	end
+31	31	noun.time	beginning
+34	34	verb.creation	initiated
+36	36	noun.act	work
+38	39	noun.location	Le Chambon
+42	43	noun.location	- Lignon
+47	47	noun.person	teacher
+55	55	noun.state	peace
+56	56	noun.act	service
+59	59	verb.possession	had
+61	61	noun.state	problems
+64	64	noun.act	duty
+70	70	verb.possession	have
+72	72	noun.state	opportunities
+74	74	verb.stative	serve
+76	76	noun.group	country
+79	79	verb.stative	was
+86	87	verb.social	take on
+89	89	noun.act	work
+91	91	verb.stative	was
+94	94	verb.social	work
+100	100	noun.group	country
+104	104	noun.act	work
+105	105	verb.change	began
+107	108	noun.location	Le Chambon
+110	112	noun.location	sur - Lignon
+117	117	verb.possession	give
+120	120	noun.relation	chronology
+124	124	verb.change	proceeded
+127	127	verb.change	began
+129	130	verb.social	set up
+133	133	noun.artifact	home
+135	135	noun.time	October
+138	138	noun.artifact	home
+141	142	noun.location	La Guespy
+147	147	verb.change	completed
+149	149	noun.time	May
+155	155	noun.artifact	home
+157	157	verb.social	established
+160	160	noun.act	initiative
+162	163	noun.person	Pastor TrocmÃ
+167	167	noun.person	minister
+169	170	noun.location	Le Chambon
+174	174	noun.location	Lignon
+177	177	verb.emotion	wanted
+179	179	verb.social	do
+183	183	noun.person	children
+186	186	verb.social	interned
+190	190	verb.cognition	heard
+193	193	noun.person	children
+195	195	noun.person	youth
+198	198	verb.stative	be
+201	201	noun.artifact	camps
+207	207	noun.person	CIMAD
+210	216	noun.group	ComitÃ © Inter- Movements AuprÃ¨s des EvacuÃ
+220	220	verb.social	tried
+222	222	verb.creation	build
+234	234	verb.motion	came
+237	237	noun.act	aid
+241	241	noun.artifact	home
+243	243	verb.social	opened
+245	245	noun.person	CIMAD
+248	249	noun.group	Secours Suisse
+253	253	noun.group	CIMAD
+257	257	verb.social	liberate
+260	260	noun.group	people
+262	262	noun.location	Gurs
+265	265	verb.motion	came
+267	268	noun.location	Le Chambon
+270	272	noun.location	sur - Lignon
+274	279	noun.location	Le Chambon - sur - Lignon
+280	280	verb.possession	had
+282	282	noun.group	college
+292	292	noun.group	people
+293	293	verb.stative	were
+296	297	verb.stative	carry on
+299	299	noun.cognition	studies
+302	302	verb.stative	was
+304	304	noun.motive	reason
+306	306	verb.creation	building
+308	308	noun.artifact	home
+311	311	noun.artifact	home
+313	313	verb.social	run
+318	318	noun.person	refugee
+321	321	noun.person	doctor
+325	325	verb.stative	lived
+327	327	noun.location	France
+330	330	noun.person	refugee
+333	333	verb.stative	were
+336	336	verb.social	worked
+338	338	noun.person	student
+339	339	noun.state	aids
+342	342	noun.person	Austrian
+345	345	verb.cognition	studied
+346	346	noun.cognition	law
+350	350	noun.person	personnel
+352	352	verb.stative	lived
+355	355	noun.group	village
+358	358	noun.artifact	home
+359	359	verb.social	operated
+361	361	noun.time	May
+363	363	noun.time	October
+367	367	verb.stative	were
+370	370	verb.contact	open
+373	373	noun.artifact	home
+376	376	noun.location	L'Abric
+381	381	verb.possession	taken
+383	383	noun.communication	name
+387	387	noun.communication	patois
+389	389	verb.communication	spoken
+392	392	noun.location	region
+397	397	verb.communication	say
+401	401	verb.stative	is
+408	408	verb.stative	is
+414	414	verb.stative	is
+416	416	noun.communication	name
+420	420	verb.possession	give
+422	422	noun.artifact	home
+425	425	verb.stative	is
+429	429	verb.communication	called
+430	430	noun.person	L'Abric
+434	434	noun.artifact	home
+436	437	verb.creation	set up
+441	441	noun.person	children
+443	443	verb.stative	were
+445	445	noun.person	cases
+450	450	noun.person	children
+452	452	noun.location	France
+461	461	noun.quantity	thirds
+462	462	verb.stative	were
+465	465	noun.location	cities
+472	472	verb.change	strengthened
+474	474	verb.stative	were
+477	477	noun.artifact	home
+482	482	noun.time	months
+486	486	noun.time	winter
+487	487	verb.stative	was
+492	492	verb.possession	had
+494	494	noun.possession	reserves
+497	497	verb.possession	had
+500	500	noun.substance	materials
+506	506	verb.social	try
+508	508	verb.possession	purchase
+509	509	noun.plant	tree
+510	510	noun.plant	stems
+512	512	verb.perception	saw
+518	518	verb.stative	were
+521	521	verb.contact	put
+525	525	noun.artifact	oven
+529	529	noun.event	result
+533	533	verb.possession	had
+535	535	noun.artifact	rooms
+540	540	noun.cognition	alternative
+545	545	verb.stative	were
+548	548	verb.stative	withstand
+550	550	noun.time	winter
+555	555	verb.stative	were
+556	556	noun.event	times
+564	568	noun.location	Chambon - sur - Lignon
+569	569	verb.stative	is
+572	572	noun.quantity	meters
+578	578	noun.object	plateau
+582	582	verb.stative	is
+587	587	noun.time	winter
+589	589	verb.perception	has
+593	593	noun.state	snow
+596	596	verb.stative	was
+598	598	noun.location	place
+602	602	noun.person	wife
+605	605	verb.communication	told
+610	610	noun.person	girl
+611	611	verb.motion	came
+615	615	noun.state	typhus
+621	622	verb.social	take care
+627	627	noun.time	weeks
+631	631	noun.person	children
+635	635	noun.quantity	room
+639	639	noun.motive	reason
+643	643	verb.communication	written
+645	645	noun.person	Rivesaltes
+653	653	verb.stative	was
+656	656	noun.act	contact
+660	660	noun.time	April
+665	665	verb.motion	leave
+667	667	noun.artifact	home
+673	673	verb.stative	was
+676	676	noun.person	Swiss
+677	677	noun.person	nurse
+679	679	verb.social	worked
+683	683	verb.change	left
+688	688	noun.location	home
+693	693	verb.motion	returned
+695	700	noun.location	Le Chambon - sur - Lignon
+703	703	verb.stative	continued
+705	705	verb.stative	resist
+709	709	noun.attribute	willingness
+712	712	noun.cognition	part
+715	715	noun.group	population
+716	716	verb.stative	was
+722	722	verb.possession	had
+724	724	noun.relation	relations
+726	728	noun.person	Pastor TrocmÃ ©
+733	733	verb.communication	sent
+735	735	noun.person	representative
+738	738	noun.group	church
+739	739	noun.group	congregation
+743	743	noun.group	community
+746	746	noun.act	discussions
+750	750	verb.perception	searched
+754	754	noun.act	ways
+758	758	verb.possession	get
+759	759	noun.possession	things
+765	765	verb.stative	is
+769	769	verb.social	supported
+774	774	noun.state	situation
+776	776	verb.emotion	encouraged
+784	784	verb.change	extend
+786	786	noun.act	activities
+789	789	verb.stative	were
+792	792	verb.social	rent
+794	794	noun.artifact	house
+797	798	noun.location	Le FaÃ¯doli
+802	802	verb.stative	is
+804	804	noun.communication	name
+807	807	noun.communication	song
+810	810	noun.person	children
+812	812	verb.creation	sang
+816	816	verb.possession	gave
+818	818	noun.artifact	house
+820	820	noun.communication	name
+823	823	noun.artifact	home
+825	826	verb.creation	set up
+828	828	verb.social	handle
+832	832	noun.person	children
+835	835	verb.stative	was
+838	838	verb.consumption	use
+844	844	noun.time	October
+846	846	noun.time	November
+849	850	noun.artifact	heating system
+851	851	verb.stative	was
+854	854	verb.stative	functioning
+858	858	noun.artifact	home
+859	859	verb.social	opened
+861	861	noun.time	October
+863	863	noun.time	November
+872	872	noun.act	carpentry
+873	873	noun.artifact	studio
+875	876	verb.creation	set up
+879	880	noun.person	Pastor TrocmÃ
+883	884	noun.group	College CÃ
+890	890	verb.stative	was
+892	893	noun.group	College CÃ
+899	899	verb.possession	had
+901	902	noun.group	Studio CÃ
+904	904	noun.location	venol
+908	908	verb.stative	keep
+911	911	noun.group	people
+912	912	verb.social	occupied
+916	916	verb.stative	were
+919	919	verb.creation	make
+920	920	noun.artifact	furniture
+924	924	verb.possession	obtained
+927	927	noun.artifact	machines
+930	931	verb.creation	set up
+935	935	noun.artifact	garage
+938	938	noun.person	students
+941	942	noun.group	College CÃ
+945	945	verb.motion	came
+947	947	noun.act	handiwork
+948	948	noun.act	courses
+951	951	verb.stative	was
+956	956	noun.act	expansion
+960	960	verb.stative	was
+965	966	noun.group	Studio CÃ
+969	969	verb.creation	made
+971	971	noun.cognition	kinds
+973	973	noun.artifact	furniture
+977	977	noun.artifact	buffets
+979	979	noun.artifact	tables
+989	989	verb.social	accomplished
+991	991	noun.cognition	things
+1003	1003	verb.creation	made
+1004	1004	noun.artifact	furniture
+1015	1015	verb.cognition	learned
+1018	1018	verb.social	do
+1025	1025	noun.cognition	background
+1027	1027	verb.stative	led
+1031	1031	verb.motion	taking
+1033	1033	noun.group	people
+1036	1036	noun.artifact	farms
+1041	1041	verb.change	beautify
+1044	1044	noun.state	selves
+1047	1047	verb.change	improve
+1050	1050	noun.state	conditions
+1053	1053	noun.artifact	studio
+1054	1054	verb.creation	began
+1057	1057	noun.time	fall
+1070	1070	noun.time	spring
+1078	1078	verb.social	opened
+1082	1082	noun.group	school
+1088	1088	verb.stative	had
+1090	1090	noun.animal	cows
+1092	1092	noun.animal	chickens
+1098	1098	noun.food	vegetables
+1101	1101	verb.stative	was
+1104	1104	noun.act	way
+1107	1107	noun.person	children
+1109	1109	noun.location	home
+1111	1111	verb.possession	get
+1112	1112	noun.food	milk
+1114	1114	noun.food	eggs
+1117	1117	noun.food	vegetables
+1120	1120	verb.stative	was
+1128	1128	verb.possession	offered
+1131	1131	noun.cognition	possibility
+1134	1135	verb.social	take on
+1137	1138	noun.person	young people
+1141	1141	noun.location	cities
+1144	1144	noun.time	summer
+1147	1147	verb.social	worked
+1150	1150	noun.object	fields
+1152	1152	verb.change	became
+1158	1158	noun.phenomenon	consequence
+1160	1160	noun.attribute	strength
+1163	1163	noun.time	winter
+1166	1166	verb.motion	returned
+1169	1169	noun.location	cities
+1173	1173	noun.time	winter
+1176	1177	verb.social	took in
+1179	1179	noun.group	people
+1183	1183	noun.location	area
+1185	1185	verb.possession	had
+1187	1187	noun.act	work
+1191	1191	verb.cognition	learned
+1194	1194	verb.change	beautify
+1196	1196	noun.location	interior
+1199	1200	noun.artifact	farm house
+1206	1206	noun.act	courses
+1208	1208	verb.change	allowing
+1211	1211	verb.creation	fulfill
+1213	1213	noun.cognition	purposes
+1217	1217	noun.group	Ferme
+1221	1221	verb.stative	's
+1227	1228	verb.cognition	think back
+1232	1232	noun.act	aid
+1233	1233	noun.group	organization
+1236	1236	verb.possession	given
+1238	1238	noun.communication	guidance
+1241	1241	noun.act	approval
+1244	1244	noun.act	work
+1247	1247	verb.communication	showed
+1251	1251	verb.consumption	needed
+1254	1254	noun.group	organization
+1260	1260	noun.person	children
+1262	1262	noun.possession	aid
+1263	1263	noun.communication	guidance
+1268	1268	verb.possession	had
+1270	1270	noun.act	support
+1273	1273	noun.person	prefects
+1277	1277	noun.group	Department
+1288	1288	verb.possession	had
+1292	1292	verb.cognition	demonstrated
+1299	1299	verb.stative	were
+1302	1302	noun.location	area
+1307	1307	verb.emotion	awakened
+1310	1310	noun.attribute	trust
+1314	1314	noun.person	citizens
+1317	1317	verb.stative	is
+1321	1321	verb.possession	given
+1323	1323	noun.act	approval
+1325	1325	verb.social	do
+1327	1327	noun.act	things
+1330	1330	noun.act	work
+1336	1336	noun.object	needs
+1339	1339	noun.person	children
+1342	1342	noun.act	persecution
+1345	1345	noun.person	children
+1348	1348	verb.stative	was
+1356	1356	noun.act	addition
+1360	1360	noun.cognition	view
+1367	1367	verb.contact	tap
+1370	1370	noun.cognition	possibility
+1376	1376	verb.social	house
+1377	1377	noun.person	children
+1380	1380	noun.time	summer
+1385	1385	noun.time	periods
+1387	1387	noun.person	farmers
+1390	1390	verb.possession	had
+1393	1393	noun.person	children
+1394	1394	verb.stative	living
+1396	1396	noun.person	farmers
+1403	1403	noun.artifact	home
+1405	1406	verb.stative	belonged to
+1408	1409	noun.group	Salvation Army
+1413	1413	verb.social	run
+1422	1422	verb.social	do
+1427	1428	verb.social	took on
+1430	1430	noun.person	children
+1436	1436	noun.person	children
+1438	1438	noun.possession	aid
+1439	1439	noun.group	society
+1440	1440	verb.possession	provided
+1442	1442	noun.act	financing
+1444	1444	verb.possession	had
+1446	1446	noun.act	responsibility
+1448	1448	verb.cognition	chose
+1450	1450	noun.person	children
+1455	1455	verb.stative	had
+1459	1459	noun.location	center
+1461	1466	noun.location	Le Chambon - sur - Lignon
+1470	1470	noun.location	end
+1472	1472	verb.possession	had
+1475	1475	noun.person	children
+1478	1478	noun.group	village
+1481	1481	verb.stative	was
+1483	1483	noun.state	situation
+1490	1490	noun.act	persecutions
+1491	1491	verb.change	began
+1495	1495	verb.perception	experienced
+1501	1501	verb.stative	was
+1503	1503	noun.communication	demonstration
+1506	1506	noun.person	students
+1509	1512	noun.group	College CÃ © venol
+1517	1517	noun.person	Minister
+1520	1522	noun.person	Georges ) Lamirand
+1526	1526	verb.motion	come
+1528	1533	noun.location	Le Chambon - sur - Lignon
+1535	1535	noun.time	August
+1539	1539	verb.possession	handed
+1542	1543	noun.communication	protest letter
+1546	1546	noun.person	church
+1547	1547	noun.person	ministers
+1549	1549	verb.possession	gave
+1552	1552	noun.communication	letter
+1553	1553	verb.communication	voicing
+1555	1555	noun.communication	concerns
+1559	1559	noun.group	people
+1560	1560	verb.stative	were
+1567	1567	verb.cognition	accepted
+1571	1571	verb.change	changed
+1575	1575	verb.stative	was
+1577	1577	noun.time	August
+1582	1582	noun.time	week
+1585	1587	noun.location	Prefect des Departements
+1591	1591	noun.person	Protestant
+1596	1596	noun.motive	reason
+1598	1598	verb.perception	had
+1600	1600	noun.cognition	consideration
+1602	1603	noun.person	Protestant Le
+1604	1608	noun.location	Chambon - sur - Lignon
+1612	1612	verb.cognition	knows
+1617	1617	verb.motion	came
+1619	1619	verb.social	visited
+1621	1621	noun.location	home
+1624	1624	verb.communication	repeated
+1628	1628	verb.stative	were
+1631	1631	noun.person	children
+1634	1634	verb.communication	reassured
+1638	1638	verb.stative	was
+1641	1641	noun.substance	paper
+1642	1642	noun.attribute	control
+1646	1646	verb.communication	said
+1650	1650	verb.stative	was
+1652	1652	noun.time	August
+1656	1656	noun.time	days
+1660	1660	verb.perception	experienced
+1662	1662	noun.state	situation
+1666	1666	noun.time	a.m.
+1669	1669	noun.artifact	house
+1671	1671	noun.location	L'Abric
+1674	1674	verb.competition	surrounded
+1677	1677	noun.person	policemen
+1679	1679	verb.emotion	wanted
+1681	1681	verb.social	control
+1683	1683	noun.person	children
+1685	1685	noun.communication	papers
+1688	1688	verb.possession	had
+1690	1690	noun.communication	list
+1693	1693	noun.group	people
+1698	1698	verb.social	taken
+1701	1701	verb.stative	were
+1704	1704	noun.person	policemen
+1707	1707	noun.artifact	trucks
+1710	1710	verb.motion	come
+1713	1713	noun.group	village
+1715	1715	verb.contact	take
+1717	1717	noun.group	people
+1722	1722	noun.act	action
+1723	1723	verb.stative	was
+1726	1726	noun.location	home
+1732	1732	verb.perception	looked
+1734	1734	noun.group	people
+1737	1737	verb.cognition	checked
+1740	1740	noun.artifact	house
+1742	1742	noun.group	personnel
+1744	1744	noun.communication	papers
+1747	1747	noun.person	children
+1749	1749	noun.communication	papers
+1756	1756	verb.emotion	feared
+1758	1758	noun.state	situation
+1762	1762	noun.person	director
+1765	1765	noun.person	Guespy
+1766	1766	noun.artifact	home
+1767	1767	verb.stative	was
+1779	1779	verb.social	take
+1783	1783	noun.person	children
+1793	1793	verb.stative	been
+1795	1795	noun.state	danger
+1798	1799	noun.location	L'Abric House
+1804	1804	verb.competition	protect
+1809	1809	verb.body	sleeping
+1812	1813	noun.artifact	dining room
+1816	1816	verb.possession	found
+1819	1819	noun.group	police
+1822	1822	noun.person	leader
+1825	1825	noun.artifact	house
+1826	1826	noun.act	search
+1827	1827	verb.stative	was
+1830	1830	noun.person	Colonel
+1832	1832	noun.location	Corsica
+1835	1837	noun.person	Chef de La
+1838	1841	noun.location	SÃ»retÃ © des Departements
+1847	1848	noun.person	chief officers
+1849	1849	verb.creation	led
+1851	1851	noun.act	action
+1853	1858	noun.location	Le Chambon - sur - Lignon
+1862	1862	verb.communication	ascertained
+1865	1865	noun.person	children
+1867	1867	noun.communication	papers
+1868	1868	verb.stative	were
+1874	1874	verb.possession	had
+1875	1875	noun.communication	papers
+1878	1878	verb.possession	accepted
+1881	1881	noun.person	Mairie
+1888	1888	noun.person	mayor
+1890	1890	noun.group	office
+1897	1897	verb.stative	contained
+1899	1899	noun.communication	inaccuracies
+1901	1901	noun.act	corrections
+1903	1903	noun.time	periods
+1905	1906	noun.time	birth dates
+1911	1911	noun.communication	papers
+1912	1912	verb.stative	were
+1918	1918	verb.stative	were
+1924	1924	verb.stative	were
+1928	1928	noun.communication	list
+1933	1933	noun.person	officials
+1935	1935	verb.stative	were
+1938	1938	verb.emotion	wanted
+1940	1940	verb.possession	take
+1942	1942	noun.communication	papers
+1949	1949	verb.cognition	check
+1953	1954	noun.location	Le Puy
+1960	1960	noun.group	department
+1961	1961	noun.artifact	headquarters
+1966	1966	verb.competition	resisted
+1968	1968	verb.communication	talked
+1974	1974	noun.time	hour
+1979	1979	verb.communication	threatened
+1983	1983	noun.state	extent
+1987	1987	verb.communication	say
+1991	1991	verb.stative	are
+1994	1994	noun.person	children
+1996	1996	noun.location	Switzerland
+1998	1998	noun.time	vacation
+2005	2006	verb.communication	report to
+2008	2009	noun.group	Swiss Coalition
+2015	2015	noun.person	Victims
+2018	2018	noun.person	children
+2019	2019	verb.cognition	entrusted
+2022	2022	verb.stative	were
+2028	2028	verb.possession	have
+2029	2029	noun.phenomenon	consequences
+2032	2032	noun.person	children
+2038	2038	verb.possession	accepted
+2041	2041	noun.time	future
+2045	2045	verb.perception	seemed
+2047	2047	verb.social	work
+2051	2051	noun.communication	talk
+2052	2052	verb.social	succeeded
+2059	2059	verb.communication	say
+2062	2062	verb.motion	left
+2065	2065	verb.communication	said
+2070	2070	verb.possession	get
+2072	2072	noun.communication	instructions
+2074	2074	noun.person	Vichy
+2078	2078	verb.stative	was
+2082	2082	noun.time	morning
+2087	2087	noun.time	7:00
+2091	2091	noun.artifact	telephone
+2093	2093	verb.stative	functioned
+2096	2096	verb.change	beginning
+2104	2106	verb.motion	go back down
+2108	2108	verb.stative	wait
+2111	2111	verb.stative	was
+2114	2114	verb.communication	telephone
+2121	2121	verb.creation	prepared
+2122	2122	noun.food	breakfast
+2126	2126	noun.group	citizenry
+2129	2129	noun.person	friends
+2132	2132	noun.group	village
+2134	2134	verb.motion	came
+2137	2137	noun.act	aid
+2141	2141	noun.person	guest
+2145	2145	noun.group	country
+2150	2150	verb.stative	be
+2164	2164	noun.act	help
+2171	2171	noun.person	children
+2177	2177	noun.artifact	farms
+2185	2185	noun.act	ladder
+2191	2192	verb.motion	got into
+2193	2193	noun.location	Switzerland
+2197	2197	verb.social	done
+2201	2201	noun.group	citizenry
+2204	2204	noun.communication	guidance
+2207	2207	noun.person	wife
+2209	2211	noun.person	AndrÃ © Philip
+2216	2218	noun.person	Minister of Interior
+2224	2224	verb.social	organizing
+2227	2232	noun.location	Le Chambon - sur - Lignon
+2235	2235	verb.stative	was
+2240	2240	noun.group	village
+2241	2241	verb.social	worked
+2245	2245	verb.social	did
+2251	2251	noun.group	citizenry
+2252	2252	verb.social	participated
+2255	2255	verb.emotion	pleased
+2259	2259	verb.stative	was
+2262	2262	noun.event	experience
+2265	2265	noun.group	police
+2266	2266	verb.stative	remained
+2269	2269	noun.group	village
+2272	2272	noun.time	weeks
+2275	2276	verb.motion	brought in
+2277	2277	noun.person	police
+2278	2278	noun.animal	dogs
+2280	2280	verb.contact	search
+2282	2282	noun.location	forests
+2285	2285	verb.communication	threatened
+2288	2288	noun.person	pastors
+2293	2293	noun.act	aid
+2294	2294	noun.group	organizations
+2295	2295	verb.possession	received
+2297	2297	noun.communication	letter
+2299	2299	verb.communication	stating
+2306	2306	verb.communication	deliver
+2309	2309	noun.person	refugees
+2312	2312	noun.time	hours
+2317	2317	verb.social	detained
+2319	2319	noun.person	foreigners
+2322	2322	verb.stative	were
+2325	2325	verb.social	intern
+2326	2326	noun.person	foreigners
+2329	2329	verb.communication	communicated
+2331	2331	verb.communication	discussed
+2334	2334	verb.social	did
+2335	2335	noun.quantity	nothing
+2337	2337	verb.contact	packed
+2339	2339	noun.artifact	suitcases
+2342	2342	noun.quantity	nothing
+2343	2343	verb.change	happened
+2346	2346	verb.stative	was
+2349	2349	noun.state	threat
+2352	2352	verb.stative	was
+2355	2355	noun.event	episode
+2357	2357	verb.change	happened
+2360	2360	noun.person	Swiss
+2361	2361	noun.person	friend
+2365	2365	noun.person	student
+2367	2367	verb.social	worked
+2372	2372	noun.time	summer
+2375	2375	verb.stative	was
+2379	2379	noun.person	children
+2380	2380	verb.social	playing
+2383	2383	noun.group	forest
+2386	2386	verb.contact	leaning
+2389	2389	noun.plant	tree
+2392	2392	noun.person	children
+2394	2394	verb.competition	playing
+2395	2395	noun.artifact	ball
+2398	2398	noun.person	gendarme
+2399	2400	verb.motion	came along
+2402	2402	verb.contact	tapped
+2406	2406	noun.body	shoulder
+2409	2409	verb.communication	told
+2414	2414	verb.perception	search
+2416	2416	noun.location	area
+2420	2420	verb.cognition	thought
+2422	2422	noun.person	student
+2426	2427	verb.stative	look like
+2429	2429	noun.person	native
+2431	2435	noun.location	Chambon - sur - Lignon
+2440	2440	verb.stative	was
+2443	2443	noun.person	refugee
+2446	2446	verb.emotion	wanted
+2448	2448	verb.possession	give
+2451	2451	noun.state	chance
+2453	2454	verb.motion	get away
+2457	2457	verb.communication	showed
+2461	2461	noun.Tops	individuals
+2469	2469	noun.group	police
+2474	2474	noun.attribute	difference
+2478	2479	noun.group	Vichy police
+2482	2482	noun.group	gendarmerie
+2485	2485	noun.location	area
+2488	2488	verb.stative	were
+2497	2497	verb.social	helped
+2500	2500	noun.time	time
+2501	2501	verb.change	passed
+2505	2505	verb.motion	left
+2508	2508	noun.time	weeks
+2515	2515	noun.person	refugees
+2517	2518	verb.possession	taken away
+2523	2523	noun.time	day
+2526	2526	verb.possession	had
+2529	2529	noun.act	surveillance
+2531	2532	noun.location	La Guespy
+2537	2537	noun.artifact	homes
+2542	2542	verb.motion	taken
+2543	2544	noun.person	Mr. Steckler
+2546	2547	noun.location	Le Puy
+2553	2553	noun.time	day
+2559	2559	verb.social	free
+2562	2563	noun.location	Le Puy
+2565	2565	verb.motion	take
+2569	2570	noun.location	Le Chambon
+2572	2574	noun.location	sur - Lignon
+2577	2577	verb.stative	was
+2579	2579	noun.event	victory
+2587	2588	verb.competition	stood up
+2591	2591	noun.person	refugees
+2595	2595	noun.person	children
+2600	2600	noun.person	adults
+2605	2605	noun.event	victory
+2608	2608	noun.act	work
+2612	2612	verb.stative	were
+2616	2616	noun.person	children
+2620	2620	noun.group	citizenry
+2623	2623	noun.person	church
+2624	2624	noun.person	ministers
+2629	2629	verb.stative	were
+2631	2631	noun.communication	impressions
+2636	2636	noun.person	Huguenots
+2637	2637	verb.stative	were
+2639	2639	noun.group	minority
+2644	2644	verb.competition	defend
+2649	2649	verb.stative	is
+2653	2653	noun.communication	question
+2655	2655	noun.state	truth
+2659	2659	noun.cognition	truth
+2663	2663	noun.group	government
+2664	2664	verb.emotion	wants
+2666	2666	verb.perception	hear
+2669	2669	verb.stative	is
+2670	2670	noun.cognition	truth
+2672	2672	verb.stative	concerns
+2673	2673	noun.state	life
+2678	2678	verb.cognition	decide
+2686	2686	verb.cognition	chose
+2687	2687	noun.time	life
+2690	2690	verb.communication	said
+2692	2692	verb.social	satisfied
+2694	2694	noun.group	government
+2702	2702	verb.stative	been
+2705	2705	noun.cognition	truth
+2710	2710	noun.state	war
+2711	2711	noun.state	situation
+2716	2716	verb.communication	quarrel
+2719	2719	noun.cognition	truth
+2722	2722	noun.person	Huguenots
+2725	2725	verb.competition	defend
+2730	2730	noun.location	area
+2737	2738	verb.motion	taken in
+2739	2739	noun.person	workers
+2741	2741	noun.person	children
+2744	2744	noun.time	summer
+2745	2745	noun.time	vacations
+2747	2748	noun.location	St. Etienne
+2754	2756	noun.act	Spanish Civil War
+2759	2760	verb.social	took in
+2762	2762	noun.person	refugees
+2766	2766	verb.stative	become
+2768	2768	noun.cognition	tradition
+2770	2775	noun.location	Le Chambon - sur - Lignon
+2780	2780	noun.communication	reason
+2785	2786	verb.creation	carry out
+2788	2788	noun.act	mission
+2793	2793	noun.act	expansion
+2797	2799	noun.group	Swiss Red Cross
+2808	2808	verb.communication	called
+2812	2812	verb.motion	came
+2814	2815	noun.location	Le Chambon
+2817	2819	noun.location	sur - Lignon
+2821	2821	verb.stative	was
+2822	2822	noun.communication	thanks
+2824	2824	noun.person	Pastor
+2826	2827	noun.person	AndrÃ ©
+2829	2830	noun.person	TrocmÃ ©
+2833	2833	verb.perception	looked
+2835	2835	noun.location	France
+2837	2837	noun.location	borders
+2839	2839	verb.possession	had
+2840	2840	noun.relation	connections
+2844	2844	noun.person	Quakers
+2849	2849	noun.group	organizations
+2853	2854	noun.group	reconciliation alliance
+2858	2858	noun.location	YMCA
+2863	2863	verb.social	represented
+2865	2870	noun.location	Le Chambon - sur - Lignon
+2872	2872	noun.person	Pastor
+2875	2875	verb.social	made
+2876	2876	noun.relation	connections
+2880	2880	noun.possession	aid
+2881	2881	noun.group	society
+2883	2883	verb.change	extended
+2890	2890	noun.artifact	aid
+2891	2891	noun.group	society
+2892	2892	verb.social	went
+2900	2900	verb.possession	provided
+2902	2902	noun.cognition	kind
+2904	2904	noun.attribute	energy
+2907	2907	noun.group	people
+2909	2909	verb.perception	see
+2913	2913	verb.stative	are
+2921	2921	verb.motion	come
+2923	2923	verb.social	help
+2929	2929	verb.stative	is
+2932	2932	noun.cognition	background
+2936	2936	noun.state	atmosphere
+2943	2943	verb.social	operate
+2945	2949	noun.location	Chambon - sur - Lignon
+2952	2952	noun.attribute	manner
+2958	2958	noun.state	case
+2961	2961	noun.group	organizations
+2964	2964	verb.consumption	need
+2965	2965	noun.cognition	personalities
+2967	2967	verb.stative	form
+2971	2971	noun.group	organization
+2972	2972	verb.stative	is
+2977	2978	noun.artifact	chess affair
+2980	2980	verb.social	supported
+2983	2983	noun.group	people
+2986	2987	noun.person	Pastor TrocmÃ
+2989	2989	verb.stative	was
+2991	2992	noun.person	conscientious objector
+2995	2995	verb.perception	listened
+2999	2999	noun.motive	conscience
+3005	3005	verb.social	do
+3008	3008	noun.group	church
+3011	3011	noun.person	employee
+3013	3013	verb.stative	was
+3015	3015	verb.communication	ordered
+3017	3017	verb.communication	commanded
+3022	3022	verb.cognition	accept
+3025	3025	noun.group	government
+3026	3026	verb.social	ordered
+3032	3032	verb.perception	follow
+3034	3034	noun.motive	conscience
+3037	3037	verb.communication	told
+3042	3042	verb.stative	are
+3043	3044	noun.animal	human beings
+3048	3048	verb.social	help
+3053	3053	verb.stative	is
+3055	3055	noun.state	need
+3061	3061	verb.stative	be
+3064	3064	verb.social	do
+3068	3068	verb.social	help
+3070	3071	noun.animal	human being
+3079	3079	verb.stative	was
+3082	3082	noun.cognition	thought
+3088	3088	verb.communication	committed
+3091	3091	noun.cognition	idea
+3093	3093	verb.social	helping
+3096	3097	noun.person	staff member
+3100	3101	noun.group	Red Cross
+3104	3105	noun.group	Red Cross
+3106	3106	verb.stative	is
+3108	3108	noun.group	organization
+3110	3110	verb.possession	has
+3112	3112	noun.communication	directives
+3117	3117	noun.group	organization
+3119	3119	verb.possession	find
+3121	3121	noun.communication	tenor
+3123	3123	noun.person	Dunant
+3126	3127	noun.person	Henry Dunant
+3129	3129	noun.person	founder
+3132	3133	noun.group	Red Cross
+3136	3136	noun.cognition	thinking
+3143	3143	noun.act	war
+3144	3145	verb.change	break out
+3149	3149	verb.stative	be
+3151	3151	noun.state	need
+3155	3155	verb.social	help
+3157	3157	verb.social	do
+3163	3163	verb.stative	survive
+3166	3166	verb.change	began
+3169	3169	noun.act	war
+3170	3170	noun.person	prisoners
+3175	3175	noun.group	population
+3180	3180	noun.cognition	thought
+3184	3184	verb.social	do
+3187	3187	verb.cognition	assure
+3193	3193	verb.possession	entrusted
+3197	3197	verb.stative	live
+3201	3201	verb.emotion	wanted
+3203	3203	verb.communication	emulate
+3207	3207	verb.stative	was
+3210	3210	noun.state	case
+3212	3213	noun.person	TrocmÃ ©
+3216	3216	verb.stative	was
+3222	3222	noun.cognition	ideas
+3224	3224	noun.attribute	values
+3227	3227	verb.stative	is
+3232	3232	verb.stative	live
+3236	3236	noun.event	result
+3241	3241	verb.contact	banged
+3242	3242	noun.cognition	heads
+3246	3246	noun.group	church
+3252	3252	verb.communication	disagreed
+3255	3255	noun.group	organization
+3262	3262	noun.person	functionaries
+3266	3266	verb.stative	hold
+3268	3268	noun.group	organization
+3274	3274	verb.social	encouraged
+3276	3276	noun.group	people
+3278	3278	verb.possession	have
+3279	3279	noun.cognition	faith
+3282	3282	verb.consumption	maintain
+3285	3285	noun.cognition	values
+3288	3288	noun.group	religion
+3290	3290	noun.cognition	Christianity
+3294	3294	noun.communication	orders
+3296	3297	noun.person	Pastor Theis
+3301	3301	noun.person	pastor
+3304	3304	verb.communication	said
+3307	3307	noun.state	peace
+3310	3310	verb.cognition	concluded
+3311	3311	verb.stative	is
+3314	3314	noun.state	peace
+3320	3320	verb.communication	accept
+3331	3331	verb.communication	ask
+3333	3333	noun.group	people
+3335	3335	verb.social	revolt
+3338	3338	noun.group	church
+3342	3342	verb.communication	encourage
+3345	3345	verb.social	do
+3348	3348	noun.act	thing
+3351	3351	verb.possession	have
+3352	3352	noun.cognition	faith
+3355	3355	verb.cognition	know
+3358	3358	verb.stative	is
+3363	3363	verb.creation	gave
+3365	3365	noun.group	people
+3366	3366	noun.attribute	strength
+3371	3372	verb.motion	went out
+3375	3375	noun.artifact	church
+3377	3377	verb.cognition	knew
+3381	3381	verb.stative	are
+3386	3386	verb.stative	are
+3391	3391	verb.social	helped
+3395	3395	noun.person	wife
+3402	3402	noun.group	people
+3405	3406	noun.act	aid Organizations
+3410	3410	verb.contact	stood
+3417	3417	noun.communication	discussion
+3420	3420	noun.group	people
+3421	3421	verb.cognition	believed
+3432	3432	verb.stative	was
+3435	3435	noun.state	thing
+3438	3438	verb.stative	was
+3442	3442	noun.state	atmosphere
+3445	3445	verb.stative	was
+3451	3451	noun.group	population
+3452	3452	verb.stative	was
+3457	3457	noun.person	refugee
+3458	3458	noun.person	children
+3461	3461	noun.group	organizations
+3466	3466	noun.event	experience
+3468	3468	verb.change	occurred
+3472	3472	verb.stative	was
+3474	3475	noun.event	Christmas celebration
+3477	3479	noun.person	Pastor TrocmÃ ©
+3481	3481	verb.creation	prepared
+3483	3483	noun.communication	story
+3486	3486	verb.emotion	wanted
+3488	3488	verb.communication	tell
+3490	3490	noun.time	Christmastime
+3493	3493	verb.possession	gave
+3496	3496	noun.cognition	part
+3499	3499	verb.stative	were
+3501	3502	noun.person	boy scouts
+3510	3511	noun.group	Salvation Army
+3514	3514	noun.group	group
+3517	3517	verb.stative	were
+3520	3520	noun.person	children
+3523	3524	noun.location	Secours Suisse
+3527	3527	verb.stative	were
+3531	3531	noun.group	organizations
+3534	3534	noun.group	religions
+3537	3537	verb.social	represented
+3541	3541	noun.time	Christmas
+3542	3542	noun.event	celebration
+3545	3545	noun.group	group
+3547	3547	verb.creation	prepared
+3550	3550	noun.communication	song
+3554	3554	noun.communication	act
+3557	3557	noun.communication	poem
+3565	3565	verb.change	came
+3568	3568	noun.time	Christmas
+3571	3571	verb.communication	celebrated
+3576	3576	verb.emotion	encouraged
+3578	3578	noun.group	people
+3583	3583	verb.stative	belong
+3588	3588	verb.competition	fight
+3594	3594	verb.social	help
+3599	3599	verb.stative	is
+3602	3602	verb.stative	means
+3604	3604	verb.stative	be
+3606	3606	noun.Tops	human
+3611	3611	noun.relation	rest
+3614	3614	noun.group	world
+3615	3615	noun.time	today
+3619	3619	verb.stative	was
+3621	3621	noun.communication	encouragement
+3627	3627	noun.communication	words
+3628	3628	verb.stative	were
+3635	3636	verb.cognition	Think about
+3638	3638	noun.motive	conscience
+3648	3648	verb.stative	need
+3649	3649	noun.state	morale
+3652	3652	verb.stative	was
+3654	3654	verb.communication	convinced
+3658	3658	verb.stative	was
+3663	3663	noun.person	preacher
+3666	3666	verb.communication	speak
+3670	3670	verb.communication	convince
+3672	3672	noun.group	people
+3678	3678	noun.body	faces
+3681	3681	verb.cognition	accepted
+3685	3685	verb.stative	kept
+3690	3690	verb.cognition	believe
+3692	3692	verb.stative	is
+3699	3699	verb.stative	remains
+3701	3701	noun.cognition	mystery
+3705	3705	verb.stative	were
+3708	3708	noun.group	people
+3710	3710	noun.group	communities
+3712	3712	verb.stative	were
+3715	3715	verb.social	do
+3725	3725	noun.event	factors
+3729	3729	noun.location	region
+3733	3733	noun.location	terrain
+3737	3737	noun.state	hardships
+3740	3740	verb.stative	was
+3744	3744	noun.state	life
+3747	3747	noun.group	people
+3752	3752	noun.state	need
+3754	3754	verb.social	fight
+3756	3756	verb.stative	been
+3759	3759	noun.time	centuries
+3761	3761	noun.state	Life
+3762	3762	verb.stative	was
+3769	3769	verb.competition	fight
+3773	3773	verb.competition	defend
+3776	3776	noun.feeling	convictions
+3778	3778	verb.stative	stick
+3786	3786	verb.cognition	shape
+3790	3790	noun.state	extent
+3793	3793	verb.stative	were
+3794	3794	noun.group	communities
+3801	3801	noun.location	areas
+3809	3813	noun.location	Chambon - sur - Lignon
+3822	3822	noun.time	time
+3824	3824	verb.stative	were
+3827	3827	noun.person	children
+3829	3829	noun.artifact	homes
+3837	3837	noun.state	climate
+3840	3840	verb.stative	contributed
+3845	3845	verb.stative	were
+3847	3847	noun.location	places
+3851	3851	verb.stative	were
+3860	3860	noun.cognition	kind
+3862	3862	noun.state	activity
+3866	3866	verb.social	accomplished
+3870	3870	noun.location	areas
+3875	3875	noun.person	Gestapo
+3878	3878	verb.stative	were
+3883	3883	noun.attribute	background
+3886	3886	verb.possession	had
+3888	3888	noun.person	underlings
+3890	3890	verb.social	did
+3892	3892	noun.act	work
+3895	3895	noun.communication	French
+3901	3901	noun.communication	slang
+3903	3903	noun.person	cop
+3907	3908	noun.group	Vichy Police
+3912	3912	noun.group	gendarmerie
+3914	3914	verb.motion	sent
+3920	3920	verb.social	conduct
+3921	3921	noun.artifact	house
+3922	3922	noun.act	searches
+3927	3928	noun.location	House FaÃ¯doli
+3932	3932	noun.person	wife
+3934	3934	verb.communication	spoken
+3939	3939	verb.stative	was
+3941	3942	noun.group	French Police
+3945	3945	noun.event	time
+3948	3948	noun.person	Police
+3951	3951	noun.person	Gestapo
+3954	3954	verb.social	worked
+3959	3959	noun.location	center
+3969	3969	noun.location	areas
+3974	3974	verb.stative	were
+3976	3976	noun.person	henchmen
+3979	3979	verb.stative	was
+3982	3982	noun.feeling	mistrust
+3985	3985	noun.group	circles
+3988	3988	verb.stative	were
+3991	3992	verb.stative	held back
+3997	3997	verb.emotion	want
+3999	3999	verb.perception	show
+4005	4005	verb.stative	were
+4008	4008	noun.location	circles
+4011	4011	verb.stative	were
+4017	4017	noun.relation	part
+4020	4020	noun.group	village
+4025	4025	noun.act	way
+4027	4027	verb.stative	staying
+4031	4031	noun.person	wife
+4032	4032	verb.communication	told
+4035	4035	noun.person	children
+4038	4038	noun.communication	music
+4041	4041	verb.creation	sang
+4046	4046	noun.artifact	homes
+4049	4049	verb.stative	was
+4051	4052	noun.time	15 minutes
+4054	4054	noun.act	singing
+4057	4057	noun.food	meal
+4061	4061	verb.creation	gave
+4063	4063	noun.person	children
+4064	4064	noun.attribute	courage
+4066	4066	verb.change	made
+4071	4071	verb.creation	singing
+4076	4076	verb.social	participated
+4079	4079	noun.time	Christmas
+4080	4080	noun.group	celebrations
+4083	4083	noun.group	village
+4087	4087	verb.social	conducted
+4089	4089	noun.group	village
+4090	4090	noun.group	choir
+4093	4093	noun.state	extent
+4096	4096	verb.creation	played
+4098	4098	noun.artifact	organ
+4101	4101	noun.artifact	church
+4104	4104	noun.event	time
+4107	4108	noun.person	chorus members
+4109	4109	verb.stative	were
+4115	4115	noun.person	butcher
+4118	4119	noun.artifact	hardware store
+4120	4120	noun.person	owner
+4123	4123	noun.substance	coal
+4124	4124	noun.person	man
+4127	4127	noun.food	vegetable
+4128	4128	noun.person	seller
+4131	4131	noun.artifact	grocery
+4132	4132	noun.person	man
+4135	4135	verb.stative	was
+4138	4138	noun.relation	connection
+4142	4143	verb.motion	went home
+4150	4150	noun.artifact	grocery
+4151	4151	noun.person	man
+4153	4153	verb.communication	say
+4158	4158	verb.possession	have
+4162	4162	noun.quantity	kilos
+4164	4164	noun.food	cheese
+4168	4168	verb.possession	give
+4175	4175	verb.possession	have
+4177	4177	noun.substance	coal
+4181	4181	verb.possession	allocate
+4184	4184	verb.possession	have
+4187	4187	noun.possession	stock
+4191	4191	verb.stative	is
+4194	4194	noun.state	relationship
+4196	4196	verb.change	began
+4200	4200	verb.social	helped
+4204	4204	noun.person	friends
+4206	4206	verb.contact	sought
+4207	4207	noun.act	ways
+4209	4209	verb.cognition	solve
+4211	4211	noun.state	problems
+4214	4214	verb.stative	is
+4220	4220	noun.cognition	kind
+4222	4222	noun.state	atmosphere
+4225	4225	verb.stative	were
+4229	4229	verb.stative	were
+4231	4231	noun.person	children
+4233	4233	noun.person	Catholic
+4234	4234	noun.person	children
+4238	4238	noun.cognition	religions
+4242	4243	noun.group	youth groups
+4247	4247	verb.social	represented
+4249	4249	noun.group	groups
+4252	4252	verb.communication	celebrated
+4253	4253	noun.time	Christmas
+4255	4255	noun.relation	part
+4258	4258	noun.group	group
+4262	4262	noun.group	church
+4263	4263	noun.group	community
+4266	4266	noun.group	village
+4269	4269	verb.stative	were
+4271	4271	noun.attribute	distinctions
+4275	4275	noun.person	children
+4278	4279	verb.motion	go home
+4281	4281	verb.possession	had
+4283	4283	noun.state	problems
+4288	4288	verb.possession	had
+4290	4290	noun.act	contact
+4293	4293	noun.person	parents
+4297	4297	verb.stative	was
+4299	4299	noun.group	group
+4303	4303	verb.communication	write
+4306	4306	noun.person	parents
+4311	4311	verb.possession	had
+4313	4313	noun.communication	address
+4316	4316	verb.stative	were
+4317	4317	noun.state	problems
+4322	4322	verb.social	coped
+4327	4327	verb.social	tried
+4329	4329	verb.communication	make
+4334	4334	verb.perception	sense
+4343	4343	noun.person	refugee
+4344	4344	noun.person	children
+4347	4347	verb.stative	were
+4351	4351	noun.state	cases
+4358	4358	noun.person	father
+4359	4359	verb.stative	was
+4361	4361	noun.artifact	jail
+4365	4365	noun.person	mother
+4367	4367	verb.change	died
+4372	4372	noun.state	situations
+4373	4373	verb.contact	tied
+4378	4378	noun.person	children
+4380	4380	verb.possession	had
+4382	4382	noun.act	contact
+4385	4385	noun.group	family
+4390	4390	verb.stative	was
+4392	4392	noun.time	May
+4395	4395	noun.time	beginning
+4397	4397	noun.time	June
+4402	4402	noun.act	invasions
+4405	4406	verb.change	taken place
+4408	4408	noun.location	Normandy
+4414	4414	noun.person	woman
+4415	4415	verb.motion	came
+4419	4419	verb.stative	was
+4423	4423	noun.act	work
+4427	4427	verb.possession	gotten
+4429	4429	noun.communication	address
+4433	4433	noun.location	Switzerland
+4436	4436	verb.communication	suggested
+4438	4439	verb.communication	call on
+4443	4443	verb.communication	said
+4445	4445	verb.stative	was
+4448	4448	noun.person	journalist
+4451	4452	verb.cognition	looking into
+4456	4456	verb.social	done
+4460	4460	noun.location	areas
+4464	4464	noun.time	time
+4467	4467	verb.perception	noticed
+4470	4470	verb.possession	had
+4472	4472	noun.state	problems
+4475	4475	noun.feeling	wishes
+4482	4482	verb.change	began
+4484	4485	verb.communication	talk about
+4487	4487	noun.person	Maquis
+4494	4494	verb.stative	was
+4498	4498	verb.communication	contacting
+4500	4500	noun.person	Maquis
+4509	4509	noun.person	Maquis
+4513	4513	verb.possession	have
+4514	4514	noun.person	colleagues
+4517	4517	verb.cognition	associated
+4520	4520	noun.person	Maquis
+4523	4523	verb.possession	had
+4524	4524	noun.state	connections
+4528	4528	noun.group	people
+4531	4531	noun.group	village
+4536	4536	verb.stative	was
+4539	4539	verb.communication	convey
+4541	4541	noun.person	lady
+4543	4543	noun.communication	wish
+4547	4547	verb.stative	is
+4550	4550	noun.state	connection
+4552	4552	verb.social	made
+4556	4556	verb.stative	was
+4559	4561	verb.social	get in touch
+4564	4564	noun.person	Maquis
+4565	4565	noun.group	leadership
+4569	4570	verb.stative	turned out
+4573	4573	verb.stative	was
+4575	4575	noun.person	American
+4577	4578	noun.person	Virginia Hall
+4583	4583	verb.social	honored
+4585	4585	noun.group	Congress
+4588	4588	noun.act	service
+4590	4590	verb.stative	was
+4593	4593	verb.possession	provide
+4596	4596	noun.location	parts
+4598	4598	noun.location	France
+4601	4601	noun.location	areas
+4606	4606	verb.communication	discussed
+4607	4607	noun.artifact	armaments
+4610	4610	noun.group	Maquis
+4614	4614	noun.person	leader
+4617	4618	noun.act	resistance movement
+4619	4619	verb.communication	admitted
+4623	4623	noun.time	years
+4627	4627	verb.communication	writing
+4634	4634	noun.time	1980s
+4640	4640	verb.creation	arranged
+4642	4642	noun.act	contact
+4646	4646	noun.person	Maquis
+4647	4647	noun.group	people
+4650	4650	noun.location	Department
+4652	4652	verb.possession	obtain
+4653	4653	noun.artifact	weapons
+4659	4659	verb.social	help
+4660	4660	verb.social	free
+4662	4662	noun.group	Department
+4665	4665	verb.social	played
+4668	4668	noun.act	role
+4671	4671	noun.act	war
+4674	4674	noun.act	liberation
+4680	4680	verb.consumption	provide
+4683	4683	noun.act	measures
+4688	4688	noun.state	situation
+4694	4694	verb.stative	was
+4697	4697	verb.social	do
+4702	4702	verb.possession	had
+4703	4703	noun.relation	connections
+4706	4706	noun.person	Maquis
+4710	4710	verb.stative	was
+4714	4714	noun.state	situation
+4721	4721	verb.creation	organized
+4723	4724	noun.artifact	escape route
+4726	4726	noun.location	Switzerland
+4730	4731	verb.possession	taken over
+4735	4735	noun.group	population
+4739	4739	verb.stative	is
+4742	4742	verb.social	acting
+4746	4746	noun.act	working
+4748	4749	verb.change	took place
+4752	4752	verb.stative	was
+4757	4757	noun.time	time
+4761	4762	noun.person	Dr. Forestier
+4764	4766	noun.person	Roger Le Forestier
+4768	4768	verb.stative	was
+4773	4773	noun.group	village
+4774	4774	noun.person	doctors
+4779	4779	verb.social	worked
+4781	4782	noun.person	Albert Schweitzer
+4784	4784	noun.location	Africa
+4787	4787	verb.stative	lived
+4792	4792	noun.location	L'Abric
+4793	4793	noun.artifact	home
+4797	4797	verb.possession	had
+4798	4798	noun.act	contact
+4803	4803	verb.stative	was
+4807	4807	noun.person	optimist
+4809	4809	verb.stative	was
+4817	4817	noun.event	time
+4820	4820	verb.motion	drove
+4822	4823	noun.location	Le Puy
+4826	4826	verb.possession	taken
+4828	4828	noun.group	people
+4834	4835	verb.stative	turned out
+4838	4838	noun.group	people
+4839	4839	verb.stative	were
+4843	4843	noun.location	Maquis
+4848	4848	noun.artifact	entrance
+4850	4851	noun.location	Le Puy
+4856	4857	noun.artifact	police control
+4862	4862	noun.person	passengers
+4864	4864	verb.stative	left
+4866	4866	noun.artifact	car
+4868	4868	verb.social	let
+4870	4870	verb.motion	drive
+4877	4877	noun.attribute	control
+4880	4880	noun.artifact	revolver
+4882	4882	verb.possession	found
+4885	4885	noun.artifact	car
+4889	4889	noun.person	doctor
+4891	4891	verb.social	arrested
+4894	4894	verb.cognition	considered
+4896	4896	noun.cognition	options
+4898	4898	verb.change	get
+4906	4906	verb.motion	drive
+4908	4909	noun.location	Le Puy
+4911	4912	noun.person	TrocmÃ ©
+4914	4915	noun.person	Dr. Forestier
+4917	4917	noun.person	wife
+4921	4921	verb.emotion	wanted
+4923	4923	verb.social	achieve
+4928	4928	noun.act	occupation
+4929	4929	noun.group	troops
+4933	4934	verb.social	taken along
+4938	4938	noun.person	speaker
+4941	4941	noun.person	representative
+4944	4945	noun.group	Red Cross
+4951	4951	verb.perception	have
+4953	4953	noun.communication	conversation
+4956	4956	noun.person	major
+4959	4959	verb.cognition	think
+4961	4961	noun.communication	name
+4962	4962	verb.stative	was
+4963	4963	noun.person	SchmÃ¤hling
+4967	4967	noun.communication	discussion
+4968	4968	verb.stative	was
+4975	4975	verb.perception	had
+4977	4977	noun.cognition	impression
+4980	4980	noun.person	officer
+4981	4981	verb.cognition	saw
+4988	4988	noun.person	doctor
+4993	4993	verb.communication	convey
+4996	4996	noun.person	doctor
+4997	4997	verb.stative	was
+4999	4999	noun.act	resistance
+5000	5000	noun.person	fighter
+5007	5007	verb.social	doing
+5009	5009	noun.act	duty
+5012	5012	noun.animal	human
+5017	5017	verb.motion	go
+5019	5019	verb.cognition	leave
+5026	5026	verb.perception	had
+5028	5028	noun.state	luck
+5031	5031	noun.artifact	revolver
+5033	5033	verb.possession	found
+5036	5036	noun.artifact	car
+5039	5039	noun.state	situation
+5040	5040	verb.perception	looked
+5045	5045	noun.person	doctor
+5048	5048	verb.stative	was
+5050	5050	noun.group	court
+5051	5053	noun.act	- martial action
+5058	5058	verb.social	trying
+5061	5061	verb.change	soften
+5063	5063	noun.communication	case
+5068	5068	verb.communication	suggested
+5077	5077	verb.stative	is
+5082	5082	verb.social	work
+5084	5084	noun.location	Germany
+5087	5087	noun.person	doctor
+5091	5092	verb.social	get around
+5094	5094	noun.act	action
+5098	5098	verb.stative	were
+5106	5106	verb.motion	left
+5109	5109	verb.motion	leaving
+5112	5112	verb.communication	asked
+5115	5115	noun.person	doctor
+5117	5117	noun.person	wife
+5119	5119	verb.stative	be
+5122	5122	verb.social	see
+5126	5126	verb.communication	agreed
+5130	5131	verb.motion	went out
+5134	5134	noun.artifact	corridor
+5136	5136	verb.stative	waited
+5141	5141	verb.possession	had
+5143	5143	noun.artifact	room
+5146	5147	noun.person	Mrs. Forestier
+5151	5151	verb.communication	talk
+5156	5156	verb.motion	brought
+5161	5161	verb.perception	saw
+5166	5166	noun.body	marks
+5169	5169	noun.body	face
+5174	5174	verb.contact	beaten
+5177	5177	verb.possession	had
+5179	5179	noun.body	marks
+5183	5183	verb.perception	saw
+5186	5187	noun.person	Mrs. Forestier
+5188	5188	verb.stative	spent
+5193	5193	noun.time	minutes
+5196	5196	noun.person	husband
+5202	5202	verb.motion	returned
+5204	5209	noun.location	Le Chambon - sur - Lignon
+5212	5212	verb.stative	was
+5216	5216	verb.cognition	know
+5220	5220	noun.time	week
+5223	5223	noun.time	days
+5227	5227	noun.act	liberation
+5229	5230	noun.person	Le Puy
+5232	5232	verb.social	liberated
+5234	5234	noun.time	August
+5253	5253	noun.person	prisoners
+5255	5255	verb.motion	sent
+5260	5260	verb.cognition	learned
+5264	5265	verb.social	made it
+5267	5267	noun.location	Lyon
+5273	5273	verb.stative	was
+5275	5275	noun.person	Barbie
+5278	5279	noun.person	Klaus Barbie
+5283	5283	noun.person	butcher
+5286	5286	noun.location	Lyon
+5288	5288	noun.group	regime
+5293	5293	verb.cognition	suspect
+5297	5297	verb.stative	was
+5299	5299	noun.person	man
+5301	5301	noun.person	victim
+5304	5304	verb.change	died
+5309	5309	verb.stative	is
+5311	5311	noun.communication	story
+5313	5314	noun.person	Dr. Forestier
+5319	5319	verb.stative	be
+5323	5323	verb.communication	spoke
+5324	5324	noun.communication	German
+5330	5331	verb.communication	called upon
+5334	5334	noun.group	village
+5341	5341	noun.person	prisoners
+5342	5342	verb.stative	were
+5348	5348	verb.motion	accompanied
+5349	5351	noun.person	Pastor TrocmÃ ©
+5354	5355	noun.artifact	military hospital
+5359	5359	noun.person	interpreter
+5363	5364	noun.group	Red Cross
+5365	5365	noun.person	representative
+5370	5370	verb.social	assisted
+5372	5372	noun.act	worship
+5373	5373	noun.act	services
+5376	5376	verb.social	held
+5379	5379	noun.person	prisoners
+5383	5383	noun.group	population
+5384	5384	verb.communication	protested
+5390	5390	verb.communication	told
+5396	5396	verb.stative	are
+5398	5398	noun.state	need
+5402	5402	verb.possession	have
+5403	5403	noun.communication	claim
+5405	5405	noun.person	God
+5407	5407	noun.communication	word
+5412	5412	verb.possession	provide
+5414	5414	noun.act	worship
+5415	5415	noun.act	service
+5419	5419	verb.stative	was
+5421	5421	noun.act	position
+5424	5424	verb.possession	had
+5426	5426	noun.motive	conscience
+5429	5429	verb.social	acted
+5433	5433	noun.motive	conscience
+5436	5436	verb.stative	were
+5444	5444	noun.event	occasion
+5449	5449	noun.act	action
+5452	5452	noun.group	troops
+5456	5456	verb.motion	come
+5458	5458	noun.location	Valence
+5460	5460	verb.stative	were
+5463	5463	noun.quantity	kilometers
+5465	5469	noun.location	Chambon - sur - Lignon
+5473	5473	noun.artifact	tank
+5474	5474	noun.group	group
+5480	5480	verb.change	begun
+5481	5481	verb.competition	shooting
+5483	5483	noun.artifact	houses
+5486	5487	verb.emotion	worried about
+5489	5489	noun.person	children
+5493	5494	verb.motion	got together
+5497	5497	noun.group	village
+5502	5502	verb.social	do
+5506	5506	verb.cognition	remember
+5508	5508	noun.time	date
+5511	5511	verb.stative	was
+5512	5512	noun.time	July
+5518	5518	verb.cognition	decided
+5520	5520	verb.communication	designate
+5521	5521	noun.person	Le
+5522	5526	noun.location	Chambon - sur - Lignon
+5530	5530	noun.location	city
+5532	5532	noun.person	children
+5536	5536	verb.change	made
+5540	5541	noun.quantity	large number
+5543	5543	noun.person	children
+5545	5545	noun.artifact	homes
+5550	5550	verb.communication	declare
+5552	5552	noun.location	city
+5556	5556	noun.location	city
+5561	5562	verb.communication	pointed out
+5568	5568	noun.group	troops
+5571	5571	verb.motion	leave
+5573	5577	noun.location	Chambon - sur - Lignon
+5580	5580	noun.event	time
+5587	5588	verb.social	come up
+5592	5592	noun.person	Maquis
+5593	5593	noun.person	fighter
+5597	5597	noun.location	city
+5602	5602	verb.communication	agreed
+5609	5609	noun.group	group
+5610	5610	verb.stative	including
+5611	5613	noun.person	Pastor TrocmÃ ©
+5619	5619	verb.cognition	believe
+5622	5622	noun.person	mayor
+5625	5626	verb.motion	went to
+5628	5628	noun.person	Maquis
+5629	5629	noun.artifact	headquarters
+5632	5632	verb.stative	was
+5638	5638	noun.location	area
+5641	5641	verb.motion	drove
+5644	5645	verb.communication	spoke with
+5647	5647	noun.person	Maquis
+5648	5648	noun.group	administration
+5649	5649	noun.person	commander
+5652	5652	verb.communication	considered
+5661	5661	verb.communication	convince
+5668	5668	verb.communication	arrange
+5672	5673	noun.person	Pastor TrocmÃ
+5678	5678	noun.person	mayor
+5681	5682	verb.motion	went up
+5685	5685	noun.person	Germans
+5688	5689	noun.communication	white flag
+5693	5693	verb.communication	negotiate
+5698	5698	verb.stative	was
+5703	5703	noun.group	column
+5706	5706	noun.group	troops
+5708	5709	verb.motion	turned around
+5711	5712	verb.motion	went back
+5715	5715	noun.quantity	kilometers
+5717	5721	noun.location	Chambon - sur - Lignon
+5724	5724	verb.stative	were
+5729	5729	noun.act	experiences
+5731	5731	noun.attribute	aid
+5732	5732	noun.act	actions
+5734	5734	noun.group	people
+5735	5735	verb.stative	involving
+5736	5738	noun.person	Pastor TrocmÃ ©
+5740	5740	noun.person	FaÃ¯doli
+5742	5742	noun.communication	yes
+5751	5751	verb.creation	sing
+5754	5754	verb.emotion	surprised
+5760	5760	verb.creation	played
+5767	5767	verb.creation	sing
+5772	5772	noun.communication	talk
+5775	5775	verb.stative	is
+5779	5779	verb.stative	contained
+5782	5782	noun.communication	film
+5784	5785	noun.person	Pierre Sauvage
+5787	5787	noun.communication	note
+5799	5799	verb.perception	hear
+5805	5805	noun.communication	song
+5809	5809	noun.communication	song
+5811	5811	verb.stative	was
+5813	5813	noun.group	community
+5814	5814	noun.communication	song
+5819	5819	noun.artifact	homes
+5829	5829	verb.creation	sang
+5833	5833	verb.stative	was
+5835	5835	noun.cognition	background
+5839	5839	verb.social	tried
+5841	5841	verb.possession	pass
+5846	5846	noun.person	children
+5849	5849	verb.stative	were
+5852	5852	noun.person	children
+5854	5854	verb.stative	were
+5856	5860	noun.location	Chambon - sur - Lignon
+5867	5867	verb.possession	took
+5873	5873	noun.cognition	experiences
+5875	5879	noun.location	Chambon - sur - Lignon
+5884	5884	verb.stative	was
+5888	5888	noun.time	period
+5890	5891	noun.communication	Thank you
+5894	5894	verb.communication	spoke
+5898	5898	noun.time	25th
+5900	5900	noun.time	August
+5902	5907	noun.location	Le Chambon - sur - Lignon
+5914	5914	verb.stative	was
+5917	5917	noun.act	action
+5923	5923	verb.stative	were
+5932	5932	verb.emotion	worried
+5935	5935	verb.stative	were
+5940	5940	verb.creation	organized
+5942	5943	noun.artifact	alarm system
+5946	5946	noun.attribute	distance
+5949	5949	noun.artifact	house
+5952	5952	verb.stative	was
+5956	5956	noun.quantity	kilometers
+5959	5959	noun.time	mornings
+5962	5962	verb.cognition	knew
+5965	5965	noun.group	police
+5966	5966	verb.change	began
+5968	5968	noun.act	work
+5971	5971	noun.time	a.m.
+5980	5980	verb.creation	arranged
+5987	5987	verb.change	happening
+5991	5991	verb.motion	turn
+5993	5993	noun.artifact	light
+5998	5998	noun.artifact	room
+6003	6003	verb.stative	were
+6008	6008	verb.contact	hang
+6010	6010	noun.artifact	bedding
+6013	6013	noun.artifact	window
+6016	6016	noun.communication	sheet
+6022	6022	verb.perception	seen
+6025	6025	noun.location	area
+6027	6027	verb.cognition	know
+6034	6035	verb.change	going on
+6041	6041	noun.time	time
+6045	6045	verb.possession	had
+6046	6046	noun.act	help
+6049	6049	noun.group	village
+6053	6053	verb.cognition	recall
+6057	6057	noun.group	group
+6058	6058	verb.motion	came
+6060	6060	noun.time	afternoon
+6066	6067	noun.group	city council
+6069	6069	noun.group	office
+6072	6072	verb.communication	sent
+6075	6075	noun.person	man
+6082	6082	noun.communication	note
+6083	6083	verb.communication	saying
+6087	6087	noun.group	police
+6089	6089	verb.motion	coming
+6093	6093	verb.perception	see
+6099	6099	noun.communication	papers
+6105	6105	verb.cognition	knew
+6110	6110	verb.change	arranged
+6112	6112	noun.communication	papers
+6116	6116	verb.stative	was
+6117	6117	noun.quantity	nothing
+6126	6126	verb.competition	protect
+6128	6128	noun.person	colleagues
+6137	6137	noun.location	Viennese
+6138	6138	noun.person	doctor
+6140	6141	noun.person	Frau Schwamm
+6150	6150	verb.communication	mentioned
+6153	6153	noun.communication	book
+6156	6156	noun.person	wife
+6160	6160	noun.person	husband
+6164	6164	verb.social	freed
+6171	6171	verb.social	work
+6174	6174	verb.stative	lived
+6177	6177	noun.artifact	farm
+6180	6180	noun.artifact	house
+6186	6186	noun.act	Control
+6187	6187	noun.group	people
+6188	6188	verb.motion	came
+6191	6191	verb.communication	let
+6192	6193	noun.person	Frau Schwamm
+6196	6196	noun.person	husband
+6197	6197	verb.change	disappear
+6201	6201	verb.possession	had
+6203	6203	noun.person	cook
+6206	6206	noun.location	north
+6209	6210	verb.motion	come south
+6217	6218	noun.person	young man
+6221	6221	verb.stative	was
+6223	6223	noun.person	Canadian
+6226	6226	verb.stative	been
+6228	6228	noun.location	Dunkirk
+6231	6231	noun.group	company
+6235	6235	verb.motion	missed
+6237	6237	noun.artifact	ship
+6241	6241	verb.perception	concealed
+6246	6246	verb.motion	taken
+6250	6250	noun.location	demarcation
+6251	6251	noun.artifact	line
+6257	6257	noun.person	nephew
+6260	6260	verb.cognition	learned
+6264	6264	verb.stative	be
+6267	6267	verb.possession	find
+6268	6268	noun.act	work
+6270	6270	noun.artifact	lodging
+6272	6277	noun.location	Le Chambon - sur - Lignon
+6282	6282	verb.motion	came
+6287	6287	noun.person	pastor
+6290	6290	verb.consumption	needed
+6292	6292	noun.person	cook
+6296	6297	noun.person	young man
+6298	6298	verb.social	worked
+6303	6303	noun.person	handyman
+6306	6306	verb.social	did
+6307	6307	noun.act	housework
+6309	6309	verb.competition	shopped
+6311	6311	noun.food	food
+6313	6313	verb.creation	repaired
+6314	6314	noun.artifact	vehicles
+6316	6316	noun.artifact	shoes
+6318	6318	noun.artifact	furniture
+6325	6325	noun.person	German
+6328	6328	noun.group	police
+6329	6329	verb.motion	came
+6334	6334	verb.perception	hide
+6338	6338	verb.stative	were
+6341	6341	noun.person	children
+6349	6349	verb.possession	had
+6351	6351	noun.person	boy
+6353	6353	noun.person	Serge
+6356	6356	verb.motion	came
+6360	6360	noun.location	Paris
+6366	6366	verb.possession	found
+6367	6367	noun.artifact	lodging
+6369	6369	noun.state	safety
+6372	6372	verb.motion	came
+6373	6374	verb.contact	looking for
+6380	6380	noun.person	cook
+6381	6381	verb.perception	reacted
+6385	6385	verb.communication	said
+6392	6392	verb.possession	found
+6397	6397	verb.communication	told
+6400	6400	verb.possession	get
+6402	6402	noun.artifact	things
+6407	6407	verb.possession	offered
+6409	6409	noun.person	policemen
+6410	6410	noun.food	coffee
+6413	6413	verb.consumption	drank
+6414	6414	noun.food	coffee
+6419	6419	noun.time	minutes
+6422	6422	verb.communication	said
+6429	6430	verb.motion	get back
+6434	6435	verb.motion	went back
+6438	6438	noun.artifact	house
+6440	6440	verb.communication	called
+6442	6442	noun.person	Serge
+6446	6446	noun.person	Serge
+6449	6449	verb.motion	disappeared
+6452	6452	noun.group	woods
+6456	6456	verb.stative	remained
+6461	6461	verb.perception	had
+6463	6463	noun.cognition	idea
+6467	6467	noun.act	hiding
+6468	6468	verb.stative	were
+6472	6473	verb.competition	searched for
+6478	6478	verb.motion	took
+6480	6480	noun.group	group
+6482	6482	noun.person	children
+6485	6485	noun.group	forest
+6487	6487	verb.creation	sang
+6489	6489	noun.communication	songs
+6493	6493	noun.act	hiding
+6495	6495	verb.perception	hear
+6498	6498	verb.cognition	reconnect
+6504	6505	verb.motion	come back
+6508	6508	noun.state	problem
+6509	6509	verb.change	happened
+6518	6518	noun.person	colleagues
+6521	6521	noun.location	lands
+6526	6526	verb.communication	mentioned
+6531	6531	noun.cognition	religions
+6534	6534	noun.location	homelands
+6541	6541	verb.stative	be
+6545	6545	verb.possession	had
+6546	6547	noun.communication	official papers
+6552	6552	noun.event	occasions
+6555	6555	noun.communication	papers
+6559	6559	verb.communication	corrected
+6566	6566	verb.possession	accepted
+6569	6570	noun.group	town council
+6573	6573	verb.cognition	knew
+6576	6576	verb.stative	was
+6581	6581	noun.state	situations
+6582	6582	verb.stative	continued
+6584	6584	verb.change	occur
+6591	6591	noun.event	time
+6595	6595	noun.person	boys
+6597	6598	verb.motion	taken out
+6601	6604	noun.group	CÃ © venol carpentry
+6605	6605	noun.artifact	studio
+6608	6608	verb.stative	were
+6611	6611	verb.social	free
+6615	6615	verb.stative	were
+6620	6620	verb.stative	were
+6623	6623	verb.social	rescue
+6633	6634	verb.motion	go away
+6639	6639	verb.possession	find
+6640	6640	noun.act	ways
+6644	6644	noun.location	area
+6649	6649	noun.state	thing
+6650	6650	verb.stative	is
+6653	6653	verb.social	worked
+6658	6658	verb.stative	is
+6664	6664	verb.social	do
+6666	6666	noun.act	job
+6671	6671	verb.stative	were
+6674	6674	verb.social	achieve
+6679	6679	verb.stative	were
+6682	6682	noun.person	Swiss
+6683	6684	noun.group	Red Cross
+6685	6685	noun.state	aids
+6687	6687	noun.person	children
+6692	6692	noun.person	workers
+6695	6695	verb.possession	had
+6698	6698	verb.stative	were
+6703	6703	noun.person	Swiss
+6709	6709	verb.stative	were
+6710	6710	noun.group	people
+6714	6714	noun.group	nations
+6718	6718	verb.communication	talk
+6722	6722	noun.time	hour
+6726	6726	noun.state	life
+6727	6727	noun.communication	stories
+6731	6731	verb.stative	were
+6736	6736	verb.change	set
+6738	6738	noun.group	course
+6742	6742	noun.location	direction
+6746	6746	verb.stative	were
+6749	6749	verb.social	prevent
+6751	6751	noun.act	deportation
+6754	6754	verb.stative	was
+6759	6759	noun.person	wife
+6761	6761	noun.group	Rivesaltes
+6769	6774	noun.location	Le Chambon - sur - Lignon
+6777	6777	noun.quantity	number
+6782	6782	verb.stative	is
+6785	6785	verb.communication	say
+6790	6790	noun.time	time
+6796	6796	verb.cognition	realize
+6799	6799	verb.stative	remained
+6804	6804	noun.act	help
+6810	6810	verb.stative	were
+6814	6814	noun.group	families
+6816	6816	verb.social	helped
+6820	6820	verb.communication	said
+6824	6824	noun.time	Christmas
+6825	6825	noun.event	celebration
+6829	6829	verb.social	went
+6835	6835	noun.act	action
+6836	6836	verb.stative	was
+6841	6841	noun.act	action
+6844	6844	noun.group	OSE
+6849	6850	noun.group	Humanitarian Organization
+6853	6854	verb.social	worked up
+6859	6859	verb.social	helped
+6862	6862	verb.stative	was
+6865	6865	noun.person	Chambonnais
+6870	6870	verb.stative	was
+6872	6872	noun.relation	part
+6874	6875	noun.person	Le Chambon
+6878	6879	noun.location	- Lignon
+6884	6884	verb.social	achieved
