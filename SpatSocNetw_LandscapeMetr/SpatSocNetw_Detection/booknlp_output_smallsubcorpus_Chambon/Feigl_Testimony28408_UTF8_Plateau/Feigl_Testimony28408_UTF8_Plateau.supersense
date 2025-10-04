@@ -1,0 +1,304 @@
+start_token	end_token	supersense_category	text
+3	3	noun.time	December
+5	5	noun.time	December
+10	10	verb.communication	notified
+15	16	verb.motion	shipped off
+19	19	noun.location	location
+24	24	verb.contact	put
+27	27	noun.artifact	train
+31	32	noun.time	New Year
+34	34	noun.time	Eve
+37	37	verb.communication	explained
+43	43	verb.stative	be
+45	45	noun.act	patrols
+47	47	noun.group	police
+50	50	verb.cognition	checking
+51	51	noun.group	people
+54	54	noun.person	traveler
+56	56	noun.communication	papers
+58	59	noun.communication	identity papers
+64	64	verb.communication	told
+66	67	verb.motion	get off
+70	70	noun.location	place
+72	77	noun.location	Le Chambon - sur - Lignon
+81	82	verb.motion	arrived at
+88	88	noun.time	morning
+98	98	noun.time	morning
+101	101	verb.stative	was
+106	106	noun.time	night
+111	111	verb.motion	met
+116	116	noun.person	man
+117	117	verb.communication	named
+118	119	noun.person	Daniel Trocme
+123	123	verb.motion	took
+128	128	verb.perception	had
+134	134	noun.act	walk
+137	137	noun.time	night
+143	144	verb.change	wound up
+149	149	noun.substance	stone
+150	150	noun.artifact	farmhouse
+152	153	noun.location	Les Grillons
+156	156	noun.animal	crickets
+158	158	noun.communication	French
+159	159	noun.communication	word
+161	161	noun.animal	crickets
+166	166	verb.perception	found
+175	175	noun.person	kids
+177	177	verb.stative	ranging
+179	179	noun.attribute	age
+184	184	noun.quantity	seven
+193	193	noun.person	boys
+195	195	noun.person	girls
+198	199	noun.person	Daniel Trocme
+200	200	verb.stative	was
+203	203	verb.communication	call
+208	208	noun.person	father
+211	211	verb.stative	was
+215	215	noun.person	supervisor
+218	218	noun.person	man
+220	220	verb.social	ran
+223	223	noun.artifact	home
+228	229	verb.communication	found out
+232	232	verb.stative	was
+234	234	noun.person	cousin
+237	237	noun.person	pastor
+240	241	noun.location	Le Chambon
+244	244	noun.communication	name
+245	245	verb.stative	was
+246	247	noun.person	Andre Trocme
+254	254	verb.cognition	know
+257	257	verb.stative	was
+261	261	verb.stative	was
+264	264	verb.creation	discovered
+270	270	noun.state	war
+273	273	noun.time	years
+276	276	noun.act	war
+279	280	noun.location	Le Chambon
+281	281	verb.stative	was
+285	285	noun.location	village
+287	287	noun.location	France
+290	290	verb.stative	is
+295	295	noun.quantity	feet
+296	296	noun.attribute	elevation
+299	300	noun.location	Massif Central
+305	305	noun.object	mountain
+306	306	noun.group	chain
+308	308	noun.location	France
+316	316	noun.object	plateau
+322	322	noun.time	winter
+325	325	noun.object	plateau
+327	327	noun.act	Agriculture
+328	328	verb.stative	was
+334	334	verb.change	made
+336	336	noun.group	village
+338	338	verb.stative	was
+342	342	noun.location	country
+354	354	noun.group	village
+355	355	verb.stative	was
+359	359	noun.person	Protestant
+363	363	noun.person	villagers
+367	367	noun.act	leadership
+370	370	noun.person	pastor
+372	373	noun.person	Andre Trocme
+376	376	verb.emotion	inspired
+378	378	verb.stative	live
+380	380	noun.communication	Bible
+383	383	verb.stative	were
+386	386	noun.person	farmers
+390	390	verb.cognition	considered
+393	393	noun.person	Jews
+394	394	verb.stative	were
+397	397	noun.person	people
+400	400	noun.communication	Bible
+403	403	verb.cognition	knew
+407	407	verb.social	hiding
+408	408	noun.person	Jews
+412	412	verb.cognition	believed
+414	414	verb.social	helping
+418	418	noun.communication	Bible
+419	419	verb.communication	says
+423	423	verb.social	help
+425	425	noun.person	neighbor
+429	429	verb.stative	is
+432	432	verb.motion	go
+434	434	verb.social	visit
+438	439	noun.artifact	sick bed
+443	443	verb.stative	is
+446	446	verb.consumption	feed
+451	451	verb.consumption	needs
+452	452	noun.artifact	shelter
+454	454	verb.possession	give
+456	456	noun.artifact	shelter
+460	460	noun.group	people
+472	472	noun.group	families
+478	478	verb.social	doing
+479	479	verb.stative	was
+483	483	verb.cognition	caught
+486	486	verb.social	risked
+489	489	noun.act	arrest
+496	496	noun.person	members
+499	499	noun.group	family
+502	502	noun.person	children
+504	504	noun.act	expropriation
+507	507	noun.possession	property
+515	515	verb.stative	was
+518	518	noun.state	risk
+521	521	noun.state	risk
+525	525	noun.group	people
+526	526	verb.social	did
+532	532	verb.possession	saved
+536	536	noun.act	war
+537	537	noun.time	years
+540	540	noun.group	people
+542	542	verb.social	sheltered
+545	545	noun.group	village
+547	548	noun.location	Le Chambon
+553	553	noun.location	villages
+557	557	noun.act	act
+559	559	verb.creation	inspired
+562	562	noun.cognition	memories
+565	565	noun.state	suffering
+568	568	noun.act	persecution
+571	571	noun.person	Protestants
+572	572	verb.perception	suffered
+576	576	noun.time	period
+580	580	noun.person	Protestants
+583	583	verb.social	massacred
+586	586	verb.social	massacred
+589	589	noun.quantity	thousands
+594	594	noun.location	France
+599	599	verb.possession	found
+600	600	noun.artifact	shelter
+607	607	verb.motion	sent
+609	609	noun.group	school
+613	613	noun.group	school
+617	617	verb.social	organized
+623	624	noun.group	College Cevenol
+633	633	noun.group	school
+634	634	verb.stative	is
+637	637	noun.group	school
+638	638	noun.time	today
+643	643	verb.stative	is
+645	645	noun.state	existence
+651	651	noun.state	circumstance
+657	657	verb.stative	lived
+661	661	noun.state	life
+664	664	verb.stative	being
+665	665	noun.person	villagers
+670	670	verb.communication	mean
+672	672	noun.person	farmers
+674	674	verb.communication	Excuse
+686	686	verb.motion	sent
+688	688	noun.location	town
+690	691	verb.motion	pick up
+692	692	noun.food	food
+694	694	noun.food	vegetables
+696	696	noun.plant	potatoes
+698	698	noun.artifact	things
+700	700	verb.stative	were
+708	708	noun.group	population
+714	715	verb.contact	looked after
+717	717	verb.consumption	fed
+727	727	verb.communication	told
+730	730	verb.motion	leave
+732	732	noun.artifact	classroom
+734	734	verb.motion	leave
+736	736	noun.location	home
+738	739	noun.location	Les Grillons
+743	743	verb.contact	pick
+744	744	noun.artifact	mushrooms
+752	752	noun.group	woods
+757	757	verb.cognition	learned
+761	761	verb.change	happened
+764	764	verb.stative	was
+766	766	noun.phenomenon	result
+770	771	noun.communication	phone call
+774	774	noun.person	leadership
+777	777	noun.group	village
+779	779	verb.communication	warning
+784	784	verb.stative	be
+786	786	noun.act	raid
+792	793	verb.motion	coming out
+795	796	verb.contact	hunt for
+797	797	noun.person	Jews
+800	800	noun.person	residents
+807	807	verb.stative	kept
+810	810	noun.group	woods
+815	815	noun.communication	signal
+817	817	verb.communication	given
+823	824	verb.motion	come back
+826	826	noun.location	town
+830	830	noun.time	period
+835	835	verb.possession	provided
+839	840	noun.communication	identification cards
+843	843	verb.possession	took
+844	845	noun.communication	identity pictures
+852	852	noun.time	time
+856	856	verb.possession	given
+859	860	noun.communication	identity card
+863	863	noun.communication	name
+865	866	noun.person	Pierre Fesson
+869	869	verb.possession	kept
+872	873	noun.time	birth date
+878	878	verb.communication	told
+881	882	noun.location	place of
+883	883	noun.location	birth
+884	884	verb.stative	was
+885	885	noun.location	Auch
+887	887	noun.location	Gers
+892	892	verb.stative	lived
+895	895	noun.person	parents
+898	898	noun.cognition	kinds
+900	900	noun.act	contact
+908	908	verb.perception	have
+912	912	noun.group	resistance
+920	920	noun.group	groups
+923	923	verb.social	attempting
+925	925	verb.competition	fight
+927	927	noun.person	Germans
+930	930	noun.location	France
+934	934	noun.act	contact
+939	939	noun.act	contact
+945	945	verb.stative	were
+947	948	noun.location	Le Chambon
+951	951	verb.stative	was
+955	955	noun.location	area
+959	960	noun.location	Le Chambon
+966	966	noun.location	area
+970	970	verb.stative	was
+974	974	noun.group	organization
+977	977	verb.cognition	think
+980	980	noun.location	point
+985	985	verb.motion	taken
+990	990	noun.person	kids
+993	993	noun.group	group
+996	996	verb.cognition	remember
+999	999	verb.creation	dancing
+1004	1004	verb.stative	was
+1007	1007	noun.event	time
+1010	1010	verb.perception	saw
+1015	1015	verb.creation	sang
+1017	1017	noun.communication	songs
+1019	1019	noun.act	resistance
+1020	1020	noun.communication	songs
+1025	1025	noun.group	people
+1027	1028	noun.location	Le Chambon
+1032	1032	noun.communication	thing
+1037	1037	verb.emotion	worried
+1044	1044	verb.change	affect
+1049	1049	noun.group	family
+1052	1052	verb.contact	put
+1053	1053	noun.act	justice
+1058	1058	noun.cognition	consideration
+1062	1062	verb.communication	say
+1068	1068	noun.group	people
+1069	1069	noun.time	today
+1072	1072	noun.group	schools
+1076	1076	verb.cognition	see
+1078	1078	noun.act	injustice
+1080	1080	verb.social	committed
+1084	1084	verb.change	turn
+1086	1086	noun.body	back
+1087	1087	verb.social	on
+1090	1090	verb.social	Get
+1093	1094	verb.communication	Speak up
