@@ -1,0 +1,28 @@
+DistanceKM,EdgeBetweenness,interaction,name,selected,shared interaction,shared name,Weight,X_Coord_Source,X_Coord_Target,Y_Coord_Source,Y_Coord_Target,Z_Coord_Source,Z_Coord_Target
+0,0,interacts with,College Cevenol (interacts with) College Cevenol,FALSE,interacts with,College Cevenol (interacts with) College Cevenol,24,4.303929,4.303929,45.06096,45.06096,961,961
+0.079372938,35,interacts with,College Cevenol (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,College Cevenol (interacts with) Le Chambon-sur-Lignon,156,4.303929,4.302941,45.06096,45.06081,961,961
+2.097760026,14,interacts with,College Cevenol (interacts with) Les Grillons,FALSE,interacts with,College Cevenol (interacts with) Les Grillons,1,4.303929,4.326289,45.06096,45.07128,961,1067
+0,0,interacts with,L'Abric (interacts with) L'Abric,FALSE,interacts with,L'Abric (interacts with) L'Abric,19,4.311144,4.311144,45.06056,45.06056,997,997
+0.245197847,8,interacts with,L'Abric (interacts with) La Guespy,FALSE,interacts with,L'Abric (interacts with) La Guespy,36,4.311144,4.312919,45.06056,45.062374,997,1006
+0.644891539,48,interacts with,L'Abric (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,L'Abric (interacts with) Le Chambon-sur-Lignon,9,4.311144,4.302941,45.06056,45.06081,997,961
+1.588900747,7,interacts with,La Fayolle (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,La Fayolle (interacts with) Le Chambon-sur-Lignon,10,4.28556,4.302941,45.0535,45.06081,1002,961
+0.245197847,10,interacts with,La Guespy (interacts with) L'Abric,FALSE,interacts with,La Guespy (interacts with) L'Abric,36,4.312919,4.311144,45.062374,45.06056,1006,997
+0,0,interacts with,La Guespy (interacts with) La Guespy,FALSE,interacts with,La Guespy (interacts with) La Guespy,140,4.312919,4.312919,45.062374,45.062374,1006,1006
+0.802758495,51,interacts with,La Guespy (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,La Guespy (interacts with) Le Chambon-sur-Lignon,24,4.312919,4.302941,45.062374,45.06081,1006,961
+0.079372938,34,interacts with,Le Chambon-sur-Lignon (interacts with) College Cevenol,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) College Cevenol,156,4.302941,4.303929,45.06081,45.06096,961,961
+0.644891539,27,interacts with,Le Chambon-sur-Lignon (interacts with) L'Abric,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) L'Abric,9,4.302941,4.311144,45.06081,45.06056,961,997
+1.588900747,44,interacts with,Le Chambon-sur-Lignon (interacts with) La Fayolle,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) La Fayolle,10,4.302941,4.28556,45.06081,45.0535,961,1002
+0.802758495,24,interacts with,Le Chambon-sur-Lignon (interacts with) La Guespy,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) La Guespy,21,4.302941,4.312919,45.06081,45.062374,961,1006
+0,0,interacts with,Le Chambon-sur-Lignon (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) Le Chambon-sur-Lignon,4458,4.302941,4.302941,45.06081,45.06081,961,961
+2.172027545,65,interacts with,Le Chambon-sur-Lignon (interacts with) Les Grillons,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) Les Grillons,24,4.302941,4.326289,45.06081,45.07128,961,1067
+0,43,interacts with,Le Chambon-sur-Lignon (interacts with) Plateau Vivarais,FALSE,interacts with,Le Chambon-sur-Lignon (interacts with) Plateau Vivarais,46,4.302941,4.302941,45.06081,45.06081,961,961
+2.097760026,4,interacts with,Les Grillons (interacts with) College Cevenol,FALSE,interacts with,Les Grillons (interacts with) College Cevenol,1,4.326289,4.303929,45.07128,45.06096,1067,961
+2.172027545,18,interacts with,Les Grillons (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,Les Grillons (interacts with) Le Chambon-sur-Lignon,23,4.326289,4.302941,45.07128,45.06081,1067,961
+0,0,interacts with,Les Grillons (interacts with) Les Grillons,FALSE,interacts with,Les Grillons (interacts with) Les Grillons,401,4.326289,4.326289,45.07128,45.07128,1067,1067
+2.115445336,44,interacts with,Les Grillons (interacts with) Maison des Roches,FALSE,interacts with,Les Grillons (interacts with) Maison des Roches,1,4.326289,4.321041,45.07128,45.05262,1067,959
+3.000255281,72,interacts with,Les Tavas (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,Les Tavas (interacts with) Le Chambon-sur-Lignon,1,4.33872,4.302941,45.051365,45.06081,1005,961
+1.258312531,23,interacts with,Maison des Roches (interacts with) La Guespy,FALSE,interacts with,Maison des Roches (interacts with) La Guespy,1,4.321041,4.312919,45.05262,45.062374,959,1006
+0,0,interacts with,Maison des Roches (interacts with) Maison des Roches,FALSE,interacts with,Maison des Roches (interacts with) Maison des Roches,9,4.321041,4.321041,45.05262,45.05262,959,959
+0.802758495,3,interacts with,Plateau Vivarais (interacts with) La Guespy,FALSE,interacts with,Plateau Vivarais (interacts with) La Guespy,1,4.302941,4.312919,45.06081,45.062374,961,1006
+0,11,interacts with,Plateau Vivarais (interacts with) Le Chambon-sur-Lignon,FALSE,interacts with,Plateau Vivarais (interacts with) Le Chambon-sur-Lignon,45,4.302941,4.302941,45.06081,45.06081,961,961
+0,0,interacts with,Plateau Vivarais (interacts with) Plateau Vivarais,FALSE,interacts with,Plateau Vivarais (interacts with) Plateau Vivarais,36,4.302941,4.302941,45.06081,45.06081,961,961

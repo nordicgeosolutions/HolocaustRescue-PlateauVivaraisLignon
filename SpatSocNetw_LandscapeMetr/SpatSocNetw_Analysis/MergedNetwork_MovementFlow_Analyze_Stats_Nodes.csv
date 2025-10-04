@@ -1,0 +1,10 @@
+AverageShortestPathLength,BetweennessCentrality,ClosenessCentrality,ClusteringCoefficient,Eccentricity,EdgeCount,Indegree,IsSingleNode,name,NeighborhoodConnectivity,Outdegree,PartnerOfMultiEdgedNodePairs,selected,SelfLoops,shared name,Stress,X_Coord,Y_Coord,Z_Coord
+1.714285714,0,0.583333333,1,2,6,3,FALSE,College Cevenol,5,3,2,FALSE,1,College Cevenol,0,4.303929,45.06096,961
+1.142857143,3.607142857,0.875,0.119047619,2,15,8,FALSE,Le Chambon-sur-Lignon,2.142857143,7,6,FALSE,1,Le Chambon-sur-Lignon,205,4.302941,45.06081,961
+1.571428571,0.678571429,0.636363636,0.333333333,2,7,3,FALSE,Les Grillons,3.666666667,4,2,FALSE,1,Les Grillons,38,4.326289,45.07128,1067
+1.857142857,0,0.538461538,1,3,6,3,FALSE,L'Abric,5.5,3,2,FALSE,1,L'Abric,0,4.311144,45.06056,997
+1.857142857,0.339285714,0.538461538,0.333333333,3,8,5,FALSE,La Guespy,3.25,3,2,FALSE,1,La Guespy,20,4.312919,45.062374,1006
+2,0,0.5,0,3,2,1,FALSE,La Fayolle,7,1,1,FALSE,0,La Fayolle,0,4.28556,45.0535,1002
+1.857142857,0,0.538461538,1,3,5,2,FALSE,Plateau Vivarais,5.5,3,1,FALSE,1,Plateau Vivarais,0,4.302941,45.06081,961
+2.428571429,0.035714286,0.411764706,0,3,4,2,FALSE,Maison des Roches,3.5,2,0,FALSE,1,Maison des Roches,4,4.321041,45.05262,959
+2,0,0.5,0,3,1,0,FALSE,Les Tavas,7,1,0,FALSE,0,Les Tavas,0,4.33872,45.051365,1005
