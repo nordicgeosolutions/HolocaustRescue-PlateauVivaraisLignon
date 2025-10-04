@@ -1,0 +1,276 @@
+start_token	end_token	supersense_category	text
+1	1	noun.communication	name
+2	2	verb.stative	is
+3	5	noun.person	Fanny Pariente Yankelevich
+9	9	verb.emotion	wanted
+11	11	verb.social	see
+13	13	noun.person	mother
+17	19	verb.social	got in touch
+24	24	noun.person	WIZO
+30	31	verb.motion	go to
+32	33	noun.location	Le Puy
+37	37	noun.communication	visa
+38	38	verb.motion	took
+42	42	noun.location	place
+44	44	noun.location	Mont.
+46	46	verb.stative	was
+48	48	noun.group	school
+54	54	verb.emotion	want
+56	56	verb.stative	stay
+60	60	verb.communication	complained
+62	62	verb.emotion	wanted
+64	64	verb.social	see
+66	66	noun.person	mother
+71	71	noun.time	month
+76	76	verb.motion	took
+79	80	noun.location	Le Puy
+82	82	verb.cognition	preparing
+85	86	verb.motion	go to
+89	89	noun.location	place
+93	94	noun.location	Le Puy
+97	98	verb.motion	went to
+99	99	verb.social	see
+101	101	noun.person	bishop
+103	104	noun.person	Monsignor Martin
+107	107	verb.change	made
+108	108	noun.communication	papers
+114	114	verb.possession	get
+116	116	noun.possession	rent
+119	119	noun.person	German
+122	122	verb.social	helped
+131	131	verb.social	see
+136	136	verb.communication	said
+139	139	verb.cognition	thought
+141	141	verb.stative	was
+146	146	noun.cognition	religion
+149	149	verb.perception	had
+150	150	noun.feeling	nightmares
+151	151	verb.perception	seeing
+152	152	noun.artifact	cathedrals
+154	154	noun.person	angels
+158	158	verb.communication	said
+160	160	verb.stative	was
+162	162	noun.cognition	nightmares
+167	167	noun.cognition	dreams
+171	171	verb.communication	said
+177	177	verb.stative	is
+180	180	noun.act	way
+182	182	verb.possession	gain
+183	183	noun.act	souls
+185	185	noun.person	God
+189	189	verb.possession	give
+194	194	noun.location	place
+200	200	verb.stative	was
+203	205	verb.social	got in touch
+208	208	noun.group	police
+210	211	noun.location	Le Puy
+214	214	verb.creation	made
+216	216	noun.communication	papers
+220	221	noun.person	Fannie Janton
+225	225	verb.motion	took
+229	229	noun.location	place
+232	232	verb.stative	was
+238	238	verb.cognition	know
+241	241	verb.communication	say
+244	244	noun.communication	English
+246	246	noun.person	Protestant
+252	252	verb.motion	took
+258	258	verb.cognition	recognized
+260	260	verb.cognition	know
+264	264	noun.event	time
+267	267	noun.state	heat
+269	269	noun.person	Protestant
+271	271	noun.person	Christian
+272	272	verb.stative	was
+276	276	noun.person	Catholic
+280	280	noun.person	Catholic
+282	282	noun.person	Protestant
+283	283	verb.stative	was
+287	287	noun.person	Christians
+289	289	noun.person	Jews
+293	294	verb.communication	found out
+298	298	verb.communication	said
+310	310	verb.emotion	care
+312	312	noun.cognition	religion
+316	316	noun.cognition	religion
+317	317	verb.creation	makes
+322	322	noun.state	things
+329	330	noun.location	Les Grillons
+333	334	noun.person	Mr. Trocme
+336	338	noun.person	Mr. Andre Trotman
+339	339	verb.possession	had
+341	341	noun.artifact	houses
+343	346	noun.location	La Maison des Roches
+350	350	noun.person	boys
+351	351	verb.stative	were
+356	356	verb.cognition	think
+362	362	verb.cognition	know
+365	365	verb.cognition	think
+367	367	verb.social	met
+369	369	noun.act	resistance
+373	373	verb.stative	were
+377	377	verb.stative	was
+381	381	noun.time	years
+386	386	verb.stative	was
+387	388	noun.person	Les Grillons
+391	391	noun.person	Grillons
+395	396	noun.location	les Roches
+402	402	noun.person	boys
+405	405	verb.possession	had
+406	406	noun.quantity	three
+411	411	noun.artifact	house
+415	416	verb.stative	went to
+417	417	noun.group	school
+420	420	verb.stative	was
+425	425	noun.person	College
+427	427	noun.location	Chambon
+431	431	noun.location	Lignon
+435	435	noun.communication	name
+438	438	noun.location	town
+439	439	verb.stative	is
+440	440	noun.location	Chambon
+443	444	noun.location	- Lignon
+447	447	verb.cognition	know
+449	449	verb.possession	have
+450	450	noun.communication	books
+452	452	noun.location	Chambon
+456	456	noun.location	Lignon
+459	459	noun.group	people
+460	460	verb.social	helped
+462	462	noun.person	persons
+465	465	verb.possession	have
+468	468	verb.possession	have
+470	470	noun.communication	book
+472	472	noun.location	home
+476	476	verb.cognition	forgot
+481	481	noun.time	day
+484	484	verb.stative	's
+486	486	noun.time	days
+489	489	verb.cognition	remember
+492	492	noun.time	September
+499	499	noun.time	July
+505	505	noun.time	morning
+508	508	verb.perception	heard
+516	516	verb.contact	opened
+520	520	noun.artifact	door
+522	522	verb.perception	saw
+523	524	noun.person	German Police
+526	526	noun.person	Milice
+530	530	verb.social	arresting
+531	532	noun.person	Mr. Trocme
+536	537	verb.motion	went to
+539	539	noun.artifact	room
+544	544	noun.person	boys
+545	545	verb.stative	were
+549	549	verb.communication	told
+553	553	verb.social	arresting
+554	555	noun.person	Mr. Trocme
+559	560	verb.motion	run away
+563	563	noun.artifact	window
+568	568	verb.stative	was
+572	572	verb.stative	was
+577	577	noun.artifact	floor
+580	580	verb.stative	was
+584	584	verb.motion	jumped
+587	587	noun.artifact	window
+589	589	verb.motion	escaped
+592	592	noun.group	woods
+597	598	verb.motion	came back
+601	601	verb.stative	was
+604	604	verb.body	crying
+606	606	verb.communication	yelling
+610	610	verb.contact	arrested
+611	612	noun.person	Mr. Trocme
+619	619	verb.communication	told
+624	624	noun.communication	Broadcasting
+632	632	noun.time	night
+635	635	verb.perception	hear
+636	636	noun.location	Radioland
+640	640	verb.communication	said
+642	642	noun.communication	Radioland
+648	648	verb.communication	arrest
+651	652	noun.location	Les Grillons
+656	656	verb.competition	arrested
+659	659	noun.person	boys
+661	665	noun.group	La Maison des de Roches
+672	672	verb.social	saved
+674	674	noun.person	soldier
+678	678	verb.change	drowning
+680	680	verb.change	drowning
+684	684	verb.possession	saved
+686	686	noun.state	life
+691	691	verb.social	arrested
+698	698	verb.cognition	remember
+700	702	noun.person	Mr. Andre Trocme
+705	705	noun.person	brother
+707	707	verb.stative	was
+709	709	noun.person	pastor
+711	715	noun.location	Chambon - sur - Lignon
+719	720	verb.change	came along
+723	723	verb.stative	were
+731	731	noun.person	parents
+733	734	noun.person	Andre Trocme
+735	735	verb.motion	came
+742	742	verb.cognition	remember
+745	745	noun.quantity	one
+748	748	noun.communication	name
+753	753	noun.person	boys
+756	756	verb.stative	was
+757	757	noun.person	Belgic
+762	762	verb.communication	told
+765	765	verb.motion	escape
+768	768	verb.stative	was
+769	770	noun.person	Jean Sobel
+773	773	verb.stative	was
+774	774	noun.person	Belgic
+776	776	noun.location	Belgium
+780	780	noun.person	parents
+785	785	noun.person	WIZO
+786	786	verb.motion	came
+791	791	verb.motion	took
+795	796	noun.location	Les Grillons
+798	799	noun.location	Le Puy
+805	805	verb.possession	have
+807	807	noun.location	place
+815	815	verb.motion	arrived
+817	818	noun.location	Le Puy
+821	821	verb.possession	had
+823	823	noun.feeling	pleasure
+825	825	verb.social	see
+827	827	noun.person	brother
+830	830	noun.person	brother
+831	831	verb.stative	was
+835	836	verb.motion	came down
+838	838	verb.social	see
+840	840	noun.person	mother
+845	845	verb.emotion	wanted
+847	847	verb.social	see
+849	849	noun.person	parents
+856	856	verb.communication	asked
+859	859	verb.motion	came
+862	863	noun.location	Le Puy
+870	870	verb.motion	stay
+872	873	noun.location	Le Puy
+878	879	verb.contact	looking for
+883	883	verb.motion	escaped
+889	890	verb.contact	looking for
+895	895	verb.body	treated
+907	907	noun.person	brother
+908	908	verb.possession	had
+912	912	noun.act	work
+914	914	verb.social	do
+918	918	verb.stative	were
+929	929	verb.body	treated
+937	937	verb.stative	was
+941	941	noun.person	girl
+943	943	noun.location	Belgium
+945	946	noun.location	Les Grillons
+949	949	verb.stative	was
+952	952	noun.person	kids
+956	956	noun.person	kids
+958	958	noun.person	parents
+959	959	verb.stative	were
+962	962	noun.group	resistance
+965	965	verb.stative	were
+971	971	verb.stative	was
+976	976	verb.social	treated

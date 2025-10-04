@@ -1,0 +1,146 @@
+start_token	end_token	supersense_category	text
+1	1	noun.communication	name
+2	2	verb.stative	is
+3	5	noun.person	Regina Dina Schenkel
+7	7	noun.person	Silverman
+10	10	verb.cognition	think
+12	12	noun.person	lady
+13	13	verb.motion	came
+15	15	verb.contact	picked
+20	20	verb.cognition	think
+22	22	noun.person	lady
+23	23	verb.motion	came
+25	25	verb.contact	picked
+30	30	noun.person	sister
+32	32	noun.person	Ellen
+34	34	noun.person	Nicole
+40	40	verb.stative	were
+43	43	noun.location	Lyon
+45	48	noun.location	La Demi - Lune
+54	54	verb.stative	were
+56	56	noun.location	Hiding
+61	61	verb.cognition	know
+64	64	noun.person	parents
+65	65	verb.stative	were
+73	73	verb.cognition	know
+77	77	verb.cognition	remember
+79	79	verb.stative	was
+84	84	verb.communication	say
+89	89	verb.emotion	want
+91	91	verb.consumption	eat
+97	97	verb.consumption	eat
+102	102	verb.cognition	know
+105	105	noun.person	children
+108	108	verb.stative	were
+110	110	noun.attribute	age
+117	117	verb.cognition	know
+119	119	verb.stative	was
+127	127	verb.cognition	know
+135	135	noun.person	lady
+136	136	verb.motion	took
+139	140	noun.location	Saint- Agreve
+145	145	noun.person	parents
+149	149	verb.cognition	know
+152	152	verb.stative	were
+154	154	noun.person	parents
+157	157	verb.cognition	see
+159	159	noun.person	parents
+160	160	verb.stative	were
+163	163	noun.time	day
+165	165	noun.act	hiding
+170	170	verb.motion	took
+173	175	noun.location	Saint - Agreve
+177	178	noun.location	dans Ardeche
+183	183	noun.location	part
+185	185	noun.location	France
+188	188	verb.stative	was
+192	192	noun.location	Lyon
+195	195	verb.stative	is
+198	198	noun.location	part
+203	204	noun.location	South East
+206	206	noun.location	France
+211	213	noun.location	Saint - Agreve
+218	218	noun.location	place
+220	221	noun.location	Saint- Agreve
+228	228	noun.person	Catholic
+230	230	noun.person	Protestant
+239	239	verb.stative	were
+242	242	noun.person	brother
+243	243	verb.motion	came
+245	245	verb.social	join
+250	250	verb.stative	were
+253	253	noun.location	place
+256	257	noun.location	La Bergerie
+262	262	verb.cognition	recall
+264	264	noun.communication	name
+267	267	noun.person	lady
+272	272	verb.cognition	recall
+276	277	verb.motion	went to
+278	279	noun.location	La Bergerie
+282	282	verb.motion	stayed
+292	292	verb.possession	had
+294	295	noun.communication	identity paper
+298	298	noun.person	brother
+299	299	noun.communication	name
+300	300	verb.stative	was
+301	303	noun.person	Jean Pierre Ladaire
+306	306	noun.communication	name
+307	307	verb.stative	was
+308	309	noun.person	Regina Souvier
+312	312	noun.person	sister
+313	313	verb.stative	was
+314	315	noun.person	Ellen Souvier
+318	319	noun.person	Nicole Souvier
+323	324	verb.motion	going to
+325	325	noun.group	school
+328	328	noun.person	boy
+330	330	noun.person	girls
+334	334	noun.person	brother
+336	336	verb.stative	being
+338	338	noun.person	brother
+340	340	verb.stative	was
+347	347	verb.body	laughing
+354	354	noun.person	boyfriend
+355	355	verb.stative	is
+362	362	noun.person	boyfriend
+367	367	verb.stative	am
+369	369	noun.person	girl
+372	372	verb.stative	was
+376	376	noun.time	years
+382	382	verb.communication	lie
+387	387	verb.communication	say
+389	389	noun.communication	No
+394	394	verb.stative	's
+396	396	noun.person	boyfriend
+402	402	noun.person	brother
+407	407	verb.consumption	eating
+413	413	verb.communication	mean
+416	416	verb.stative	was
+423	423	noun.time	Sunday
+427	428	verb.stative	go to
+429	429	noun.act	church
+432	432	noun.time	Sunday
+439	439	verb.social	took
+441	441	noun.act	communion
+446	446	verb.communication	mean
+450	450	verb.social	took
+456	456	verb.stative	was
+459	459	noun.time	Sunday
+461	461	noun.artifact	church
+465	465	verb.communication	asked
+471	471	verb.possession	take
+473	473	noun.act	communion
+477	477	verb.communication	mean
+480	480	verb.cognition	know
+482	482	noun.person	host
+484	484	noun.act	communion
+489	489	verb.communication	say
+492	492	verb.emotion	like
+496	496	verb.emotion	like
+502	502	verb.consumption	need
+507	507	verb.consumption	need
+510	510	verb.consumption	need
+516	516	verb.communication	say
+519	519	noun.attribute	benefit
+522	522	noun.group	people
+526	526	verb.social	push

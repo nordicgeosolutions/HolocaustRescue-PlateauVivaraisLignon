@@ -1,0 +1,990 @@
+COREF	start_token	end_token	prop	cat	text
+34	3	5	PROP	PER	Nelly Trocme Hewett
+0	9	9	PRON	PER	I
+0	15	15	PRON	PER	My
+61	15	16	NOM	PER	My parents
+35	18	19	PROP	PER	Andre Trocme
+1	23	23	PROP	GPE	France
+62	25	27	NOM	PER	a French father
+63	29	31	NOM	PER	a German mother
+36	34	35	PROP	PER	Magda Grilli
+2	39	39	PROP	GPE	Italy
+64	41	43	NOM	PER	an Italian father
+65	45	47	NOM	PER	a Russian mother
+66	49	49	PRON	PER	We
+3	52	57	PROP	GPE	Le Chambon - sur - Lignon
+0	63	63	PRON	PER	I
+0	76	76	PRON	PER	I
+67	78	81	NOM	PER	a very young girl
+0	86	86	PRON	PER	I
+0	91	91	PRON	PER	I
+3	93	98	PROP	GPE	Le Chambon - sur - Lignon
+0	107	107	PRON	PER	I
+3	109	109	PRON	FAC	it
+68	112	115	NOM	FAC	an elegant little community
+3	117	117	PRON	GPE	It
+69	119	132	NOM	GPE	a very austere community away from everything that looked to me urban or cultured
+0	129	129	PRON	PER	me
+3	134	134	PRON	GPE	It
+70	137	157	NOM	LOC	an area where the climate was rugged , there was no real charm that I could see in the village itself
+0	151	151	PRON	PER	I
+71	155	156	NOM	GPE	the village
+0	162	162	PRON	PER	me
+72	169	173	NOM	PER	a child of that age
+73	175	175	PRON	PER	you
+73	178	178	PRON	PER	you
+73	184	184	PRON	PER	you
+0	195	195	PRON	PER	I
+74	197	205	NOM	PER	the people of Le Chambon - sur - Lignon
+3	200	205	PROP	GPE	Le Chambon - sur - Lignon
+75	207	207	NOM	PER	farmers
+75	210	210	NOM	PER	farmers
+75	212	212	NOM	PER	farmers
+71	216	217	NOM	GPE	the village
+79	219	236	NOM	PER	People who were essentially poor and also poorly dressed , whose lifestyle and eating habits were probably poor
+0	238	238	PRON	PER	I
+74	240	240	PRON	PER	them
+80	243	245	NOM	PER	a handsome people
+81	247	262	NOM	PER	people who , there was a lot of rickets , for instance , not enough fruit
+82	268	271	NOM	PER	A lot of people
+83	271	271	NOM	PER	people
+82	276	276	PRON	PER	their
+82	281	284	NOM	PER	A lot of people
+83	284	284	NOM	PER	people
+86	293	293	PRON	PER	we
+87	296	297	NOM	GPE	that area
+0	300	300	PRON	PER	I
+82	302	302	PRON	PER	them
+88	304	323	NOM	PER	people who seemed quite primitive , as if from the Middle Ages , still carried over from the Middle Ages
+0	325	325	PRON	PER	My
+89	325	326	NOM	PER	My father
+90	329	329	NOM	FAC	there
+91	332	344	NOM	PER	the minister of the Protestant church in Le Chambon - sur - Lignon
+92	335	344	NOM	FAC	the Protestant church in Le Chambon - sur - Lignon
+3	339	344	PROP	GPE	Le Chambon - sur - Lignon
+89	346	346	PRON	PER	He
+93	350	352	NOM	FAC	a new church
+94	354	354	PRON	PER	They
+95	358	359	NOM	PER	a minister
+94	363	363	PRON	PER	they
+89	371	371	PRON	PER	his
+94	375	375	PRON	PER	they
+94	377	377	PRON	PER	they
+89	380	380	PRON	PER	him
+94	382	382	PRON	PER	they
+89	384	384	PRON	PER	his
+89	389	389	PRON	PER	He
+96	396	397	NOM	PER	a rebel
+89	399	399	PRON	PER	he
+97	404	406	NOM	PER	a nonviolent person
+98	409	409	PRON	PER	you
+99	420	420	PRON	PER	our
+83	435	435	NOM	PER	people
+83	444	444	PRON	PER	they
+101	451	453	NOM	PER	The Protestant church
+102	455	473	NOM	PER	people who had beliefs or an attitude that was different from the run of the mill type of belief
+89	476	476	PRON	PER	he
+103	481	482	NOM	ORG	the church
+103	485	486	NOM	ORG	the church
+89	489	489	PRON	PER	he
+105	500	509	NOM	FAC	one of the large Protestant churches in a main city
+106	502	509	NOM	FAC	the large Protestant churches in a main city
+107	507	509	NOM	GPE	a main city
+0	518	518	PRON	PER	I
+108	521	521	NOM	FAC	church
+0	525	525	PRON	PER	my
+89	525	526	NOM	PER	my father
+0	529	529	PRON	PER	I
+0	537	537	PRON	PER	I
+0	542	542	PRON	PER	I
+110	545	547	NOM	PER	the whole family
+99	552	552	PRON	PER	our
+0	558	558	PRON	PER	I
+111	563	563	PRON	PER	it
+99	575	575	PRON	PER	we
+99	580	580	PRON	PER	our
+0	591	591	PRON	PER	my
+61	591	592	NOM	PER	my parents
+0	607	607	PRON	PER	me
+99	613	613	PRON	PER	we
+99	622	622	PRON	PER	we
+1	625	625	PROP	GPE	France
+0	642	642	PRON	PER	I
+113	646	646	NOM	FAC	home
+0	653	653	PRON	PER	my
+61	653	654	NOM	PER	my parents
+0	656	656	PRON	PER	me
+113	658	658	NOM	FAC	home
+61	663	663	PRON	PER	They
+0	666	666	PRON	PER	I
+113	672	672	NOM	FAC	home
+0	676	676	PRON	PER	I
+0	690	690	PRON	PER	I
+0	705	705	PRON	PER	I
+37	722	723	PROP	PER	the Jews
+0	731	731	PRON	PER	my
+117	731	732	NOM	FAC	my home
+0	735	735	PRON	PER	I
+0	737	737	PRON	PER	my
+61	737	738	NOM	PER	my parents
+119	748	748	NOM	PER	Refugees
+38	752	753	PROP	PER	the Germans
+1	755	755	PROP	GPE	France
+120	757	761	NOM	PER	the northern Jews of France
+1	761	761	PROP	GPE	France
+120	768	768	PRON	PER	them
+119	772	772	NOM	PER	refugees
+122	780	780	PRON	PER	we
+123	786	787	NOM	PER	Austrian refugees
+0	790	790	PRON	PER	I
+124	805	815	NOM	PER	people that became larger and larger and more and more refugees
+0	819	819	PRON	PER	I
+125	823	823	PRON	PER	you
+0	825	825	PRON	PER	I
+0	829	829	PRON	PER	I
+0	842	842	PRON	PER	I
+37	846	846	PROP	PER	Jews
+0	852	852	PRON	PER	I
+37	860	860	PRON	PER	they
+119	862	862	NOM	PER	refugees
+37	864	864	PRON	PER	they
+0	868	868	PRON	PER	I
+125	872	872	PRON	PER	you
+127	876	877	NOM	PER	other refugees
+39	883	883	PROP	PER	Jewish
+128	887	912	NOM	PER	people from cities who are looking for a safe place . It was not a matter of the people of Le Chambon - sur - Lignon
+129	889	889	NOM	GPE	cities
+74	904	912	NOM	PER	the people of Le Chambon - sur - Lignon
+3	907	912	PROP	GPE	Le Chambon - sur - Lignon
+131	918	919	NOM	PER	the refugees
+83	921	921	NOM	PER	People
+133	927	930	NOM	FAC	a place to stay
+134	933	934	NOM	PER	one person
+135	936	937	NOM	PER	the other
+0	944	944	PRON	PER	I
+83	947	947	PRON	PER	them
+119	956	956	NOM	PER	refugees
+83	958	958	NOM	PER	people
+138	964	965	NOM	PER	Each person
+139	968	970	NOM	PER	one individual case
+140	984	984	PRON	PER	we
+141	988	989	NOM	PER	a Jew
+140	995	995	PRON	PER	ourselves
+140	998	998	PRON	PER	we
+142	1003	1005	NOM	ORG	the Vichy government
+143	1015	1016	NOM	PER	the occupant
+142	1021	1023	NOM	ORG	the Vichy government
+145	1026	1027	NOM	PER	the Jews
+1	1032	1032	PROP	GPE	France
+145	1038	1038	PRON	PER	they
+145	1047	1047	PRON	PER	their
+145	1050	1050	PRON	PER	They
+145	1065	1065	PRON	PER	they
+140	1077	1077	PRON	PER	we
+140	1087	1087	PRON	PER	We
+4	1093	1093	PROP	GPE	Germany
+5	1095	1095	PROP	GPE	Poland
+6	1097	1097	PROP	GPE	Hungary
+7	1102	1102	PROP	GPE	Austria
+8	1111	1111	PROP	GPE	Belgium
+9	1113	1113	PROP	GPE	Holland
+1	1115	1115	PROP	GPE	France
+142	1123	1125	NOM	ORG	the Vichy government
+37	1128	1128	PROP	PER	Jews
+147	1131	1133	NOM	PER	the whole community
+148	1137	1141	NOM	PER	The leaders of the community
+149	1140	1141	NOM	PER	the community
+0	1145	1145	PRON	PER	My
+61	1145	1146	NOM	PER	My parents
+61	1150	1150	PRON	PER	They
+61	1156	1156	PRON	PER	they
+151	1172	1173	NOM	LOC	the land
+61	1177	1177	PRON	PER	their
+0	1185	1185	PRON	PER	my
+89	1185	1186	NOM	PER	my father
+40	1193	1193	PROP	PER	God
+89	1197	1197	PRON	PER	he
+153	1201	1202	NOM	PER	human beings
+154	1205	1205	NOM	PER	Christians
+155	1207	1207	NOM	PER	one
+151	1217	1218	NOM	LOC	the land
+0	1220	1220	PRON	PER	My
+89	1220	1221	NOM	PER	My father
+89	1229	1229	PRON	PER	he
+89	1241	1241	PRON	PER	He
+89	1246	1246	PRON	PER	He
+89	1254	1254	PRON	PER	He
+158	1260	1262	NOM	PER	the local police
+0	1264	1264	PRON	PER	I
+159	1269	1274	NOM	GPE	the main town in our area
+160	1273	1273	PRON	PER	our
+10	1277	1278	PROP	FAC	Le Puy
+161	1283	1328	NOM	PER	a German officer who was in charge of the area where there was a fresh French prefect who , as French prefect , employee of the government , worked , of course , along with the occupant . And he was indeed arrested by the French
+162	1296	1309	NOM	PER	a fresh French prefect who , as French prefect , employee of the government
+163	1303	1304	NOM	PER	French prefect
+164	1308	1309	NOM	ORG	the government
+143	1318	1319	NOM	PER	the occupant
+89	1322	1322	PRON	PER	he
+41	1327	1328	PROP	PER	the French
+160	1331	1331	PRON	PER	we
+41	1335	1336	PROP	PER	the French
+89	1338	1338	PRON	PER	him
+41	1342	1342	PRON	PER	they
+41	1346	1346	PRON	PER	they
+89	1348	1348	PRON	PER	him
+89	1351	1351	PRON	PER	he
+38	1358	1359	PROP	PER	the Germans
+89	1363	1363	PRON	PER	him
+89	1365	1365	PRON	PER	He
+89	1370	1370	PRON	PER	He
+166	1374	1381	NOM	FAC	an internment camp near Limoges in southwestern France
+11	1378	1378	PROP	GPE	Limoges
+1	1380	1381	PROP	LOC	southwestern France
+89	1383	1383	PRON	PER	He
+90	1386	1386	NOM	GPE	there
+0	1425	1425	PRON	PER	my
+89	1425	1426	NOM	PER	my father
+169	1429	1430	NOM	FAC	the camp
+89	1432	1432	PRON	PER	his
+170	1432	1433	NOM	PER	his friends
+89	1436	1436	PRON	PER	he
+89	1440	1440	PRON	PER	his
+171	1440	1441	NOM	PER	his colleague
+42	1448	1450	PROP	PER	Pastor Edouard Theis
+43	1453	1454	PROP	PER	Monsieur Darcissac
+172	1453	1462	NOM	PER	Monsieur Darcissac the headmaster of the public school in town
+173	1458	1462	NOM	FAC	the public school in town
+174	1462	1462	NOM	GPE	town
+175	1465	1465	PRON	PER	they
+176	1469	1472	NOM	FAC	a university within walls
+175	1474	1474	PRON	PER	They
+175	1479	1479	PRON	PER	they
+175	1484	1484	PRON	PER	they
+175	1494	1494	PRON	PER	They
+177	1497	1499	NOM	PER	the other inmates
+151	1504	1505	NOM	LOC	the land
+175	1516	1516	PRON	PER	they
+169	1523	1524	NOM	FAC	the camp
+175	1530	1530	PRON	PER	they
+0	1544	1544	PRON	PER	I
+13	1553	1553	PROP	GPE	England
+180	1564	1572	NOM	PER	the pastors of Le Chambon - sur - Lignon
+3	1567	1572	PROP	GPE	Le Chambon - sur - Lignon
+3	1574	1579	PROP	GPE	Le Chambon - sur - Lignon
+71	1585	1586	NOM	GPE	the village
+180	1595	1595	PRON	PER	they
+74	1606	1614	NOM	PER	the people of Le Chambon - sur - Lignon
+3	1609	1614	PROP	GPE	Le Chambon - sur - Lignon
+183	1622	1624	NOM	PER	thousands of Jews
+37	1624	1624	PROP	PER	Jews
+184	1628	1630	NOM	GPE	a small community
+185	1634	1634	PRON	GPE	it
+186	1636	1638	NOM	PER	The total community
+187	1642	1643	NOM	PER	3000 people
+188	1645	1646	NOM	PER	2500 people
+189	1652	1653	NOM	GPE	that village
+190	1659	1661	NOM	FAC	the neighboring communities
+14	1664	1664	PROP	GPE	Tence
+15	1666	1667	PROP	FAC	le Mazet
+16	1669	1673	PROP	GPE	Fay - sur - Lignon
+17	1675	1677	PROP	GPE	Saint - Jeures
+18	1679	1681	PROP	GPE	Saint - Agreve
+191	1690	1692	NOM	LOC	a whole area
+192	1694	1695	NOM	LOC	the plateau
+193	1697	1708	NOM	LOC	This elevated plateau south of Saint - Etienne and north of Valence
+19	1702	1704	PROP	GPE	Saint - Etienne
+20	1708	1708	PROP	GPE	Valence
+194	1714	1714	PRON	PER	you
+195	1720	1723	NOM	PER	all these 5000 people
+196	1743	1750	NOM	PER	5000 people who trickled in and settled there
+71	1754	1755	NOM	GPE	the village
+90	1758	1758	NOM	FAC	there
+199	1773	1774	NOM	LOC	other places
+194	1780	1780	PRON	PER	you
+149	1786	1787	NOM	PER	the community
+201	1798	1798	PRON	PER	they
+202	1802	1803	NOM	PER	5000 people
+203	1812	1814	NOM	GPE	the whole area
+44	1825	1826	PROP	PER	Dr Rosowsky
+194	1829	1829	PRON	PER	you
+45	1837	1837	PROP	PER	Plumme
+204	1842	1845	NOM	PER	a very young man
+205	1849	1851	NOM	ORG	a printing shop
+204	1856	1856	PRON	PER	him
+206	1863	1863	NOM	PER	printer
+204	1876	1876	PRON	PER	He
+207	1888	1889	NOM	LOC	the area
+204	1892	1892	PRON	PER	he
+204	1894	1894	PRON	PER	he
+194	1900	1900	PRON	PER	You
+208	1905	1906	NOM	PER	some people
+45	1919	1921	PROP	PER	the same Plumme
+209	1928	1930	NOM	PER	the same person
+194	1935	1935	PRON	PER	you
+0	1946	1946	PRON	PER	my
+210	1949	1950	NOM	PER	nobody there
+141	1953	1954	NOM	PER	a Jew
+212	1965	1972	NOM	PER	the authorities of the Nazis or Vichy France
+21	1968	1969	PROP	ORG	the Nazis
+22	1971	1972	PROP	GPE	Vichy France
+213	1978	1986	NOM	PER	a few people who were collaborators in the village
+71	1985	1986	NOM	GPE	the village
+215	1991	1994	NOM	PER	a real small minority
+213	1998	1998	PRON	PER	they
+0	2006	2006	PRON	PER	I
+213	2010	2010	PRON	PER	they
+213	2013	2013	PRON	PER	they
+213	2022	2022	PRON	PER	they
+83	2029	2029	NOM	PER	People
+203	2032	2034	NOM	GPE	The whole area
+218	2037	2041	NOM	PER	The prefect in Le Puy
+10	2040	2041	PROP	GPE	Le Puy
+46	2044	2045	PROP	PER	Commander Schmahling
+219	2049	2051	NOM	PER	a German commander
+46	2055	2056	PROP	PER	Commander Schmahling
+46	2058	2058	PRON	PER	he
+46	2076	2076	PRON	PER	He
+46	2081	2081	PRON	PER	he
+71	2085	2086	NOM	GPE	the village
+46	2088	2088	PRON	PER	He
+71	2092	2092	PRON	FAC	it
+46	2095	2095	PRON	PER	He
+221	2099	2100	NOM	PER	everybody there
+46	2102	2102	PRON	PER	He
+222	2110	2110	PRON	PER	Your
+223	2116	2116	PRON	PER	mine
+46	2118	2118	PRON	PER	he
+224	2122	2126	NOM	PER	The author of the book
+47	2134	2135	PROP	PER	Philip Hallie
+47	2146	2146	PRON	PER	he
+46	2149	2150	PROP	PER	Commander Schmahling
+46	2155	2155	PRON	PER	his
+46	2159	2159	PRON	PER	his
+225	2159	2160	NOM	PER	his family
+46	2164	2164	PRON	PER	his
+226	2164	2165	NOM	PER	his interpreter
+227	2167	2170	NOM	PER	secretary of the time
+47	2176	2176	PRON	PER	he
+46	2183	2183	PROP	PER	Schmahling
+155	2188	2188	NOM	PER	one
+229	2190	2192	NOM	PER	the typical Nazi
+46	2198	2198	PRON	PER	he
+230	2200	2202	NOM	PER	a perfect Nazi
+149	2210	2211	NOM	PER	the community
+46	2213	2214	PROP	PER	Commander Schmahling
+232	2218	2219	NOM	PER	a gentleman
+46	2223	2223	PRON	PER	he
+24	2230	2231	PROP	ORG	the SS
+233	2233	2233	PRON	PER	you
+46	2236	2236	PRON	PER	he
+234	2240	2242	NOM	PER	the storm troops
+235	2245	2248	NOM	PER	A group of refugees
+119	2248	2248	NOM	PER	refugees
+174	2251	2251	NOM	GPE	town
+25	2254	2255	PROP	FAC	Le Chambon
+26	2256	2259	PROP	GPE	- sur - Lignon
+46	2266	2266	PRON	PER	he
+3	2269	2274	PROP	GPE	Le Chambon - sur - Lignon
+46	2277	2277	PRON	PER	he
+3	2280	2285	PROP	GPE	Le Chambon - sur - Lignon
+46	2290	2290	PRON	PER	he
+46	2304	2304	PRON	PER	he
+46	2318	2318	PRON	PER	he
+46	2323	2323	PRON	PER	He
+46	2334	2334	PRON	PER	he
+238	2337	2343	NOM	PER	The ones who came to our house
+239	2342	2342	PRON	PER	our
+240	2342	2343	NOM	FAC	our house
+241	2345	2385	NOM	PER	the ones who heard that maybe if they went to the presbytery , they might find help , would be directed to places where they could maybe find , you know , help , support , lodging , and so forth
+238	2352	2352	PRON	PER	they
+242	2355	2356	NOM	PER	the presbytery
+238	2358	2358	PRON	PER	they
+238	2369	2369	PRON	PER	they
+243	2374	2374	PRON	PER	you
+244	2388	2390	NOM	PER	many of them
+238	2390	2390	PRON	PER	them
+245	2395	2396	NOM	PER	other people
+239	2398	2398	PRON	PER	we
+242	2405	2406	NOM	PER	The presbytery
+247	2411	2417	NOM	PER	the ones who called to the presbytery
+248	2424	2426	NOM	LOC	many other places
+249	2428	2428	NOM	PER	Some
+208	2430	2431	NOM	PER	some people
+242	2436	2437	NOM	FAC	the presbytery
+252	2441	2445	NOM	PER	other people in the village
+71	2444	2445	NOM	GPE	the village
+208	2447	2448	NOM	PER	Some people
+71	2451	2452	NOM	GPE	the village
+15	2458	2459	PROP	FAC	Le Mazet
+208	2465	2465	PRON	PER	their
+256	2465	2466	NOM	PER	their contact
+208	2469	2469	PRON	PER	them
+243	2472	2472	PRON	PER	you
+3	2475	2480	PROP	GPE	Le Chambon - sur - Lignon
+257	2484	2485	NOM	VEH	the train
+258	2488	2489	NOM	VEH	the bus
+15	2491	2492	PROP	FAC	Le Mazet
+243	2494	2494	PRON	PER	You
+90	2496	2496	NOM	GPE	there
+243	2507	2507	PRON	PER	you
+0	2509	2509	PRON	PER	I
+260	2512	2518	NOM	PER	a great percentage of the people there
+261	2516	2518	NOM	PER	the people there
+243	2527	2527	PRON	PER	You
+262	2530	2531	NOM	PER	the emergency
+243	2534	2534	PRON	PER	your
+263	2537	2538	NOM	PER	each one
+263	2541	2541	PRON	PER	he
+263	2547	2547	PRON	PER	he
+263	2549	2549	PRON	PER	he
+263	2557	2558	NOM	PER	each one
+263	2563	2563	PRON	PER	his
+265	2568	2568	NOM	PER	nobody
+135	2571	2572	NOM	PER	the other
+243	2586	2586	PRON	PER	you
+267	2589	2589	NOM	PER	somebody
+0	2592	2592	PRON	PER	I
+268	2594	2598	NOM	FAC	three houses down from you
+243	2598	2598	PRON	PER	you
+269	2601	2601	PRON	PER	we
+270	2603	2603	NOM	PER	friends
+0	2605	2605	PRON	PER	I
+243	2610	2610	PRON	PER	you
+267	2613	2613	NOM	PER	somebody
+269	2617	2617	PRON	PER	we
+270	2619	2619	NOM	PER	friends
+265	2621	2621	NOM	PER	nobody
+145	2631	2632	NOM	PER	the Jews
+0	2651	2651	PRON	PER	I
+145	2654	2654	PRON	PER	they
+269	2659	2659	PRON	PER	our
+240	2659	2660	NOM	FAC	our house
+493	2663	2665	NOM	ORG	the Catholic Church
+243	2667	2667	PRON	PER	you
+145	2680	2680	PRON	PER	they
+145	2688	2688	PRON	PER	They
+257	2693	2694	NOM	VEH	the train
+0	2703	2703	PRON	PER	I
+275	2711	2720	NOM	PER	so many people in Le Chambon - sur - Lignon
+3	2715	2720	PROP	GPE	Le Chambon - sur - Lignon
+276	2725	2726	NOM	PER	accommodate people
+3	2734	2739	PROP	GPE	Le Chambon - sur - Lignon
+277	2743	2749	NOM	GPE	the few towns which are mainly Protestant
+278	2751	2754	NOM	PER	The Protestants in France
+1	2754	2754	PROP	GPE	France
+278	2761	2761	PRON	PER	their
+279	2765	2765	PRON	PER	you
+279	2769	2769	PRON	PER	your
+279	2772	2772	PRON	PER	your
+279	2789	2789	PRON	PER	your
+280	2807	2811	NOM	PER	the Protestants of central France
+1	2811	2811	PROP	GPE	France
+281	2813	2816	NOM	PER	the descendants of the
+48	2820	2842	PROP	PER	the descendants of the Huguenots , who were very , who have , and they are very aware of persecutions , of course
+282	2823	2824	NOM	PER	the Huguenots
+282	2834	2834	PRON	PER	they
+282	2844	2844	PRON	PER	Their
+283	2844	2845	NOM	PER	Their ancestors
+282	2850	2850	PRON	PER	Their
+284	2850	2866	NOM	PER	Their ancestors who did not flee to Germanic countries or to England or to the United States
+285	2857	2858	NOM	GPE	Germanic countries
+13	2861	2861	PROP	GPE	England
+286	2864	2866	NOM	GPE	the United States
+287	2868	2883	NOM	PER	the ones who decided to stay in France and were actually persecuted by the French kings
+1	2875	2875	PROP	GPE	France
+288	2881	2883	NOM	PER	the French kings
+282	2895	2895	PRON	PER	they
+289	2897	2910	NOM	GPE	one of the most remote , many of the most remote areas of France
+290	2903	2910	NOM	LOC	many of the most remote areas of France
+1	2910	2910	PROP	GPE	France
+291	2915	2918	NOM	LOC	those very remote areas
+27	2920	2922	PROP	LOC	the Massif Central
+292	2924	2928	NOM	LOC	the mountains of central France
+1	2928	2928	PROP	GPE	France
+3	2931	2936	PROP	GPE	Le Chambon - sur - Lignon
+293	2938	2944	NOM	GPE	one of those remote areas still now
+3	2956	2956	PRON	FAC	it
+294	2958	2961	NOM	LOC	a perfect hiding place
+295	2985	2988	NOM	PER	refugees who arrived there
+3	2990	2990	PRON	LOC	it
+296	2991	2994	NOM	LOC	a pretty safe place
+3	2996	2996	PRON	FAC	it
+297	3014	3014	NOM	VEH	transportation
+298	3026	3027	NOM	LOC	those mountains
+282	3032	3032	PRON	PER	they
+261	3035	3037	NOM	PER	the people there
+261	3050	3050	PRON	PER	their
+300	3054	3054	NOM	PER	Huguenots
+301	3058	3059	NOM	PER	these people
+302	3061	3063	NOM	PER	very staunch Protestants
+301	3067	3067	PRON	PER	their
+303	3070	3071	NOM	PER	those people
+301	3074	3074	PRON	PER	their
+304	3090	3178	NOM	PER	the inspiring force behind all this , who was my father , who , as a pacifist , nonviolent , sort of world citizen , if you want , was their pastor , and had given the message long before the war started , when Nazism was already in formation , had given the message and repeatedly taught from the pulpit that you had to obey your conscience in the , in the face , in the face of such disasters , human disasters . So the whole community
+0	3099	3099	PRON	PER	my
+89	3099	3100	NOM	PER	my father
+306	3105	3113	NOM	PER	a pacifist , nonviolent , sort of world citizen
+307	3116	3116	PRON	PER	you
+282	3120	3120	PRON	PER	their
+308	3120	3121	NOM	PER	their pastor
+49	3135	3135	PROP	PER	Nazism
+307	3152	3152	PRON	PER	you
+307	3156	3156	PRON	PER	your
+147	3176	3178	NOM	PER	the whole community
+310	3188	3190	NOM	PER	a good Christian
+307	3194	3194	PRON	PER	you
+311	3196	3198	NOM	PER	a true Christian
+307	3200	3200	PRON	PER	you
+307	3203	3203	PRON	PER	your
+312	3211	3213	NOM	PER	so many Christians
+0	3218	3218	PRON	PER	I
+312	3222	3222	PRON	PER	they
+313	3224	3225	NOM	PER	good Christians
+314	3227	3229	NOM	PER	The good Christian
+315	3231	3233	NOM	PER	the ideal person
+310	3238	3240	NOM	PER	a good Christian
+317	3244	3246	NOM	PER	a perfect Christian
+0	3248	3248	PRON	PER	I
+495	3253	3255	NOM	PER	the Jewish people
+0	3258	3258	PRON	PER	I
+83	3270	3270	NOM	PER	people
+318	3276	3286	NOM	FAC	a school which still exists now , called Le College Cevenol
+28	3284	3286	PROP	FAC	Le College Cevenol
+1	3295	3295	PROP	GPE	France
+319	3297	3297	NOM	FAC	college
+320	3299	3300	NOM	FAC	secondary schools
+318	3302	3302	PRON	PER	It
+321	3305	3315	NOM	ORG	secondary school which follows the national program , the national curriculum
+322	3326	3328	NOM	FAC	the French universities
+323	3336	3336	PRON	PER	you
+324	3340	3341	NOM	FAC	the school
+0	3357	3357	PRON	PER	my
+61	3357	3358	NOM	PER	my parents
+149	3363	3364	NOM	PER	the community
+327	3368	3373	NOM	PER	the bright youngsters from this area
+328	3372	3373	NOM	GPE	this area
+329	3380	3381	NOM	GPE	the cities
+327	3386	3386	PRON	PER	their
+327	3391	3391	PRON	PER	them
+330	3393	3394	NOM	FAC	the universities
+327	3396	3396	PRON	PER	They
+331	3399	3400	NOM	FAC	a school
+332	3402	3422	NOM	FAC	a local school , different from the one that was already there , in order to stay home within the family
+113	3419	3419	NOM	FAC	home
+334	3421	3422	NOM	PER	the family
+0	3425	3425	PRON	PER	my
+61	3425	3426	NOM	PER	my parents
+0	3429	3429	PRON	PER	I
+336	3434	3437	NOM	PER	that group of students
+337	3437	3437	NOM	PER	students
+0	3439	3439	PRON	PER	I
+174	3444	3444	NOM	GPE	town
+0	3447	3447	PRON	PER	my
+0	3463	3463	PRON	PER	my
+61	3463	3464	NOM	PER	my parents
+0	3468	3468	PRON	PER	my
+340	3468	3469	NOM	PER	my mother
+341	3485	3485	NOM	FAC	school
+0	3494	3494	PRON	PER	I
+0	3499	3499	PRON	PER	I
+29	3513	3515	PROP	FAC	the College Cevenol
+342	3519	3520	NOM	FAC	This school
+342	3524	3524	PRON	FAC	it
+1	3533	3533	PROP	GPE	France
+343	3541	3541	NOM	PER	everybody
+344	3559	3561	NOM	FAC	a village school
+345	3565	3567	NOM	ORG	a Protestant school
+346	3570	3572	NOM	ORG	Protestant prep school
+347	3580	3581	NOM	GPE	this village
+0	3586	3586	PRON	PER	my
+89	3586	3587	NOM	PER	my father
+42	3589	3590	PROP	PER	Edouard Theis
+89	3592	3592	PRON	PER	his
+171	3592	3593	NOM	PER	his colleague
+350	3592	3603	NOM	PER	his colleague , who came in also as headmaster of the school
+351	3600	3603	NOM	PER	headmaster of the school
+324	3602	3603	NOM	FAC	the school
+353	3607	3632	NOM	ORG	a school which really taught nonviolence , internationalism , humanitarian causes , and at the same time , taught the regular program of the school system
+354	3631	3632	NOM	ORG	school system
+355	3638	3639	NOM	FAC	that school
+497	3655	3659	NOM	PER	the refugees who came in
+498	3668	3672	NOM	PER	a staff , that staff
+499	3682	3683	NOM	PER	the teachers
+500	3688	3710	NOM	PER	a few Jewish people who were themselves refugees , so , who came there as refugees and found they could have a job
+500	3694	3694	PRON	PER	themselves
+119	3695	3695	NOM	PER	refugees
+90	3701	3701	NOM	GPE	there
+119	3703	3703	NOM	PER	refugees
+500	3706	3706	PRON	PER	they
+504	3723	3727	NOM	PER	the students who were refugees
+119	3727	3727	NOM	PER	refugees
+90	3730	3730	NOM	FAC	there
+119	3735	3735	NOM	PER	refugees
+504	3737	3737	PRON	PER	they
+331	3740	3741	NOM	FAC	a school
+504	3744	3744	PRON	PER	their
+504	3749	3749	PRON	PER	they
+504	3753	3753	PRON	PER	they
+504	3758	3758	PRON	PER	they
+504	3762	3762	PRON	PER	they
+504	3766	3766	PRON	PER	they
+355	3774	3775	NOM	FAC	that school
+131	3781	3782	NOM	PER	the refugees
+511	3789	3792	NOM	PER	a school of 400
+512	3794	3795	NOM	PER	some students
+511	3801	3804	NOM	PER	a school of 400
+512	3806	3807	NOM	PER	some students
+351	3813	3813	PRON	PER	I
+515	3818	3821	NOM	PER	many of my classmates
+351	3820	3820	PRON	PER	my
+516	3820	3821	NOM	PER	my classmates
+517	3823	3823	NOM	PER	Jews
+356	3837	3838	NOM	GPE	that town
+324	3840	3841	NOM	FAC	The school
+358	3846	3847	NOM	FAC	Protestant school
+359	3852	3852	NOM	PER	teachers
+337	3854	3854	NOM	PER	students
+0	3858	3858	PRON	PER	My
+361	3858	3859	NOM	PER	My cousin
+362	3861	3862	NOM	PER	a professor
+0	3875	3875	PRON	PER	me
+324	3881	3882	NOM	FAC	the school
+364	3887	3887	PRON	PER	We
+90	3891	3891	NOM	GPE	there
+0	3899	3899	PRON	PER	my
+89	3899	3900	NOM	PER	my father
+89	3902	3902	PRON	PER	his
+170	3902	3903	NOM	PER	his friends
+368	3910	3910	PRON	PER	you
+119	3915	3915	NOM	PER	refugees
+368	3917	3917	PRON	PER	you
+370	3928	3931	NOM	ORG	the Swiss Red Cross
+371	3937	3943	NOM	ORG	a French refugee service called La Cimade
+372	3955	3956	NOM	FAC	different homes
+373	3960	3961	NOM	FAC	boarding homes
+119	3965	3965	NOM	PER	refugees
+375	3967	3968	NOM	PER	These refugees
+376	3971	3986	NOM	PER	children who had lost their family , for instance , who had no place to go
+376	3975	3975	PRON	PER	their
+377	3975	3976	NOM	PER	their family
+378	3983	3986	NOM	FAC	no place to go
+375	3990	3990	PRON	PER	them
+50	3993	3994	PROP	PER	Jack Lewin
+368	3997	3997	PRON	PER	you
+379	4001	4014	NOM	PER	young people who were actually taken out of French internment camps in southern France
+380	4009	4014	NOM	FAC	French internment camps in southern France
+1	4014	4014	PROP	GPE	France
+381	4018	4021	NOM	FAC	many of those camps
+382	4020	4021	NOM	FAC	those camps
+382	4026	4027	NOM	GPE	those camps
+384	4033	4041	NOM	FAC	those homes where those youngsters were taken care of
+385	4036	4037	NOM	PER	those youngsters
+368	4048	4048	PRON	PER	you
+368	4053	4053	PRON	PER	you
+386	4055	4055	NOM	FAC	homes
+387	4058	4058	NOM	PER	children
+388	4060	4060	NOM	PER	adolescents
+389	4062	4063	NOM	PER	young adults
+375	4068	4068	PRON	PER	them
+390	4070	4074	NOM	FAC	the house of the rock
+389	4082	4083	NOM	PER	young adults
+368	4085	4085	PRON	PER	you
+392	4091	4092	NOM	FAC	these homes
+249	4094	4094	NOM	PER	Some
+394	4110	4114	NOM	PER	a second cousin of mine
+395	4114	4114	PRON	PER	mine
+51	4116	4117	PROP	PER	Daniel Trocme
+396	4121	4125	NOM	PER	a professor in southern France
+1	4125	4125	PROP	GPE	France
+0	4128	4128	PRON	PER	my
+397	4128	4129	NOM	PER	my dad
+35	4133	4133	PROP	PER	Andre
+0	4135	4135	PRON	PER	I
+398	4137	4138	NOM	PER	a teacher
+0	4140	4140	PRON	PER	I
+0	4153	4153	PRON	PER	I
+0	4159	4159	PRON	PER	me
+0	4171	4171	PRON	PER	I
+368	4179	4179	PRON	PER	you
+0	4182	4182	PRON	PER	I
+3	4186	4191	PROP	GPE	Le Chambon - sur - Lignon
+207	4200	4201	NOM	GPE	the area
+0	4204	4204	PRON	PER	my
+89	4204	4205	NOM	PER	my father
+520	4214	4214	PRON	PER	we
+368	4219	4219	PRON	PER	you
+51	4225	4226	PROP	PER	Daniel Trocme
+521	4231	4239	NOM	PER	the director of one of those homes for children
+522	4236	4239	NOM	FAC	those homes for children
+387	4239	4239	NOM	PER	children
+524	4241	4242	NOM	FAC	The home
+30	4244	4245	PROP	FAC	Les Grillons
+525	4250	4251	NOM	PER	many Jews
+526	4255	4256	NOM	FAC	that home
+527	4261	4268	NOM	PER	the director of another one of these homes
+528	4264	4268	NOM	FAC	another one of these homes
+392	4267	4268	NOM	FAC	these homes
+527	4272	4272	PRON	PER	his
+0	4275	4275	PRON	PER	I
+0	4284	4284	PRON	PER	I
+0	4291	4291	PRON	PER	I
+0	4306	4306	PRON	PER	my
+89	4306	4307	NOM	PER	my father
+51	4314	4314	PROP	PER	Daniel
+51	4319	4319	PRON	PER	you
+531	4327	4335	NOM	FAC	that other house called the House of the Rocks
+532	4331	4335	NOM	FAC	the House of the Rocks
+51	4341	4341	PROP	PER	Daniel
+533	4352	4356	NOM	PER	the leader of those houses
+534	4355	4356	NOM	FAC	those houses
+535	4362	4363	NOM	PER	the children
+535	4367	4367	PRON	PER	their
+536	4367	4368	NOM	PER	their father
+537	4370	4370	NOM	PER	mother
+51	4374	4374	PRON	PER	He
+538	4376	4378	NOM	PER	the little ones
+51	4380	4380	PRON	PER	He
+538	4385	4387	NOM	PER	the little ones
+51	4389	4389	PRON	PER	He
+540	4393	4395	NOM	PER	the big ones
+541	4402	4403	NOM	PER	those kids
+29	4415	4417	PROP	FAC	the College Cevenol
+50	4425	4426	PROP	PER	Jack Lewin
+542	4431	4431	PRON	PER	you
+543	4441	4442	NOM	PER	a carpenter
+543	4447	4448	NOM	PER	a carpenter
+301	4462	4463	NOM	PER	these people
+542	4473	4473	PRON	PER	you
+546	4485	4486	NOM	FAC	the farms
+542	4493	4493	PRON	PER	you
+547	4502	4503	NOM	PER	no one
+542	4509	4509	PRON	PER	you
+548	4520	4534	NOM	PER	some of these people who were refugees hidden , you had to find false identification
+549	4522	4527	NOM	PER	these people who were refugees hidden
+550	4526	4527	NOM	PER	refugees hidden
+542	4529	4529	PRON	PER	you
+51	4556	4557	PROP	PER	Daniel Trocme
+399	4561	4565	NOM	PER	the victims of the Holocaust
+400	4567	4567	PRON	PER	we
+3	4577	4582	PROP	GPE	Le Chambon - sur - Lignon
+10	4604	4605	PROP	FAC	Le Puy
+401	4608	4609	NOM	PER	the police
+402	4611	4611	PRON	PER	you
+403	4614	4619	NOM	PER	the Tom Tom of the jungle
+404	4618	4619	NOM	LOC	the jungle
+267	4631	4631	NOM	PER	somebody
+406	4634	4636	NOM	FAC	the town hall
+407	4643	4647	NOM	PER	someone from the underground army
+408	4645	4647	NOM	ORG	the underground army
+83	4666	4666	NOM	PER	people
+410	4670	4671	NOM	LOC	the woods
+83	4674	4674	PRON	PER	they
+10	4693	4694	PROP	FAC	Le Puy
+0	4696	4696	PRON	PER	I
+83	4709	4709	PRON	PER	they
+83	4714	4714	PRON	PER	they
+532	4718	4722	NOM	FAC	the House of the Rocks
+412	4726	4734	NOM	FAC	the second house of which Daniel was the director
+51	4731	4731	PROP	PER	Daniel
+413	4733	4734	NOM	PER	the director
+83	4738	4738	PRON	PER	they
+343	4740	4740	NOM	PER	everybody
+51	4743	4743	PROP	PER	Daniel
+51	4745	4745	PROP	PER	Daniel
+83	4751	4751	PRON	PER	they
+51	4755	4755	PRON	PER	he
+51	4759	4759	PROP	PER	Trocme
+51	4768	4768	PRON	PER	he
+415	4772	4774	NOM	PER	the young people
+415	4778	4778	PRON	PER	them
+51	4780	4780	PRON	PER	He
+415	4786	4786	PRON	PER	them
+31	4790	4790	PROP	GPE	Majdanek
+415	4792	4792	PRON	PER	They
+4	4796	4796	PROP	GPE	Germany
+31	4799	4799	PROP	PER	Majdanek
+416	4801	4803	NOM	PER	the whole group
+416	4805	4807	NOM	PER	the whole group
+0	4809	4809	PRON	PER	I
+418	4815	4815	PRON	PER	We
+24	4819	4820	PROP	PER	the SS
+83	4822	4822	NOM	PER	people
+83	4824	4824	PRON	PER	they
+420	4829	4829	NOM	FAC	camp
+418	4842	4842	PRON	PER	we
+83	4845	4845	PRON	PER	they
+418	4851	4851	PRON	PER	we
+83	4854	4854	PRON	PER	they
+149	4859	4860	NOM	PER	The community
+422	4868	4868	PRON	PER	you
+418	4871	4871	PRON	PER	we
+418	4878	4878	PRON	PER	We
+83	4896	4896	NOM	PER	people
+424	4908	4909	NOM	GPE	the city
+0	4913	4913	PRON	PER	I
+83	4916	4916	PRON	PER	they
+83	4918	4918	PRON	PER	they
+425	4923	4926	NOM	ORG	French police with big
+426	4928	4930	NOM	VEH	a big bus
+83	4933	4933	PRON	PER	they
+427	4935	4936	NOM	PER	one man
+83	4940	4940	PRON	PER	they
+427	4942	4942	PRON	PER	him
+427	4944	4944	PRON	PER	he
+428	4947	4949	NOM	PER	a quarter Jew
+422	4952	4952	PRON	PER	you
+429	4956	4958	NOM	PER	a half Jew
+430	4972	4975	NOM	PER	people that were arrested
+83	4978	4978	PRON	PER	they
+427	4981	4981	PRON	PER	him
+83	4983	4983	NOM	PER	People
+83	4988	4988	PRON	PER	their
+3	4994	4999	PROP	GPE	Le Chambon - sur - Lignon
+432	5008	5009	NOM	PER	a person
+422	5011	5011	PRON	PER	you
+422	5015	5015	PRON	PER	you
+433	5018	5019	NOM	PER	that person
+422	5026	5026	PRON	PER	you
+547	5034	5035	NOM	PER	No one
+422	5041	5041	PRON	PER	you
+422	5049	5049	PRON	PER	you
+422	5054	5054	PRON	PER	you
+422	5059	5059	PRON	PER	you
+422	5063	5063	PRON	PER	you
+435	5090	5096	NOM	PER	a policeman coming from the next town
+436	5094	5096	NOM	GPE	the next town
+422	5099	5099	PRON	PER	you
+0	5102	5102	PRON	PER	I
+422	5106	5106	PRON	PER	you
+83	5122	5122	NOM	PER	people
+245	5124	5125	NOM	PER	other people
+245	5129	5130	NOM	PER	other people
+245	5134	5135	NOM	PER	other people
+422	5137	5137	PRON	PER	You
+0	5143	5143	PRON	PER	I
+0	5146	5146	PRON	PER	I
+441	5149	5150	NOM	PER	an adult
+0	5152	5152	PRON	PER	I
+0	5163	5163	PRON	PER	I
+442	5166	5170	NOM	PER	two or three key people
+0	5171	5171	PRON	PER	I
+442	5181	5185	NOM	PER	two or three key people
+442	5186	5186	PRON	PER	they
+444	5207	5207	PRON	PER	we
+445	5209	5214	NOM	PER	two German Jews in our home
+444	5213	5213	PRON	PER	our
+446	5213	5214	NOM	FAC	our home
+447	5216	5216	NOM	PER	adults
+155	5218	5218	NOM	PER	One
+444	5221	5221	PRON	PER	we
+155	5223	5223	PRON	PER	her
+54	5224	5225	PROP	PER	Madame Berte
+55	5227	5227	PROP	PER	Bertha
+155	5229	5229	PRON	PER	Her
+0	5234	5234	PRON	PER	I
+155	5240	5240	PRON	PER	Her
+449	5240	5241	NOM	PER	Her son
+32	5244	5245	PROP	GPE	New York
+155	5247	5247	PRON	PER	she
+450	5252	5254	NOM	PER	the other one
+56	5256	5257	PROP	PER	Monsieur Collin
+57	5259	5260	PROP	PER	Mr. Cohen
+56	5268	5268	PROP	PER	Collin
+451	5270	5270	PRON	PER	you
+445	5278	5278	PRON	PER	they
+444	5282	5282	PRON	PER	us
+54	5295	5296	PROP	PER	Madame Berte
+452	5298	5299	NOM	PER	the cook
+451	5311	5311	PRON	PER	you
+54	5315	5315	PRON	PER	she
+453	5318	5319	NOM	FAC	the kitchen
+58	5321	5322	PROP	PER	Monsieur Collins
+58	5337	5337	PRON	PER	he
+454	5344	5349	NOM	PER	the maintenance man around the house
+455	5348	5349	NOM	FAC	the house
+444	5353	5353	PRON	PER	we
+456	5355	5363	NOM	PER	French Jewish students who were boarding at my house
+0	5362	5362	PRON	PER	my
+457	5362	5363	NOM	FAC	my house
+444	5365	5365	PRON	PER	We
+444	5368	5368	PRON	PER	ourselves
+537	5381	5381	NOM	PER	mother
+444	5394	5394	PRON	PER	we
+459	5396	5397	NOM	PER	eight children
+460	5399	5402	NOM	PER	youngsters in the house
+455	5401	5402	NOM	FAC	the house
+0	5408	5408	PRON	PER	I
+462	5410	5422	NOM	PER	two who were Jewish and who are still very close friends of mine
+39	5413	5413	PROP	PER	Jewish
+0	5422	5422	PRON	PER	mine
+462	5424	5424	PRON	PER	They
+1	5427	5427	PROP	GPE	France
+0	5430	5430	PRON	PER	I
+462	5432	5432	PRON	PER	them
+0	5436	5436	PRON	PER	I
+113	5438	5438	NOM	FAC	home
+462	5441	5441	PRON	PER	they
+37	5443	5443	PROP	PER	Jews
+37	5445	5446	PROP	PER	French Jews
+33	5448	5448	PROP	GPE	Gruenhut
+33	5450	5450	PROP	GPE	Gruenhut
+59	5452	5453	PROP	PER	Elizabeth Koenig
+60	5455	5456	PROP	PER	Kaufman Koenig
+59	5460	5460	PRON	PER	She
+59	5464	5464	PRON	PER	She
+464	5467	5468	NOM	PER	a student
+59	5470	5470	PRON	PER	She
+465	5473	5475	NOM	PER	an intellectual family
+0	5477	5477	PRON	PER	I
+59	5479	5479	PRON	PER	her
+466	5479	5480	NOM	PER	her father
+467	5482	5483	NOM	PER	a historian
+59	5486	5486	PRON	PER	she
+468	5498	5498	PRON	PER	you
+0	5506	5506	PRON	PER	I
+59	5511	5511	PRON	PER	her
+59	5520	5520	PRON	PER	she
+0	5524	5524	PRON	PER	I
+469	5527	5538	NOM	PER	so many people temporarily , who came through or whom I knew
+0	5537	5537	PRON	PER	I
+0	5541	5541	PRON	PER	I
+0	5546	5546	PRON	PER	I
+59	5548	5548	PRON	PER	her
+59	5556	5556	PRON	PER	her
+59	5561	5561	PRON	PER	her
+470	5564	5564	PRON	PER	our
+240	5564	5565	NOM	FAC	our house
+0	5569	5569	PRON	PER	me
+74	5571	5579	NOM	PER	The people of Le Chambon - sur - Lignon
+3	5574	5579	PROP	GPE	Le Chambon - sur - Lignon
+74	5581	5581	PRON	PER	they
+473	5583	5605	NOM	PER	just decent human beings with a good leader , who happens to be my father . I 'm fortunate to be his daughter
+474	5584	5586	NOM	PER	decent human beings
+475	5588	5590	NOM	PER	a good leader
+0	5596	5596	PRON	PER	my
+89	5596	5597	NOM	PER	my father
+0	5599	5599	PRON	PER	I
+89	5604	5604	PRON	PER	his
+477	5604	5605	NOM	PER	his daughter
+478	5608	5696	NOM	PER	people like my mother , who are fearless , who would implement , implement anything they think is right . And she was the perfect machine . He was the intellectual , the dreamer , okay , the one who inspired people , and she was the mechanism behind it . She knew how to , knew how to implement . Well , maybe , if more people had the nerve to speak like my father did , which was a very courageous stand to take at the time
+0	5610	5610	PRON	PER	my
+340	5610	5611	NOM	PER	my mother
+74	5623	5623	PRON	PER	they
+340	5629	5629	PRON	PER	she
+89	5635	5635	PRON	PER	He
+480	5637	5638	NOM	PER	the intellectual
+481	5640	5641	NOM	PER	the dreamer
+83	5649	5649	NOM	PER	people
+340	5652	5652	PRON	PER	she
+340	5659	5659	PRON	PER	She
+483	5674	5675	NOM	PER	more people
+0	5682	5682	PRON	PER	my
+89	5682	5683	NOM	PER	my father
+483	5699	5700	NOM	PER	more people
+486	5712	5714	NOM	PER	leaders like that
+487	5720	5720	PRON	PER	you
+488	5729	5736	NOM	PER	the people who spoke against the Vietnam War
+489	5743	5744	NOM	GPE	this country
+164	5760	5761	NOM	ORG	the government
+491	5763	5782	NOM	PER	those courageous people who are outspoken and will affirm something that is directly opposed to the law of the land
+491	5797	5797	PRON	PER	themselves

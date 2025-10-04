@@ -1,0 +1,308 @@
+COREF	start_token	end_token	prop	cat	text
+22	3	4	PROP	PER	Hans Salomon
+0	7	7	PRON	PER	I
+1	11	11	PROP	GPE	Rivesaltes
+0	14	14	PRON	PER	I
+0	16	16	PRON	PER	my
+45	16	17	NOM	PER	my girlfriend
+2	20	20	PROP	GPE	Mannheim
+23	22	22	PROP	PER	Ilse
+0	24	24	PRON	PER	I
+0	27	27	PRON	PER	my
+46	34	34	PRON	PER	we
+24	36	37	PROP	PER	Tracy Strong
+24	41	41	PROP	PER	Tracy
+0	44	44	PRON	PER	My
+47	44	45	NOM	PER	My God
+0	48	48	PRON	PER	I
+48	51	51	PRON	PER	you
+46	55	55	PRON	PER	We
+48	61	61	PRON	PER	you
+48	70	70	PRON	PER	you
+49	74	74	NOM	FAC	camp
+0	76	76	PRON	PER	I
+46	81	81	PRON	PER	we
+0	86	86	PRON	PER	I
+48	92	92	PRON	PER	your
+48	98	98	PRON	PER	you
+48	101	101	PRON	PER	your
+50	101	102	NOM	PER	your parents
+48	105	105	PRON	PER	you
+51	109	111	NOM	PER	a young people
+50	116	116	PRON	PER	them
+24	125	126	PROP	PER	Tracy Strong
+48	130	130	PRON	PER	your
+52	136	158	NOM	PER	two more boys from my hometown , Shlomo Schlarnak , I mentioned that name before , and a fellow from Nuremberg , Germany
+0	140	140	PRON	PER	my
+53	140	141	NOM	GPE	my hometown
+25	143	144	PROP	PER	Shlomo Schlarnak
+0	146	146	PRON	PER	I
+54	153	158	NOM	PER	a fellow from Nuremberg , Germany
+3	156	156	PROP	GPE	Nuremberg
+4	158	158	PROP	GPE	Germany
+55	160	160	PRON	PER	we
+52	166	166	PRON	PER	their
+25	171	172	PROP	PER	Shlomo Schlarnak
+26	174	175	PROP	PER	Egon Gruenhut
+27	177	178	PROP	PER	Kurt Moerner
+28	180	181	PROP	PER	Herbert Sterner
+0	184	184	PRON	PER	myself
+55	186	186	PRON	PER	We
+1	190	190	PROP	GPE	Rivesaltes
+5	192	197	PROP	GPE	Le Chambon - sur - Lignon
+6	199	200	PROP	FAC	Le Chambon
+7	201	204	PROP	GPE	- sur - Lignon
+56	206	208	NOM	GPE	a little town
+57	210	213	NOM	LOC	the middle of France
+8	213	213	PROP	GPE	France
+58	216	219	NOM	PER	people that live there
+59	222	222	NOM	PER	Huguenots
+60	224	230	NOM	PER	a splinter group of the Protestant church
+61	228	230	NOM	ORG	the Protestant church
+0	232	232	PRON	PER	I
+1	236	236	PROP	GPE	Rivesaltes
+62	238	238	NOM	VEH	train
+63	240	241	NOM	PER	No one
+55	243	243	PRON	PER	us
+64	246	246	NOM	PER	everybody
+9	251	253	PROP	FAC	Sauf - Conduit
+65	266	266	NOM	PER	nobody
+55	269	269	PRON	PER	we
+66	270	271	NOM	PER	the commando
+67	274	275	NOM	PER	the people
+68	277	278	NOM	PER	the guards
+66	282	282	PRON	PER	they
+66	290	290	PRON	PER	They
+69	292	292	NOM	PER	people
+66	297	297	PRON	PER	they
+66	301	301	PRON	PER	they
+55	309	309	PRON	PER	we
+70	310	311	NOM	PER	five boys
+1	314	314	PROP	GPE	Rivesaltes
+10	316	320	PROP	GPE	Chambon - sur - Lignon
+55	328	328	PRON	PER	we
+71	333	342	NOM	FAC	the train station in Le Chambon - sur - Lignon
+5	337	342	PROP	GPE	Le Chambon - sur - Lignon
+72	346	347	NOM	PER	two fellows
+55	351	351	PRON	PER	us
+72	353	353	PRON	PER	They
+73	358	359	NOM	FAC	a camp
+72	361	361	PRON	PER	They
+73	365	366	NOM	FAC	a camp
+72	370	370	PRON	PER	they
+29	372	372	PROP	PER	Spanish
+72	374	374	PRON	PER	they
+72	384	384	PRON	PER	they
+55	389	389	PRON	PER	we
+55	391	391	PRON	PER	our
+55	396	396	PRON	PER	we
+11	399	401	PROP	FAC	Maison des Roches
+75	405	409	NOM	FAC	the house of the rocks
+76	414	425	NOM	FAC	the home where 24 students lived , and there 's 24 students
+77	417	418	NOM	PER	24 students
+77	424	425	NOM	PER	24 students
+55	427	427	PRON	PER	We
+79	432	433	NOM	GPE	nine countries
+12	435	435	PROP	GPE	Poland
+4	437	437	PROP	GPE	Germany
+13	439	439	PROP	GPE	Belgium
+14	441	441	PROP	GPE	Holland
+15	443	443	PROP	GPE	Lithuania
+80	445	447	NOM	PER	Not all Jews
+81	449	452	NOM	PER	most of them Jews
+80	451	451	PRON	PER	them
+30	452	452	PROP	PER	Jews
+82	454	456	NOM	PER	Most of them
+80	456	456	PRON	PER	them
+31	458	458	PROP	PER	Jewish
+83	461	469	NOM	PER	the people that were in charge of that home
+84	468	469	NOM	FAC	that home
+85	471	473	NOM	PER	nice French people
+83	476	476	PRON	PER	they
+83	481	481	PRON	PER	they
+86	485	485	PROP	PER	Mr.
+32	487	488	PROP	PER	Mrs. Trocme
+87	490	492	NOM	PER	Pastor Andre Trocme
+33	491	492	PROP	PER	Andre Trocme
+87	495	495	PRON	PER	his
+88	495	496	NOM	PER	his wife
+34	497	498	PROP	PER	Magda Trocme
+89	499	499	PRON	PER	They
+87	501	501	PRON	PER	he
+90	505	517	NOM	PER	the clergy of the church in , in Chambon - sur - Lignon
+91	508	509	NOM	ORG	the church
+10	513	517	PROP	GPE	Chambon - sur - Lignon
+92	521	521	PRON	PER	you
+91	524	525	NOM	FAC	the church
+92	551	551	PRON	PER	your
+94	551	552	NOM	PER	your neighbor
+95	556	556	NOM	PER	self
+89	562	562	PRON	PER	they
+89	565	565	PRON	PER	they
+89	569	569	PRON	PER	they
+96	573	573	PRON	PER	us
+89	577	577	PRON	PER	they
+96	579	579	PRON	PER	us
+92	602	602	PRON	PER	your
+94	602	603	NOM	PER	your neighbor
+96	605	605	PRON	PER	ourselves
+35	616	617	PROP	PER	Pastor Trocme
+35	620	620	PRON	PER	His
+98	620	621	NOM	FAC	His Church
+10	626	630	PROP	GPE	Chambon - sur - Lignon
+99	632	633	NOM	PER	5000 Jews
+100	648	656	NOM	PER	people that sheltered Jews and their next door neighbor
+30	651	651	PROP	PER	Jews
+100	653	653	PRON	PER	their
+101	653	656	NOM	PER	their next door neighbor
+100	661	661	PRON	PER	they
+102	665	668	NOM	PER	the next door neighbor
+30	670	670	PROP	PER	Jews
+103	673	674	NOM	PER	these people
+104	692	693	NOM	LOC	this world
+35	695	696	PROP	PER	Pastor Trocme
+16	700	703	PROP	FAC	La Maison des Roches
+96	707	707	PRON	PER	us
+96	710	710	PRON	PER	us
+96	712	712	PRON	PER	we
+5	737	742	PROP	GPE	Le Chambon - sur - Lignon
+105	745	745	PRON	PER	they
+96	750	750	PRON	PER	We
+96	755	755	PRON	PER	we
+106	774	776	NOM	FAC	that place overnight
+96	778	778	PRON	PER	We
+107	782	793	NOM	FAC	farmers in the surrounding area of Le Chambon - sur - Lignon
+108	784	793	NOM	LOC	the surrounding area of Le Chambon - sur - Lignon
+5	788	793	PROP	GPE	Le Chambon - sur - Lignon
+0	796	796	PRON	PER	I
+109	800	801	NOM	PER	a farmer
+36	806	807	PROP	PER	Eugene Cotte
+5	810	815	PROP	GPE	Le Chambon - sur - Lignon
+109	818	818	PRON	PER	he
+0	820	820	PRON	PER	me
+63	824	825	NOM	PER	No one
+0	828	828	PRON	PER	me
+0	830	830	PRON	PER	I
+0	837	837	PRON	PER	I
+16	844	847	PROP	GPE	La Maison des Roches
+96	850	850	PRON	PER	we
+111	867	869	NOM	FAC	one specific room
+112	884	884	PRON	PER	your
+113	884	885	NOM	PER	your farmer
+114	887	891	NOM	PER	the people that shelter you
+112	891	891	PRON	PER	you
+0	899	899	PRON	PER	I
+115	901	901	NOM	FAC	there
+0	909	909	PRON	PER	I
+116	914	914	PROP	PER	Mr.
+37	916	917	PROP	PER	Mrs. Cotte
+117	919	919	PRON	PER	they
+118	921	940	NOM	PER	a son who was a , who was a prisoner in the First World , in the Second World War
+119	929	934	NOM	PER	a prisoner in the First World
+120	942	944	NOM	PER	a German prisoner
+118	947	947	PRON	PER	he
+118	952	952	PRON	PER	he
+0	957	957	PRON	PER	me
+67	959	960	NOM	PER	The people
+0	965	965	PRON	PER	me
+67	968	968	PRON	PER	they
+0	970	970	PRON	PER	me
+0	974	974	PRON	PER	I
+0	978	978	PRON	PER	I
+38	991	992	PROP	PER	the Germans
+38	995	995	PRON	PER	they
+122	997	998	NOM	PER	one person
+122	1002	1003	NOM	PER	one person
+124	1005	1006	NOM	PER	half Jewish
+125	1008	1011	NOM	PER	All the full Jews
+126	1017	1017	PRON	PER	we
+127	1024	1026	NOM	FAC	the Cotte family
+126	1029	1029	PRON	PER	our
+126	1038	1038	PRON	PER	we
+67	1042	1042	PRON	PER	they
+126	1047	1047	PRON	PER	us
+128	1055	1057	NOM	PER	the French Underground
+126	1062	1062	PRON	PER	our
+24	1067	1068	PROP	PER	Tracy Strong
+0	1072	1072	PRON	PER	me
+0	1078	1078	PRON	PER	you
+115	1082	1082	NOM	FAC	there
+24	1085	1085	PRON	PER	We
+0	1089	1089	PRON	PER	you
+18	1091	1091	PROP	GPE	Switzerland
+0	1093	1093	PRON	PER	You
+115	1097	1097	NOM	FAC	there
+24	1099	1099	PRON	PER	we
+67	1110	1110	PRON	PER	they
+24	1122	1122	PRON	PER	We
+18	1128	1128	PROP	GPE	Switzerland
+0	1130	1130	PRON	PER	You
+131	1132	1134	NOM	PER	the Boy Scout
+24	1138	1138	PRON	PER	we
+132	1143	1145	NOM	FAC	the train station
+24	1150	1150	PRON	PER	we
+133	1153	1156	NOM	FAC	one station past Chamonix
+19	1156	1156	PROP	GPE	Chamonix
+19	1158	1158	PROP	GPE	Chamonix
+134	1160	1164	NOM	GPE	a very famous French town
+0	1184	1184	PRON	PER	you
+20	1189	1190	PROP	LOC	the Alps
+39	1223	1224	PROP	PER	Rosh Shoshana
+21	1226	1227	PROP	LOC	Yom Kippur
+24	1230	1230	PRON	PER	we
+20	1232	1233	PROP	LOC	the Alps
+0	1240	1240	PRON	PER	I
+0	1244	1244	PRON	PER	my
+135	1244	1245	NOM	PER	my parents
+0	1248	1248	PRON	PER	I
+10	1255	1259	PROP	GPE	Chambon - sur - Lignon
+24	1263	1264	PROP	PER	Tracy Strong
+24	1266	1266	PRON	PER	us
+0	1274	1274	PRON	PER	you
+0	1278	1278	PRON	PER	you
+0	1285	1285	PRON	PER	me
+0	1290	1290	PRON	PER	I
+0	1294	1294	PRON	PER	you
+0	1297	1297	PRON	PER	I
+0	1304	1304	PRON	PER	I
+8	1311	1311	PROP	GPE	France
+0	1316	1316	PRON	PER	my
+40	1319	1320	PROP	PER	Pierre Stocher
+136	1325	1333	NOM	PER	one man in Le Chambon - sur - Lignon
+5	1328	1333	PROP	GPE	Le Chambon - sur - Lignon
+136	1335	1335	PRON	PER	he
+0	1350	1350	PRON	PER	I
+40	1352	1353	PROP	PER	Pierre Stocher
+0	1355	1355	PRON	PER	I
+40	1362	1362	PRON	PER	his
+0	1365	1365	PRON	PER	I
+0	1368	1368	PRON	PER	I
+0	1374	1374	PRON	PER	I
+137	1377	1378	NOM	PER	the man
+138	1385	1386	NOM	FAC	the underground
+24	1389	1390	PROP	PER	Tracy Strong
+137	1392	1392	PRON	PER	his
+10	1398	1402	PROP	GPE	Chambon - sur - Lignon
+139	1404	1407	NOM	FAC	La Maison des Roches
+140	1409	1422	NOM	PER	some of the students and people that lived in the , in that house
+141	1411	1412	NOM	PER	the students
+142	1421	1422	NOM	FAC	that house
+143	1425	1425	PRON	PER	you
+0	1428	1428	PRON	PER	me
+144	1432	1437	NOM	PER	The second one from the right
+41	1442	1443	PROP	PER	Alfred Khan
+0	1444	1444	PRON	PER	I
+145	1449	1451	NOM	PER	the music man
+41	1453	1453	PRON	PER	He
+146	1462	1466	NOM	PER	some the , this fellow
+42	1468	1468	PROP	PER	Abramovicius
+42	1470	1470	PRON	PER	his
+42	1473	1473	PRON	PER	He
+15	1476	1476	PROP	GPE	Lithuania
+41	1479	1479	PRON	PER	he
+43	1489	1490	PROP	PER	Dr Frisch
+41	1494	1495	PROP	PER	Alfred Khan
+41	1501	1502	PROP	PER	Alfred Khan
+44	1504	1505	PROP	PER	Kurt Baum
+0	1518	1518	PRON	PER	I
+0	1526	1526	PRON	PER	I
